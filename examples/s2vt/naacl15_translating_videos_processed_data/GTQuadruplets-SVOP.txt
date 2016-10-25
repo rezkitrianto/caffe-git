@@ -1,0 +1,1970 @@
+vid1577	bird;water;parrot;parakeet;faucet	take;play;bath;stand;shower	sink;water;bath;faucet;shower	kitchen
+vid1112	aeroplane;airplane;jet;flight;plain	fly;soar;bank;take;fling	air;sky;turn;background;aeroplane	sky
+vid1447	person;holder;spectator;race	flip;roll;push;move;lift	tire;tyre;race;street;weight	road;ground
+vid1338	person;band	play;perform;strum;sit;ply	guitar;patio;outside;party;outdoors	house
+vid49	person;cook	slice;cut;chop;dice;teach	onion;piece;vegetable;tomato;salsa	
+vid1216	person;video;it	apply;put;do;show;make	makeup;face;make;tip;foundation	
+vid755	band;person;crowd;ban	play;perform;show;group;dance	stage;crowd;outside;person;music	stage;road
+vid355	person;rider;horse	ride;horse;gallop;trot;keep	horse;barn;stable;wall;trot	wall;house
+vid1537	person;target;gun;army	shoot;fire;pick;target;aim	target;gun;pistol;revolver;row	
+vid1579	person	play;practise;give;perform;explain	violin;piano;guitar;vibrato;music	
+vid286	person;talk	talk;speak;be;man;chat	phone;telephone;tie;shirt;person	
+vid1561	person;mango;cook;chop;chef	peel;remove;slice;use;show	mango;skin;peeler;fruit;slice	
+vid274	person;stand	shoot;fire;stand;take;spray	gun;rifle;field;train;weapon	garden;sky;mountain;grass;field
+vid514	person;group	jump;dive;play;group;take	water;river;bridge;person;lake	pool
+vid1578	person;card;video	do;play;show;perform;deck	card;trick;deck;magic;hand	
+vid1724	person;player;play;youngster;trio	play;practice;throw;toss;warm	baseball;park;ball;player;catch	garden;road;ground
+vid460	person;cat	push;slide;cat;clean;play	cat;floor;wall;sleep;mop	floor;wall
+vid22	person;sushi;it	decorate;prepare;make;arrange;look	food;plate;octopus;eye;dish	
+vid296	person;pork;port;cook	season;sprinkle;make;grind;spread	meat;pepper;salt;piece;chop	kitchen
+vid748	person;package	tie;put;bundle;stack;wrap	envelope;bundle;stack;band;file	
+vid1175	person;cook;chop	cut;chop;cook;slice;stalk	broccoli;vegetable;stalk;knife;dog	kitchen
+vid1041	dog;bulldog;play	play;chase;push;run;have	ball;field;yard;size;outside	garden
+vid495	person;chef;baker	knead;make;roll;prepare;press	dough;cake;marzipan;hand;video	
+vid762	hamster;rat;mouse;pig;it	eat;stuff;store;take;find	seed;food;cheek;table;nut	
+vid1590	person;trumpet;play	play;blow;sit;trumpet	trumpet;instrument;solo;saxophone;room	house
+vid1653	person;panda;baby;veterinarian;vet	feed;give;drink;bottle;milk	panda;milk;bottle;cage;bear	
+vid721	cat;it;kitten;dog	ride;sit;play;drive;enjoy	vacuum;machine;driver;ride;robot	house;floor
+vid1513	person;stand;jack;chef	drink;glass;take;pour;make	water;glass;drink;liquid;slice	kitchen
+vid448	person;t.v	cut;slice;cook;chop;make	broccoli;knife;vegetable;recipe;cauliflower	
+vid878	dog;beagle;stand;puppy;person	pee;urinate;go;side;dog	boat;water;side;sea;pool	pool;beach;stairs;kitchen
+vid431	cat;kitten;play;object	play;catch;jump;try;dangle	string;rope;ribbon;thread;piece	
+vid1425	person;actress;floor;cloud	dance;perform;carry;be;terrace	stage;gazebo;structure;park;while	stage;house;garden;floor
+vid1194	band;person;star;singer;musician	perform;play;sing;live;change	stage;music;zagreb;white;sort	stage
+vid1066	rabbit;bunny	clean;lick;sit;rub;groom	paw;face;it;door;palm	fence
+vid1619	person;dog;walk	walk;play;train;follow;field	dog;field;person;walk;pet	garden;ground
+vid644	person;heroine;hero;gate	run;hold;lead;sing;feature	ocean;hand;way;street;song	beach;road
+vid822	person	pour;put;add;do;use	car;antifreeze;radiator;coolant;oil	
+vid369	person;show;front	do;perform;ride;jump;flip	scooter;flip;stunt;trick;jump	road
+vid1158	chipmunk;animal;squirrel;hamster;stare	turn;look;stare;give;glare	camera;person;leg;eye;chipmunk	house
+vid462	person;baby;mother;bottle	feed;drink;bottle;give;care	baby;bottle;milk;newborn;video	
+vid1970	person;child	use;play;ride;do;exercise	machine;exercise;equipment;cycle;bicycle	
+vid1850	person	lift;do;exercise;make;use	weight;exercise;dumbbell;muscle;hand	
+vid1519	person;rider;motorcyclist	ride;jump;do;bike;make	motorbike;wood;bicycle;stunt;jump	forest;mountain;beach;sky;ground
+vid984	person;box;teacher	write;move;creep;sit;slide	table;person;letter;notebook;note	
+vid1429	person;one;good;cook	cut;slice;stack;use;start	tortilla;stack;quarter;tomato;knife	house
+vid1153	zebra;herd;group;pack;lot	graze;stand;eat;herd;have	field;zebra;grass;savannah;savanna	garden;grass;field;forest
+vid517	person	kiss;share;do	person;sofa;love	
+vid1072	monkey;orangutan;gorilla;ape;cat	push;sneak;play;snuck;give	monkey;orangutan;person;one;grind	ground;fence
+vid354	dolphin;sun;shark;it;fish	jump;dive;leap;show;rise	water;ocean;air;sea;nature	beach;sky
+vid588	lion;cub;tiger;lioness;cat	climb;jump;try;hang;get	fence;wall;pen;top;ledge	fence;wall
+vid1580	person;band;bob;s;group	play;sing;perform;make;band	guitar;stage;song;music;studio	stage
+vid969	person;cut;cook	cut;slice;ready;sort;prepare	potato;piece;wedge;salad;then	house
+vid1198	person	season;pour;add;sprinkle;put	water;container;bowl;spice;sauce	
+vid174	person;child;player;people;one	do;jump;flip;play;tumble	trampoline;trick;flip;net;thing	stairs;ground;floor
+vid301	person;one;chef	peel;cut;grate;slice;scrape	eggplant;vegetable;brinjal;plant;way	grass
+vid852	person	play;wear	flute;instrument;clarinet;bee;music	
+vid1296	dog;slice	eat;slice;take;piece;hold	watermelon;slice;piece;melon;plate	
+vid1940	person;piano;pianist	play;walk;lot;clip	piano;keyboard;water;room;music	house
+vid1252	hedgehog;animal;rat;pig;cloth	chew;bite;eat;cut;pull	towel;blanket;tooth;cloth;table	
+vid650	car;person;it	drive;come;stop;park;move	street;night;road;car;house	road;house
+vid1689	person;team;player;group;cricketer	play;make;miss;hit;throw	cricket;ball;run;person;match	stage;ground
+vid280	person;cook;coke	put;spread;sprinkle;make;cheese	pizza;cheese;crust;dough	
+vid1038	person;poodle;dish;crack;cook	crack;break;put;make;pour	egg;bowl;it;dog;dish	
+vid387	person;nail	file;shape;use;paint;give	nail;fingernail;board;shaper;shape	
+vid1204	person	fold;piece;make;paper;show	paper;piece;gyroscope;toy;square	
+vid247	aeroplane;airplane;jet;flight;airbus	take;lift;run;fly;be	runway;sky;port;plain;air	sky
+vid826	person;cook	cut;slice;dice;chop;piece	octopus;tentacle;piece;knife;worm	
+vid291	person;onion;dog;chef	add;cook;fry;make;mix	pan;vegetable;carrot;onion;ingredient	
+vid1902	person	carry;man;run;lift;give	person;back;ride;piggyback;guard	
+vid500	person	ride;ski;drive;boat;use	ski;wave;ocean;motorbike;water	beach
+vid170	person;horse;walk;it	walk;lead;take;watch;search	horse;mountain;forest;path;way	mountain;forest;pool
+vid97	person;rice;hand;cook	add;mix;season;bowl;put	rice;bowl;ingredient;sushi;thing	
+vid446	cat;animal;dog	watch;look;sniff;check;bug	bug;grind;floor;crawl;cat	ground;floor
+vid802	person;butcher;chef;cook	cut;slice;chop;piece;section	meat;piece;chunk;beef;slice	
+vid659	elephant;herd;group;chunk	walk;run;herd;group;go	elephant;path;line;hill;trail	mountain;forest;road
+vid1801	person;horse	ride;lead;horse;sit;help	horse;beach;person;ride;shore	beach
+vid319	person;musician;song	play;sing;perform;strum;sit	guitar;stage;audience;stool;song	stage
+vid951	person;cook	stir;cook;mix;rice;make	rice;pot;water;stave;pan	
+vid21	person;rice;food	prepare;make;form;put;rice	rice;it;food;ball;wrap	kitchen
+vid1860	person	push;troll;throw;sit;pull	car;lot;wheel;strength;seat	
+vid169	person;food	pick;pluck;take;remove;make	tomato;garden;plant;vegetable;vine	garden;grass;kitchen
+vid1836	person	clean;remove;wipe;apply;scratch	dvd;cd;scratch;disk;towel	floor
+vid738	cat;kitten;person	hiss;attack;be;growl;stare	camera;person;it;chair;table	
+vid585	person	run;jump;hit;throw;fall	wall;video;it;grind;floor	wall;ground;floor
+vid436	person;play;percussionist;one;band	play;drum;beat;perform;sing	drum;set;song;piano;instrument	
+vid329	dog;pug;puppy;leg;it	walk;stand;pee;do;urinate	leg;handstand;bush;urine;paw	grass;sky;garden
+vid1928	hedgehog;animal;rat;porcupine;max	run;walk;play;push;curl	wheel;treadmill;thing;spinner;second	
+vid1063	person;super;group	play;run;frolic;enjoy;be	beach;ocean;water;sea;wave	beach
+vid1348	cat;water;animal	drink;wash;water;stick;wet	water;sink;head;faucet;basin	
+vid847	person;player;star;s	dunk;put;slam;play;make	basketball;ball;basket;dunk;time	garden
+vid901	person;player;ball	kick;play;make;take;perform	ball;goal;football;soccer;grind	ground;garden
+vid458	person;worker;transformer;lineman;accident	get;electrocute;shock;meet;man	pole;shock;post;poll;accident	
+vid1632	person;dad	climb;rock;complete;use;play	wall;rock;person;gear;challenge	wall
+vid1431	person;it;architecture	draw;sketch;piece;pad;make	paper;pad;piece;picture;leg	
+vid1397	person;hand	do;push;use;take;support	push;hand;pushup;finger;exercise	ground
+vid1376	person;chef;pot;cook	pour;add;make;wine;pan	wine;pot;pan;sausage;sauce	
+vid236	kangaroo;wallaby;marsupial;animal	eat;nibble;play;wander;piece	food;grind;grass;piece;paw	ground;grass;garden;field
+vid42	person;dish	put;boil;cook;place;add	water;spinach;vegetable;pot;leaf	
+vid1509	person;it;video	ride;lay;do;travel;recline	motorbike;road;way;trick;style	road
+vid1778	cat;kitten;it	look;meow;stare;talk;squawk	wall;rainbow;shadow;light;cat	wall
+vid1690	person;milk;chef	pour;add;mix;bowl;milk	milk;bowl;egg;mixture;dish	
+vid1937	child;group;person	sing;group;stand;perform;recite	stage;child;song;person;line	stage;house
+vid423	person;rider;ride;practice;motorcyclist	do;perform;stunt;ride;spin	motorbike;stunt;trick;work;wheeler	road
+vid1018	person;split;chef	cut;slice;gut;cook;open	fish;knife;skin;meat;piece	
+vid547	monkey;person;image	climb;sit;play;monkey;be	statue;sculpture;play;monkey;idol	
+vid1019	person;fish;thumb	cut;open;slice;nick;bleed	fish;knife;thumb;finger;table	
+vid1549	person	peel;break;separate;slice;peal	garlic;clove;skin;onion;head	
+vid1911	kitten;cat	run;meow;walk;look;play	bed;meow;kitten;food;way	house
+vid167	person;take	rollerblade;do;skate;perform;roll	cone;trick;skate;road;pylon	road;fence
+vid1173	person;snowboarder;skier;skate	do;jump;snowboard;perform;cross	trick;snow;snowboard;stunt;rail	snow;mountain
+vid33	person;chef	cut;slice;chop;dice;piece	potato;piece;knife;vegetable;tomato	
+vid1931	person;carrot;chef;spice;dry	sprinkle;season;add;put;slice	carrot;spice;tray;seasoning;dish	
+vid856	person;coach;trainer;sofa	teach;show;play;train;instruct	person;cricket;bat;stance;player	garden
+vid1574	person;john;video;it;clip	ride;drive;sit;clip;go	motorbike;road;movie;scene;luggage	road;garden;ground;grass
+vid782	person;female;water;it;dog	put;stick;butter;hold;play	mouth;butter;stick;dog;packet	kitchen
+vid1830	person;song	row;paddle;sail;travel;ride	boat;canoe;river;water;shore	pool;beach
+vid339	person	set;use;start;put;place	microwave;oven;timer;food;it	
+vid729	animal;rabbit;puppy;panda;monkey	play;chew;bite;sit;hang	chain;car;toy;lap;window	
+vid1133	person;lay;it	cut;slice;love;type;talk	vegetable;shoot;piece;food;tofu	
+vid1628	person;page;body;bath	take;play;bath;enjoy;full	bath;bubble;bathtub;tub;foam	
+vid526	person;tune	play;sing;blow	flute;instrument;music;mozart	
+vid1542	person	make;spread;put;prepare;take	sandwich;bread;mayonnaise;piece;kitchen	kitchen
+vid811	person;snake	feed;play;dangle;hold;try	snake;mouse;rat;food;tale	
+vid631	person;chef	slice;cut;dice;chop;piece	potato;ginger;piece;strip;knife	
+vid1511	person;cook;chef	cut;slice;make;chop;cook	cucumber;vegetable;slice;piece;knife	
+vid1698	person;cat	pet;play;seek;scratch;rub	cat;head;side;person;attention	
+vid110	person;athlete;runner;racer;group	line;ready;stand;wait;start	race;line;person;track;ready	
+vid1114	person;cook;chef	cut;put;slice;make;add	pepper;blender;vegetable;salsa;piece	
+vid1535	person	mix;use;make;whip;prepare	bowl;ingredient;cream;mixer;dip	
+vid1220	person;dancer;indian;dance	dance;perform;do;show;preform	dance;temple;costume;audience;style	
+vid788	person;dog;youngster	pet;play;show;face;stand	dog;camera;leash;wave;person	garden
+vid190	cat;person;booty	walk;wear;play;cat;wobble	table;booty;sock;shoe;mitten	
+vid16	person;piece	slice;cut;make;piece	cucumber;vegetable;zucchini;knife;slice	
+vid1222	person	spread;apply;butter;put;slice	bread;butter;slice;spread;piece	floor
+vid37	person;character;cartoon;group;toy	dance;group;sing;do	person;dance	
+vid1842	person;rider;driver;car	ride;stand;do;perform;drive	motorbike;stunt;wheel;seat;person	road
+vid1946	person;pilot;hand;flight;family	shake;greet;stand;offer;give	hand;person;pilot;flight;aeroplane	
+vid1754	person;group;band;soldier;man	march;group;do;witness;walk	street;road;parade;person;formation	road;ground
+vid935	person;target	shoot;fire;aim;target;gun	target;gun;yard;shoot;range	garden
+vid1805	person;walk;photographer;cameraman	carry;talk;walk;speak;shoot	equipment;tripod;field;shoulder;tip	garden;rain
+vid1167	person;men;one;airplane	fly;throw;launch;play;stand	airplane;aeroplane;air;field;radio	sky;garden
+vid1560	otter;animal;chaos;beaver;step	slide;run;move;play;prance	ice;snow;stomach;iceland	snow
+vid1738	person;song;video;lover	walk;have;talk;play;clip	path;park;garden;arm;wood	garden;forest
+vid1146	person;cook;now	pour;add;cook;pan;water	water;rice;pan;skillet;chop	
+vid379	person;line;group;view;gang	dance;line;group;perform;do	person;stage;dance;line;model	stage
+vid1839	person;play;arm	play;strum;sing;use;man	foot;guitar;leg;arm;star	road
+vid1720	person;a	put;eat;stick;piece;rock	mouth;rock;piece;wood;bark	forest
+vid1264	person;actor;walk;shoot	run;jog;search;hurry;walk	road;street;path;wood;song	road;forest;tree
+vid1358	person;player;video;twenty20;team	catch;play;make;take;hit	ball;catch;cricket;boundary;baseball	sky;garden;field
+vid1279	person;flyswatter	pour;make;prepare;drink;add	cup;glass;shake;milkshake;drink	
+vid428	person;laptop	play;work;use;game;smile	laptop;game;computer;voice;user	
+vid712	bear;beer;sail;lion;animal	slide;push;play;move;wake	ice;snow;leg;head;morn	snow;ground;beach
+vid1116	person;stand;expert	do;exercise;walk;demonstrate;stand	exercise;room;place;workout;video	house;floor
+vid1332	person;child;number;group;baby	play;fight;have;group;hit	yard;person;weapon;war;fight	garden;field
+vid565	person;chef;cook	mix;prepare;make;knead;use	meat;bowl;beef;hand;hamburger	kitchen
+vid1108	person;tornado	run;shoot;swirl;stop;take	tornado;field;twister;storm;footage	rain;garden;ground
+vid1833	elephant;person	play;kick;train;teach;take	ball;elephant;football;soccer;person	
+vid962	person;dog	slice;cut;sit;make;piece	cucumber;knife;vegetable;slice;piece	
+vid1750	person;group;crowd;mob;asian	chase;run;group;walk;crowd	person;street;crowd;briefcase;suitcase	road
+vid1127	person;bicyclist;cyclist;motorcyclist	hit;crash;ride;run;fall	sign;motorbike;bicycle;board;accident	road;grass
+vid185	person;group;cast;performer;dancer	dance;perform;group;do;people	stage;person;dance;costume;routine	stage
+vid1149	person;bag;vendor;scene;hawker	sell;bag;purchase;hand;collect	person;thing;street;item;money	road
+vid1392	person;rat;mouse;hedgehog;bird	hold;put;take;sit;show	hedgehog;hand;animal;water;porcupine	
+vid983	bird;parrot;peacock;parakeet	climb;carry;walk;ball;hold	ball;ladder;beak;mouth;basketball	stairs
+vid1454	person;surya;it;actor	walk;sing;do;wake;line	road;path;wilderness;trail;street	road;ground;mountain;garden;forest
+vid865	person	clean;wash;top;wipe;scrub	freezer;top;box;cooler;appliance	floor
+vid1648	person	apply;put;make;outline;ready	eyeliner;makeup;liner;eye;make	
+vid1582	monkey;orangutan;ape;person;chip	take;remove;strip;get;do	shirt;pants;jeans;cloth;vehicle	stage
+vid1925	panda;bear;animal;person;cat	climb;crawl;try;get;walk	step;stair;road;ledge;time	stairs;road;ground
+vid456	cat;person	jump;nudge;make;watch;push	pole;roof;grind;cat;water	ground;wall
+vid1922	person;fight;male;friend	run;jump;fall;throw;hit	wall;floor;person;vein;it	wall;floor
+vid285	person	jump;climb;perform;hang;swing	wall;bar;pole;stunt;rod	wall
+vid1245	attendant;person;steward;group;flight	close;shut;be;take;roll	door;aeroplane;flight;airplane;person	
+vid1824	person	slice;cut;split;show;give	bun;bread;half;piece;knife	
+vid1742	person;one;chef;cook	lay;put;place;strip;slice	bacon;strip;foil;pan;meat	
+vid1682	person	cry;clip;rest;grieve;weep	person;body;hospital;head;face	
+vid288	person;pineapple	cut;slice;chop;remove;end	pineapple;top;end;bottom;fruit	
+vid1418	pig;hamster;rabbit;rat	eat;nibble;piece;chew;gnaw	carrot;piece;food;cage;floor	floor
+vid595	badger;animal;mouse;mole;batter	dig;burrow;make;hole;open	hole;grind;earth;burrow;sort	ground
+vid1084	person;cook	peel;remove;prepare;scrap;peal	potato;peeler;sandwich;recipe;skin	
+vid309	person;female	play;enjoy	violin;fiddle;instrument;tune;piano	
+vid466	person;group;player;people;team	play;kick;group;put;ball	beach;soccer;football;ball;person	beach
+vid1125	person;hungarian;cook	play;cook;pan;give;sort	piano;note;music;tip;sort	
+vid671	person;chef	put;sprinkle;spread;make;cheese	tortilla;cheese;food;pizza;onion	kitchen
+vid469	person;video;friend	play;sit;sing;entertain;seat	game;sofa;friend;x;video	house
+vid651	person;chop;indium	slice;cut;cook;chop;look	eggplant;vegetable;piece;brinjal;two	grass
+vid1144	person;box	pour;put;cook;rice;box	pan;rice;skillet;box;chop	kitchen
+vid528	smoke;pumpkin;jack;place;monster	come;smoke;emit;pour;place	pumpkin;smoke;eye;mouth;jack	grass;garden
+vid249	person;dance	dance;walk;sing;climb;be	wall;floor;then;room;dance	wall;floor;house
+vid402	person;chef;me	put;make;stuff;form;cook	rice;ball;meat;it;vegetable	
+vid890	dog;puppy;pomeranian;person;it	bark;sit;stand;play;have	camera;screen;room;person;name	house;floor
+vid412	person;dragon;public;performer;people	dance;be;perform;do;wear	costume;street;parade;dance;mask	road
+vid47	person;toad;side;frog	play;rub;tickle;touch;pet	toad;frog;side;finger;person	
+vid77	person;a	stir;pot;mix;cook;contents	pot;chili;spoon;soup;pan	
+vid1963	person;toddler;baby	play;hit;swing;make;try	golf;ball;club;wood;look	forest
+vid1199	person;one;man;content;chef	stir;mix;make;do;season	liquid;bowl;marinade;spoon;water	
+vid1357	car;person;driver	do;drift;drive;spin;skid	car;circle;lot;donut;stunt	road;ground;garden
+vid132	person;vegetable;noodle;chef	break;put;add;fry;crack	egg;pan;wok;vegetable;skillet	
+vid351	person	cut;slice;use;rope;chop	rope;sword;tread;robe;knife	
+vid215	person;reaction;it	eat;read;be;talk;sit	cereal;box;table;person;kitchen	kitchen;house
+vid1255	person;cowboy;rider;shoot	ride;shoot;horse;fire;man	horse;gun;target;pistol;course	ground;sky
+vid1122	person;baby;toy;toddler	play;enjoy;make;listen;hold	toy;keyboard;piano;music;instrument	
+vid1417	person;slide;it	slide;go;ride;swirl;play	slide;water;pool;park;circle	pool;garden;floor
+vid1244	person	play;blow;reach;din;pinpoint	flute;t;song;pinpoint;person	
+vid850	person	jump;run;perform;leap;start	build;roof;street;rooftop;road	road;house;ground;fence
+vid1854	kitten;cat	eat;drink;kitten;lunch;group	food;dish;milk;circle;bowl	floor
+vid1224	child;person;group;baby;adult	dance;perform;group;sing;practice	stage;child;person;dance;program	stage
+vid1141	person;primate	pet;scratch;play;tickle;hold	animal;lemur;pet;monkey;finger	
+vid1452	person;group	do;perform;demonstrate;twirl;swing	sword;crowd;move;demonstration;art	garden
+vid607	person;dog	walk;play;jump;follow;show	dog;person;show;ring;grass	grass;stage;ground;garden
+vid1687	person;play	do;play;kick;toss;maneuver	ball;trick;football;foot;person	sky
+vid202	person;song;it;actor	think;rub;have;lay;hold	hand;mouth;lip;finger;face	
+vid885	person;chef;snake;it;cooke	prepare;cut;skin;kill;scale	snake;cook;head;it;food	
+vid915	person;cook	put;add;boil;drop;pot	water;pasta;pot;spaghetti;noodle	
+vid743	player;person;team;group;one	play;make;shoot;score;lie	basketball;basket;shoot;floor;ball	floor;ground
+vid1611	person;group;cheerleader;it	throw;dance;toss;show;look	pom;air;person;window;shoulder	sky;house
+vid302	person;one;curry;chef	slice;cut;chop;cook	eggplant;vegetable;piece;plant;knife	grass
+vid702	person;cook;chef	stir;pot;make;prepare;cook	soup;pot;broth;vegetable;stave	
+vid980	person;group;surya;song;people	dance;group;sit;do;talk	person;pier;dock;stage;movie	stage;pool;grass;beach
+vid1583	person;slit;open	peel;open;remove;peal;pinch	banana;monkey;end;skin;bottom	
+vid315	dog;puppy;person;chihuahua;animal	pee;urinate;piss;sit;kick	dog;car;mother;leg;dirt	
+vid1708	person;ice;hammer	break;hit;block;smash;chop	ice;block;hammer;cube;axe	
+vid1385	person;group;people;individual	do;exercise;march;show;stamp	exercise;place;person;video;three	house;floor
+vid1767	person;bodybuilder;level;lifter;guard	lift;do;curl;exercise;stand	weight;exercise;barbell;workout;lift	
+vid1140	person;play	play;sing;start;sort	violin;song;stage;sort;concert	stage
+vid1409	person;eye	apply;put;paint;darken;make	eyebrow;makeup;brush;pencil;brow	
+vid1927	person;view	walk;cross;stand;wake;hold	bridge;rope;support;side;river	pool;garden
+vid62	person;water	ski;board;get;surf;play	lake;water;ski;boat;skate	pool;beach
+vid976	person;grind	jump;slide;fall;pole;try	roof;pole;flagpole;grind;rooftop	ground
+vid1120	puppy;dog;it;foot;cat	sit;wag;play;wave;move	step;tail;stair;staircase;sofa	stairs;floor
+vid1057	person	sing;talk;play	microphone;stage;song	stage
+vid590	dog;puppy;stand	play;bark;attack;fight;watch	mirror;reflection;image;dog	
+vid1126	person;peter;make;chef;batter	mix;whisk;prepare;make;stir	crepe;bowl;flour;batter;egg	kitchen;floor
+vid742	dog;retriever;video;pet;person	bark;sit;walk;run;wave	tail;road;retriever;grind;field	road;ground;garden
+vid210	person;day	take;get;grab;bottle;pull	refrigerator;juice;bottle;fridge;drink	
+vid717	person;log;tree	chop;cut;piece;whack;use	wood;machete;branch;piece;log	forest;tree;garden
+vid1064	car;person;stand;people;explosion	explode;blow;blast;shoot;park	car;field;person;gun;target	garden;road;ground;grass
+vid1620	person	run;shoot;fire;charge;wear	target;gun;weapon;shotgun;rifle	
+vid1700	person;lad;item	mix;pour;add;put;make	water;flour;bowl;ingredient;batter	
+vid399	person;fries	cook;fry;make;stir;shred	meat;pan;beef;skillet;food	
+vid1944	person;chef	cut;slice;make;prepare;chop	potato;salad;piece;knife;vegetable	
+vid1155	person;it;cook;blow	start;light;burn;make;blow	fire;twine;bundle;wok;string	
+vid543	person;walk	walk;get;climb;come;go	stair;step;staircase;build;flight	stairs;ground
+vid226	dolphin;person;whale;dog;animal	jump;play;lie;be;sit	person;water;trainer;platform;dolphin	floor
+vid75	person;season;one	add;season;put;cook;pot	chili;powder;spice;bean;pot	
+vid1068	person	lift;pick;front;end;push	car;front;end;buggy;grind	ground
+vid652	person;thief	ride;steal;cycle;bike;sing	motorbike;bicycle;street;road;drive	road
+vid472	person;dog;puppy	play;spin;dog;slide;rotate	dog;floor;puppy;circle;person	floor;ground
+vid1493	person;chef	open;unwrap;make;slice;remove	package;wrapper;food;cheese;packet	kitchen;forest
+vid1050	person;chef;cook	slice;cut;loaf;use;make	bread;knife;loaf;piece;slice	
+vid996	person	dance;perform;group;costume	stage;person;audience;dance;costume	stage
+vid142	bird;parrot;person;it;contestant	talk;speak;hold;make;do	microphone;parrot;it;t.v.;style	
+vid2	person;sunflower	hold;brush;show;talk;rub	sunflower;flower;hand;head;seed	garden
+vid214	person;sailboat;mean;individual;boat	sail;ride;boat;lean;windsurf	boat;sea;sailboat;ocean;water	beach;floor
+vid327	person;dog	ride;dog;go;drive;have	dog;bicycle;back;motorbike;shoulder	
+vid570	squirrel;animal;photojournalist;head	have;stick;get;cup;wear	head;cup;container;squirrel;play	
+vid1065	monkey;person;vet	hold;play;move;grab;bite	monkey;hand;person;finger;limb	
+vid864	person;play;musician	play;flute	flute;instrument;music	
+vid1293	person;master;dancer	dance;perform;teach;show;do	dance;floor;studio;stage;chair	floor;stage;stairs;house
+vid1900	person;scene;movie	run;do;name;flash;switch	road;street;push;tree;person	road
+vid455	wombat;animal;woodchuck;marsupial;hamster	walk;stroll;search;creep;crawl	grind;grass;dirt;yard;patch	ground;grass;garden;road;floor
+vid1609	person;player;game;coach	talk;kneel;play;teach;explain	football;person;field;grind;ball	garden;ground
+vid1356	person;ventriloquist;puppet;skeleton;puppeteer	perform;talk;play;make;work	puppet;skeleton;stage;show;person	stage;house
+vid663	person;teenager;sleep;then;practice	do;get;recline;make;exercise	push;floor;exercise;pushup;gym	floor
+vid304	person;one	peel;cut;take;slice;remove	apple;vegetable;cheese;slice;skin	kitchen
+vid1179	dog;person;toddler;animal;monkey	play;stick;crawl;get;climb	house;person;doghouse;kennel;entrance	house
+vid698	person;pan;chef	pour;add;prepare;make;cook	broth;pot;soup;bowl;pan	
+vid1316	person;cow;box	open;cut;use;slice;box	box;knife;package;tape;carton	grass
+vid1227	person	scale;remove;scrape;fish;descale	fish;scale;knife;skin;tail	kitchen
+vid430	puppy;dog;cat;bulldog;bull	play;fight;wrestle;pounce;try	toy;puppy;piece;paper;object	
+vid1074	person;water	shoot;fire;barrel;fill;drum	water;barrel;gun;rifle;drum	forest
+vid876	baby;person	eat;get;piece;likes;chew	chocolate;chair;bunny;rabbit;piece	
+vid9	person;kidd	dribble;play;bounce;try;practice	basketball;ball;court;gym;video	
+vid1123	person	cut;piece;use;shape;paper	paper;piece;scissors;half;strip	
+vid623	person;chef	slice;cut;block;split;make	tofu;block;butter;half;cheese	
+vid490	person	cut;slice;peel;remove;show	pineapple;fruit;skin;piece;slice	kitchen
+vid441	person;athlete	run;play;foot;weep;sprint	track;hallway;fence;way;hall	fence;kitchen;floor
+vid567	person;photographer;movie;model	take;photograph;picture;strike;shoot	person;picture;photo;model;dancer	
+vid941	person;tourist;there;male	sit;watch;relax;enjoy;wade	beach;water;sand;sea;shore	beach;pool
+vid1697	dog	run;water;walk;motion;dog	water;motion;shore;river;beach	beach;pool;ground
+vid1260	person;s;flute;chanal	play;flute;ring;sing;show	flute;instrument;stage;microphone;person	stage
+vid731	person;break	break;snap;stick;do;try	stick;half;piece;hand;wood	forest
+vid1034	person;rice;dog;cooker	cut;slice;chop;dice;make	garlic;vegetable;slice;shoot;shallot	kitchen
+vid828	person	crack;break;cook;put;pour	egg;bowl;top;kitchen;it	kitchen
+vid600	person;singer	sing;play;show	microphone;stage;music;mike;guitar	stage
+vid366	person;teenager	dance;move;do;rock;shrug	shoulder;side;dance;room;move	house;stairs
+vid1423	person	fold;piece;paper;sheet;make	paper;piece;half;sheet;side	
+vid538	person;waiter;child;chef;smoke	serve;eat;kid;group;emerge	food;person;child;table;plate	kitchen
+vid861	person;speaker	speak;give;talk;make;address	podium;speech;stage;microphone;lecture	floor;stage
+vid1272	person	cut;slice;use;cook;prepare	tomato;cleaver;piece;salad;quarter	house
+vid1009	person;musician	play;perform;give	guitar;stage;show;instrument;friend	stage
+vid153	person;lover	feed;give;put;eat;piece	person;food;mouth;hand;finger	
+vid1809	person;baby	shop;walk;push;show;go	store;shop;person;cart;aisle	
+vid1695	person;cook;chocolate;batter;baker	mix;stir;make;batter;whisk	batter;cake;bowl;chocolate;spoon	kitchen
+vid862	person;song	play;sing;strum;voice;sort	guitar;song;sort;room;play	house
+vid322	person	play;strum;wear;perform	guitar;glass	
+vid891	person	push;throw;move;down	car;truck;suv;vehicle;van	
+vid1386	goalie;person;team;people;goalkeeper	play;block;make;stop;save	soccer;ball;goal;game;football	ground;garden
+vid429	person	go;lie;lay;sleep;pull	bed;sleep;cover;blanket;face	
+vid1035	person;video;make;chef	cut;chop;slice;dice;cleave	garlic;piece;vegetable;onion;knife	
+vid989	person;artist;it;character;cartoon	swing;do;jump;perform;fall	trapeze;net;bar;trick;swing	
+vid1475	pig;hamster;animal;sa;rabbit	eat;seat;pig;feed	leaf;vegetable;grass;vegetation;rind	grass
+vid1705	person;chef	slice;cut;make	potato;vegetable;piece;yam;tendon	
+vid389	tiger;person;lion	jump;attack;play;run;knock	person;trainer;tiger;play;location	garden
+vid1601	person;parachutist;it	jump;parachute;get;put;fly	helicopter;parachute;aeroplane;sunrise;sky	sky
+vid1131	person;me	play;sit	guitar;music	
+vid1382	person;group;people;teenager	dance;group;get	patio;house;person;water;teenager	house
+vid372	person;cut;cook;chop	cut;slice;chop;make;dice	cucumber;zucchini;piece;vegetable;pie	
+vid508	car;person	drive;move;ride;come;pass	car;road;street;traffic	road
+vid76	person;item	add;put;pour;season;prepare	chili;spice;spoon;pot;powder	
+vid1468	person;chop;chicken;way;herb	chop;cut;slice;dice;mince	herb;leaf;vegetable;curry;chicken	
+vid1761	car;person;convertible;vehicle;test	drive;move;run;travel;go	road;driver;car;street;highway	road
+vid11	dog;puppy;husky;pup;stand	be;stand;sit;dog;squeal	cage;pen;husky;puppy;voice	house
+vid1958	dog	bark;dog;welcome;shot;group	fence;cage;house;enclosure;dog	fence;house
+vid1825	dog;person;vacuum;it	attack;play;chase;give;bite	sweeper;vacuum;cleaner;machine;train	
+vid312	cat;person;dog;baby;toddler	jump;knock;walk;attack;fall	person;toddler;baby;bush;jeep	grass;garden;road
+vid1490	person;fries;chef	fry;remove;put;take;cook	shrimp;oil;pot;tempura;seafood	
+vid248	aeroplane;airplane;land;jet;it	land;show;simulate;plane;fly	runway;land;aeroplane;road;earth	road
+vid1848	aeroplane;airplane;jet;flight;airliner	land;taxi;take;run;move	runway;land;grind;track;speed	ground;road
+vid723	dog;canine	catch;jump;fish;dive;come	fish;water;river;lake;mouth	pool;beach
+vid157	person;truck;song	run;race;drive;talk;chase	truck;road;person;van;bus	road
+vid1847	person;coaster;ride;train;build	ride;fly;do;travel;speed	coaster;track;wimp;ride;rank	garden
+vid216	baby;person;toddler;it	laugh;fall;topple;weep;smile	bed;mattress;laugh	
+vid1954	person;baby;place;clip	play;put;sprinkle;throw;pour	flower;head;petal;basket;festival	ground;floor
+vid1938	cat;dog;puppy;floor	play;fight;bat;tease;swat	dog;table;cat;puppy;paw	floor
+vid1381	person;alcohol;it;food	eat;try;taste;express;evaporate	spaghetti;sauce;pasta;kitchen;bowl	kitchen
+vid189	animal;person;mammal;monkey;lemur	bite;chew;play;have;eat	finger;person;mouth;hand;sloth	
+vid697	panda;person;vet;doctor;veterinarian	listen;check;get;examine;move	panda;stethoscope;heartbeat;heart;hand	
+vid282	person;cook	smell;sniff;see;inspect;compare	pizza;smell;knee;food;crust	
+vid1612	person;motorcyclist;rider;motorbike;accident	fall;ride;crash;do;wreck	motorbike;stunt;road;wheel;grind	road;ground
+vid1711	person	lift;back;hold;end;drop	truck;car;end;back;grind	ground
+vid539	person;couple;video;moron;great	kiss;understand;make;flash;mind	light;party;trip;time;person	
+vid1047	person	play;sing	guitar;song;music;instrument	
+vid395	person;egg;chef;jakes;cook	spin;egg;play;show;boil	egg;counter;table;top;countertop	
+vid1389	baby;person;toddler;cream	laugh;eat;smile;follow;play	cone;seat;person;mouse;eye	
+vid745	baby;person;toddler	laugh;sit;giggle;move;baby	sofa;laugh	
+vid127	dog;person;basketball	play;make;dribble;put;bounce	basketball;ball;dog;basket;person	
+vid1882	tortoise;turtle;animal	walk;move;talk;amble;crawl	path;sand;dirt;gravel;forest	forest
+vid409	person;silver	cut;make;slice;wrap;use	paper;seaweed;scissors;sheet;strip	
+vid362	person;baby	play;splash;slap;hit;punch	mud;water;dirt;grind;person	ground
+vid536	person;cook;bread	add;season;put;prepare;make	egg;bowl;toast;spice;pepper	
+vid1789	person	eat;slice;take;enjoy;wear	pizza;slice;food;water;table	
+vid385	person;teacher;scientist;teach	write;teach;put;type;do	board;chalkboard;equation;class;type	
+vid238	person;practice;three;group	dance;sing;play;laugh;joke	room;music;person;home;pajamas	house
+vid1021	person;crack;egg	crack;break;egg;cook;stir	egg;bowl;dog;shell;rice	
+vid364	baby;person	eat;make;take;like;bite	pickle;face;fruit;piece;food	
+vid846	person;cowboy;group;bull	ride;stand;horse;show;sit	horse;time;rodeo;ride;person	stage;ground
+vid44	person;tofu	slice;cut;make;piece;put	meat;piece;pork;knife;dog	kitchen
+vid798	truck;car;person;parent;dad	drive;move;come;work;run	road;street;car;truck;place	road;mountain;house
+vid1965	cat;person;ball	play;knock;bowl;roll;push	ball;toy;figurine;bowl;pin	floor
+vid1049	cow;donkey;calf	eat;chew;graze;grass;hay	grass;hay;field;wad;system	grass;garden;field
+vid1545	horse;group	stand;roll;get;take;search	grind;grass;foot;view;rest	ground;grass
+vid171	kitten;cat;kitty;kit	play;attack;tease;pounce;kitten	shoe;sneaker;pair;mirror	
+vid1512	person;water;chef	put;add;slice;place;drop	water;pitcher;cucumber;slice;jug	
+vid1390	rabbit;bunny;dog;animal	play;sniff;smell;check;paw	rabbit;toy;doll;bunny;animal	floor
+vid1421	person;chef;cook;make;clip	make;pour;ladle;cook;spoon	pancake;batter;griddle;cake;plate	kitchen;floor
+vid860	tree;storm;wind;rain;person	blow;sway;move;fall;weave	storm;tree;wind;rainstorm;rain	rain;sky
+vid1895	person;karate;artist;actor	break;chop;go;stack;row	wood;hand;board;chair;brick	forest
+vid160	person;s	hit;throw;beat;break;strike	person;board;wood;stomach;stick	forest
+vid118	person;costume	draw;face;make;picture;ghost	sheet;face;cloth;shirt;picture	
+vid137	player;person;team;attacker;viewer	make;play;kick;score;push	goal;soccer;ball;match;game	
+vid1892	car;person;hand;vehicle;truck	run;roll;place;lie;have	hand;finger;car;vehicle;tyre	road
+vid310	person;plant;group;grass	carry;lay;catch;fish;walk	fish;grind;grass;it;bush	ground;grass;garden;forest;pool
+vid531	person;wight	lift;pull;pick;end;drop	car;end;grind;back;rear	ground
+vid1654	dog;puppy;fight;one;house	play;fight;tussle;dog;be	bed;puppy;dog;sofa;one	
+vid636	person;actor;pirate;picture;mastodon	talk;speak;perform;play;tell	creature;person;stage;group;costume	stage
+vid910	person;chicken;season;chef	season;prepare;put;pour;cook	chicken;salt;flour;poultry;cook	kitchen
+vid1717	person;it	walk;talk;stroll;hold;move	garden;flower;dress;bunch;arm	garden
+vid1006	person;rider;motorcyclist;motorbike;it	crash;jump;ride;fall;do	motorbike;sand;dune;jump;stunt	sky;mountain
+vid1508	person;pork	fry;place;fries;cook;put	meat;oil;food;piece;pot	
+vid545	person	attack;stab;hit;pull;assault	person;sidewalk;street;grind;car	road;ground
+vid1642	person;horse;rider;jockey;it	fall;ride;knock;stick;stand	horse;rider;grind;while;sand	ground;fence
+vid1829	person;heroine	swim;do;search	water;ocean;swim;sequence	beach
+vid1814	dog;character;cartoon;person;jackson	ride;use;stand;speed;pedal	bicycle;motorbike;road;mask;lot	road
+vid1374	person;jack;chef;a	pour;oil;add;cook;put	oil;pot;pan;stave;saucepan	
+vid273	person;shoot;group;actor	jump;dance;bounce;push;make	machine;wall;restaurant;person;dance	wall;sky
+vid1443	person;player;stand	talk;speak;give;tell;look	camera;trick;field;sport;speech	garden;ground
+vid1383	person;snake;monster;hand;creature	pull;drag;sit;grab;attack	water;person;pier;dock;pool	pool
+vid1458	person;temperature;pan;it;demo	make;cook;prepare;egg;fry	pan;egg;omelet;fry;wok	
+vid830	person;child;baby;leo;bay	dance;play;jump;enjoy;hop	tree;sidewalk;road;park;outside	tree;garden;road;floor
+vid1677	person;whitney;mother;hug;baby	hug;set;stand;play;do	person;son;baby;toddler;house	house;floor
+vid744	person;child;way;furniture;baby	move;play;drag;couple;walk	table;bench;place;it;stripe	house;floor
+vid1731	person	hide;cover;move;shield;use	skateboard;face;bush;board;view	grass;house;garden
+vid544	animal;cat;sloth;play;monkey	hang;play;swing;dangle;climb	rope;string;wire;cord;kind	sky
+vid706	person;trainer;scene;men;creed	run;jog;do;name;be	beach;train;side;movie;jog	beach;pool;ground
+vid1201	person;man;cook;coke	pour;put;bag;pack;marinade	bag;meat;marinade;chicken;sauce	
+vid1837	person;dance	dance;perform;pants	room;bedroom;synchronization;style;pants	house
+vid530	robot;person;video;show;male	kiss;make;show;move;love	love;robot;side;shoot;sequence	
+vid626	person;item	pour;add;put;oil;prepare	oil;pan;skillet;bowl;wok	
+vid451	baby;bay	cry;sleep;wrap;show;scream	bed;back;towel;bath;baby	
+vid867	person;aardvark;kangaroo;animal	feed;eat;put;play;look	aardvark;animal;hand;kangaroo;food	
+vid505	wallaby;kangaroo;person;animal;lick	lick;play;show;stand;touch	hand;arm;person;wrist;wallaby	garden
+vid1306	person;insert	put;clamp;knife;tip;keep	knife;vice;machine;clamp;vise	forest
+vid1093	person;stuff;people;en	push;walk;move;go;cart	cart;wood;forest;luggage;wheelbarrow	forest
+vid1129	person;video;actress	sing;talk;speak;perform;clip	microphone;stage;song;mike;trailer	stage
+vid1897	person;artist	punch;practice;box;kick;do	dummy;box;stick;tree;target	tree
+vid1921	person;group;babe	get;exit;leave;come;wear	cab;taxi;car;person;glass	
+vid1233	person;shooter;sheriff;gunman	shoot;man;get;fire;hit	person;horse;rifle;shoot;rock	forest
+vid18	person;one;it;japanese;chop	slice;cut;piece;dice;box	cucumber;vegetable;zucchini;piece;knife	
+vid17	person;lunch;poodle;cook	slice;cut;show;piece;keep	cucumber;vegetable;piece;knife;zucchini	
+vid1772	person;cut	cut;slice;demonstrate;shape	potato;piece;wedge;slice;knife	house
+vid724	rhinoceros;rhino;hippopotamus;it;hippo	walk;wake;wander;take;stand	path;cave;area;tree;grind	ground;forest
+vid816	person	play;sing;wear	guitar;microphone;music;cap	
+vid1303	cat;it	clean;lick;rub;lay;lie	paw;floor;face;leg;it	floor;stairs
+vid637	band;person;view;silhouette;profile	play;perform;silhouette;display;view	music;guitar;instrument;silhouette;shadow	stage;wall;rain
+vid1335	elephant;stand;person;baby	eat;wrap;grab;walk;pull	tree;leaf;plant;trunk;grass	grass;tree
+vid1785	person;make	apply;put;make;do;give	makeup;face;brush;make;skin	
+vid1092	snake;snack;person	slither;crawl;move;scrawl;run	leaf;grind;wood;way;michigan	ground;grass;forest
+vid649	cat;puppet;car	play;dress;cat;start;sort	keyboard;piano;song;t;sort	
+vid710	person;stand;game;football	kick;play;hit;score;make	ball;goal;football;soccer;post	
+vid1124	person;wallaby;kangaroo;cat;animal	jump;put;get;climb;carry	bag;wallaby;kangaroo;sack;office	floor;road
+vid654	person;hero	pat;try;wake;tell;accost	person;back;wake;wife;sleep	floor
+vid685	baby;person	play;hug;hold;lie;bite	animal;toy;doll;bed;beaver	
+vid1145	person;one	stir;cook;rice;fry;mix	rice;pan;chop;skillet;butter	
+vid582	person;swimmer	swim;race;win;man;have	pool;race;person;water;male	pool
+vid196	person;run	fly;run;lose;play;do	kite;pencil;hillside;hill;hand	mountain;garden
+vid560	dog;it	drive;hold;steer;wheel;use	car;wheel;vehicle;street	road
+vid942	cheetah;tiger;animal;person;panther	chase;run;hunt;race;save	prey;deer;gazelle;animal;tiger	garden;forest
+vid751	dog;it;person;o	open;can;play;eat;try	can;food;mouth;ball;tooth	floor
+vid101	person	whisk;beat;mix;egg;whip	egg;bowl;whisk;spice;dish	
+vid1416	person;tiger;cub;lion	hold;pet;play;make;stroke	tiger;cub;sound;play;person	
+vid1002	aeroplane;person;jet;crowd;raptor	fly;watch;see;perform;soar	sky;air;aeroplane;speed;person	sky;beach
+vid757	person;practice	walk;balance;rope;try;stand	rope;beach;tightrope;wire;net	beach
+vid589	person;it;heroine;hero	dance	field;lake;song;sequence;location	garden;pool
+vid779	person;band;wood;precision;home	cut;piece;use;saw;make	wood;piece;see;machine;bandsaw	forest;house
+vid887	cat;kitten	drink;lick;lap;milk;eat	milk;saucer;plate;water;dish	
+vid346	person;one;item	pour;add;water;talk;make	container;water;jar;pasta;oil	
+vid1323	person	play;sit;sing;change;bench	guitar;bench;violin;tree;israel	tree
+vid1142	person;baby;toddler;stand	drink;water;brush;ask	cup;water;glass;tooth;person	
+vid1616	person;chef	cut;slice;chop;cook;prepare	onion;half;vegetable;strip;soup	
+vid1226	person;teenager	dance;move;sing;be;view	bench;video;school;park;glory	garden
+vid1879	person	do;exercise;stretch;perform;turn	exercise;room;side;arm;weight	house
+vid1393	person;it;body	come;step;stand;sing;open	balcony;house;door;playhouse;song	house
+vid1205	person;player;cricketer;team;member	catch;make;play;take;celebrate	ball;catch;cricket;match;player	ground
+vid1876	person	slice;cut;cook	tomato;vegetable;slice;knife	
+vid1732	person;necklace;group	put;marry;sit;place;wear	person;necklace;neck;ceremony;marriage	
+vid821	person	shoot;lay;fire;aim;lie	rifle;gun;grind;target;stomach	ground;garden
+vid1060	person;group;midget;male;cowboy	ride;group;race;go;chase	horse;person;stagecoach;cowboy;town	
+vid35	person	sing;give;use;talk;stand	microphone;song;studio;mike;sweetie	stage;house
+vid1886	boat;yacht;ship;person;steamer	move;sail;go;cruise;be	water;wave;ship;sea;ocean	beach
+vid568	person;stand	shoot;fire;hold;wear;stand	shotgun;gun;rifle;weapon;target	ground
+vid36	rhino;person;baby;rhinoceros;animal	follow;walk;be;fill	mother;rhino;pen;mom;zoo	grass
+vid1673	person;play	play;flute;enjoy;theme	flute;instrument;theme;song;it	
+vid933	person;rub;lass;female	apply;put;style;do;comb	hair;gel;oil;it;product	
+vid695	person;chef;speed	slice;chop;cut;row;use	mushroom;potato;knife;speed;vegetable	kitchen
+vid140	person;rider;horse;video;name	ride;run;go;gallop;enjoy	horse;ride;road;pathway;path	road
+vid820	person;rider;horse;ride;people	ride;trot;horse;rid;ready	horse;competition;yard;sale;ring	ground;garden
+vid201	person;actor	sing;dance;walk;have;act	person;head;bridge;movement;song	
+vid294	person;food;cook	grate;scrape;cook;shred;grade	cheese;pan;onion;pot;curry	
+vid299	person;pork;cook;chef;a	bread;put;coat;piece;add	meat;piece;curry;flour;crumb	
+vid1448	dog;three;thunder;rottweiler	walk;play;dog;show;make	grass;leg;yard;dog;way	grass;garden;ground;field
+vid1174	person;dog;chop	cut;slice;chop;dice;cook	onion;knife;piece;dog;vegetable	
+vid657	person;morgan	carry;bag;take;bring;hang	bag;can;bottle;room;wastage	house
+vid1257	fox;wolf;animal	walk;step;hunt;stand;look	snow;ice;food;way	snow
+vid991	person;technique;chef	slice;cut;loaf;piece;chop	bread;loaf;knife;piece;technique	
+vid1258	person;toddler;baby	play;hold;stand;pretend	guitar;stage;play;background	stage
+vid859	person	play;teach	guitar;music;lesson;instrument;emotion	
+vid245	person;cook;food;chef	chop;cut;slice;cook;use	knife;herb;vegetable;piece;person	kitchen;grass
+vid227	person	apply;put;do;brush;face	makeup;powder;face;brush;make	
+vid1207	cat	crawl;slide;play;move;be	sofa;back;bed;floor;paw	floor
+vid1853	submarine;torpedo;missile;shuttle;ship	go;hit;blow;destroy;shoot	ship;water;missile;torpedo;boat	beach
+vid1236	animal;rodent;rat;opossum;mammal	walk;search;look;sniff;forage	grind;food;grass;sniff;rat	ground;grass
+vid1953	person;child;group;family;row	eat;serve;sit;leaf;group	food;meal;leaf;child;tea	floor
+vid871	person	sing;play;give;stand;speak	microphone;instrument;stage;suit;speech	stage
+vid1366	elephant;mother;baby;it;group	walk;cross;sneeze;turn;scare	road;elephant;mother;water;sand	road;pool
+vid1606	animal;lemur;sloth;panda;owl	eat;piece;hold;sit;seat	fruit;piece;food;paw;carrot	
+vid348	person	cut;slice;boot;use;chop	boot;sword;shoe;toe;knife	
+vid334	person;traveler;tote;suitcase;male	walk;enter;check;pack;take	hotel;lobby;suitcase;table;luggage	kitchen;house
+vid1232	person;t;hide;look	shoot;man;put;hide;fire	person;horse;rock;rifle;horseback	
+vid488	person;ball;camera	kick;hit;play;knock;shoot	camera;ball;tripod;person;football	ground
+vid370	puppy;dog;chihuahua	play;lie;sit;rest;relax	ball;floor;toy;kind	floor
+vid1595	dog;puppy;kitten;animal	play;wear;run;walk;jump	sofa;dress;seat;romp;tutu	house;ground;floor
+vid293	person;half;dish	cut;slice;chop;dice;cook	onion;vegetable;piece;knife;dish	
+vid1639	person;fighter;wrestler;player;it	fight;slam;throw;wrestle;knock	ring;person;opponent;match;mat	ground;floor
+vid778	cat;head;kitten;it;cay	drink;put;get;play;wet	water;head;bowl;faucet;tap	
+vid1184	goose;swan;person;bird;duck	chase;attack;bite;run;do	person;yard;thing;lake;fisherman	garden;pool
+vid1349	person	stack;place;arrange;type;create	pumpkin;lantern;type;shape;kind	
+vid829	person;chef	beat;whisk;make;scramble;egg	egg;bowl;whisk;it;food	
+vid1276	person;one;mouse;folder;demonstration	create;make;work;operate;open	computer;folder;mouse;file;document	
+vid139	person;rider;horse;damsel	ride;gallop;do;horse;drive	horse;ride;road;trail;saddle	road
+vid407	person;chop;chef	chop;cut;slice;dice;make	onion;vegetable;scallion;piece;japanese	
+vid1890	person;one;half;cream;cook	cut;slice;piece;halve;avoid	mango;fruit;half;knife;piece	
+vid425	person;rider;stunt;motorcyclist;motorbike	do;ride;perform;stunt;take	motorbike;stunt;wheel;bicycle;trick	sky
+vid1613	person;artist;group;scene	draw;paint;piece;add;sort	picture;paper;wall;sketch;piece	wall;house
+vid1163	person;video;ice;cook	stir;mix;cook;dissolve;make	pan;pot;stave;mixture;liquid	
+vid1333	person;worker;pants	play;do;toss;ball;sack	office;ball;sack;trick;foot	
+vid224	person;rabbit;bunny;finger;animal	pet;play;tickle;struggle;get	rabbit;bed;touch;stomach;pet	
+vid1196	person;cook;chef	chop;slice;cut;dice;use	garlic;vegetable;piece;clove;knife	
+vid266	dog	sit;stand;watch;look;lean	counter;shop;store;person;newsstand	
+vid1346	person;car	drive;park;stop;move;hit	car;side;road;lot;while	road;garden
+vid152	car;person;vehicle;hand;truck	run;have;put;take;move	hand;car;vehicle;arm;wheel	road
+vid493	person;cook;chef;one;carrot	slice;cut;chop;piece;use	carrot;vegetable;knife;slice;piece	kitchen
+vid1658	person;it;actor	talk;speak;star;yell;tease	person;movie;scene;good;forehead	
+vid1326	person;load;tourist;men	load;put;pack;travel;keep	car;trunk;luggage;suitcase;jordan	kitchen
+vid340	person;cook	put;close;cover;prepare;cook	lid;container;box;pasta;item	
+vid1119	person;monkey	hold;play;pet;pamper;handle	animal;monkey;lemur;arm;puppy	
+vid1182	person	ride;horse;play;go;walk	horse;beach;shoreline;ride;pony	beach
+vid1704	person;chef;item	cut;slice;make;put;notch	shrimp;piece;knife;cut;vegetable	
+vid1661	person;worker;stunt;steelworker;men	walk;stand;work;climb;perform	structure;site;hook;build;air	sky;wall;floor;fence
+vid1048	animal;lemur;sloth;pet;monkey	eat;hang;back;piece;play	chair;food;egg;back;piece	
+vid150	person;kangaroo	pick;hold;play;carry;pet	kangaroo;hand;person;it;arm	
+vid1939	person	write;piece;paper;use	paper;pencil;piece;word;letter	
+vid470	kitten;cat;meow;it	walk;sniff;play;explore;meow	toy;sofa;flower;table;surroundings	
+vid1607	person;tear;demonstration	tear;make;piece;cut;sheet	paper;piece;knife;sheet;quarter	house
+vid163	person;rider;horse	ride;trot;horse;gallop;practice	horse;fence;stable;train;track	fence;ground
+vid1759	person;actress;song;hood	dance;sing;rock	waterfall;river;water;rock;fall	pool;rain
+vid641	person;it;heroine;hero	ride;give;go;travel;sit	motorbike;person;ride;road;street	road
+vid129	person;puppy;tummy;surprise;dog	hold;talk;pet;tell;show	puppy;dog;hand;person;glass	
+vid1215	cat;person;kitten	fight;play;sit;paw;bat	stool;paw;one;act;war	
+vid1058	cat;kitten;case	scratch;try;get;open;want	box;cake;glass;container;table	floor
+vid1832	monkey;group;chimpanzee;chimp;line	dance;do;group;tap;line	monkey;line;dance;chimpanzee;stage	stage
+vid320	person;performer;elephant;acrobat	run;walk;do;show;present	rope;tightrope;wire;stunt;circus	
+vid1299	person	sharpen;cut;use;whittle;pencil	pencil;knife;wire;help;end	
+vid1370	person;hatter;cup;teacup;sugar	put;drop;be;cup;throw	cup;cube;tea;person;teacup	
+vid1899	person;break;artist	break;kick;hit;fill;pot	pot;water;foot;container;hand	
+vid664	dog;stand;fat	eat;sniff;smell;search;pick	grind;dirt;fart;food;thing	ground;garden;grass;forest;floor
+vid359	car;person;motorbike;robbery;rider	crash;hit;ram;meet;end	motorbike;car;motorcyclist;road;accident	road;ground
+vid43	person;it	cook;put;fry;piece;prepare	meat;pan;pork;pot;piece	
+vid1722	person;piece;cook	cut;slice;dice;piece;get	piece;chicken;meat;knife;flesh	
+vid833	person;baby	scoop;put;cook;take;spoon	avocado;spoon;processor;lime;blender	kitchen;house
+vid1368	person;head;neck;dad;child	bury;talk;play;cover;stick	sand;neck;head;person;grind	ground;beach
+vid1483	person	cut;slice;chop;make;cook	onion;leek;vegetable;piece;noodle	grass
+vid1870	person;horse;it	go;defecate;walk;crawl;shit	horse;head;person;leg;thing	
+vid950	person;chef;jack	pour;put;add;cook;make	rice;pot;water;pan;cooker	
+vid906	turtle;tortoise;goose;animal	walk;move;crack;search;fight	grass;grind;land;goose;dirt	grass;ground;pool;garden
+vid1229	person;gut	play;strum;single;sort;sit	guitar;room;instrument;home;sort	house
+vid648	person;cat;it;monkey	throw;cling;cat;toss;play	cat;rafter;air;roof;person	sky
+vid400	person;it	cook;fry;piece;make;place	fish;pan;piece;meat;salmon	
+vid1959	person	pick;look;bend;ticket;see	card;floor;ticket;it;event	floor
+vid900	band;person;orchestra;group;singer	perform;play;sing;show;live	stage;music;instrument;concert;band	stage
+vid998	person;camera	use;open;repair;take;dismantle	camera;screwdriver;driver;web;charger	
+vid1371	person	fall;tumble;roll;pray;play	mushroom;hole;wonderland;scene;person	stairs
+vid1799	dog;chihuahua;puppy;pet;person	wag;lay;lie;sit;be	bed;tail;wag;dog;rottweiler	
+vid1667	person;cook;cut	slice;cut;make;show;prepare	potato;fries;slice;knife;piece	house
+vid579	baby;person;video;make	smile;laugh;make;face;alternate	face;chair;baby;voice;twist	
+vid31	person	cut;pick;trim;prune;tender	flower;bush;plant;garden;tree	grass;garden
+vid687	person;artist;animal	play;ply;sit	guitar	
+vid317	lion;tiger;person;animal	walk;pace;come;smell;make	pen;grind;grass;enclosure;cage	ground;grass
+vid1714	person;play	play;blow;man;flute	flute;instrument;tune;music;hairdo	
+vid1159	person;wallaby;kangaroo;baby;animal	feed;eat;give;stand;play	kangaroo;hand;wallaby;food;animal	road;field
+vid265	helicopter;it;song	land;fly;right;be;say	roof;pad;build;sky;rooftop	sky
+vid970	person;baby;toddler	ride;play;drive;circle;go	tricycle;circle;patio;motorbike;bicycle	house;field
+vid584	puppet;person;doll;character;toy	talk;speak;perform;wear;make	phone;telephone;helmet;person;call	
+vid888	zebra;herd;animal	run;herd;congregate;set;race	pen;zoo;fence;area;zebra	fence;ground
+vid1871	person;skateboarder;peter;skateboard;tunnel	fall;skate;skateboard;sacrifice;ride	skateboard;stunt;trick;skin;grind	ground;wall;road
+vid747	dog;puppy;it;dachshund	swim;race;win;participate;get	pool;water;race;wiener;stair	pool;stairs;beach
+vid914	panda;animal;mammal;fox;fire	clean;lick;groom;sit;play	tail;tree;tongue;panda;fur	tree;forest
+vid106	cat;kitten	play;roll;eat;attack;wrestle	watermelon;grind;melon;kitten;floor	ground;floor
+vid713	cat;person;baby;toddler;dog	play;scratch;hit;swat;put	baby;toddler;person;head;chair	garden
+vid1917	person	peel;cut;slice;remove;educate	potato;peeler;vegetable;table;slice	
+vid699	person;cook;chicken;chef	put;add;place;cook;pot	chicken;pot;broth;meat;piece	
+vid920	person;pod	chop;slice;cut;dice;shred	garlic;knife;pasta;piece;cheese	kitchen
+vid371	person;dice;cook	cut;slice;chop;dice;prepare	carrot;piece;pie;knife;slice	house
+vid730	person;file	file;arrange;put;search;sort	papers;shelf;book;library;rack	house;beach
+vid200	person;chef	peel;take;peal;slit;slice	onion;skin;orange;fruit;finger	
+vid406	person;cook;chop;chef;video	cut;chop;slice;dice;prepare	onion;piece;vegetable;scallion;slice	
+vid647	person;group;gang;teenager;people	attack;beat;group;man;walk	person;crutch;youngster;town;thug	garden
+vid1943	person;cook;chef	slice;cut;chop;prepare;demonstrate	tomato;piece;taco;knife;vegetable	
+vid705	monkey;restaurant;person;monk	serve;walk;carry;deliver;bottle	bottle;restaurant;wine;waiter;person	kitchen
+vid123	person;way;chef	spread;butter;piece;apply;slice	bread;butter;piece;slice;knife	
+vid103	person;item;product;beautician	comb;style;show;make;brush	hair;mohawk;product;spike;hairstyle	house
+vid1674	squirrel;it;animal	dance;sing;hop;stand;see	grass;video;squirrel;music;lover	grass;garden
+vid1563	puppy;cat;dog;person;who	bite;eat;chew;get;drink	ear;food;bowl;milk;cat	
+vid597	person;teacher	erase;teach;clean;write;wipe	board;chalkboard;person;blackboard;writings	
+vid1007	person;cook;method	cook;make;grill;prepare;cut	grill;meat;pan;beef;skillet	
+vid550	cow;group;herd;sheet;sheep	dance;move;group;bob;bop	cow;field;head;music;pasture	garden;grass;field
+vid1723	train;car;trolley;tram;toy	hit;crash;run;strike;dash	car;track;train;toy;sort	
+vid981	person;play;music;body	play;trumpet;blow;sort;note	trumpet;instrument;tuba;sort;saxophone	
+vid283	person;one;chef	eat;piece;try;slice;taste	pizza;piece;slice;kitchen;th	kitchen
+vid924	person	spin;go;get;rotate;encase	machine;circle;round;shape;chair	
+vid803	ferret;animal;one;number;group	climb;leave;come;play;step	cage;ferret;shelf;net;grind	ground
+vid63	cat;dog	play;amuse;stand;interest;bat	antenna;wire;toy;paw;string	
+vid1719	person	talk;hold;speak;watch;stare	leaf;hand;talk;it	
+vid1294	person;cook;chop	slice;cut;teach;shape;dice	carrot;strip;knife;slice;vegetable	kitchen
+vid908	kitten;cat;meow;kit;feel	meow;sound;hide;sit;give	shoe;roar;lion;sound;cat	
+vid736	person;water;pan;a	drop;put;add;use;pour	pan;water;drop;skillet;liquid	
+vid818	car;person	drive;move;go;come;run	road;car;hill;valley;tree	road;mountain;grass;forest
+vid361	person;group;troupe;dancer;couple	dance;rehearse;group;rest;practice	stage;person;routine;dance;show	stage
+vid365	person;people;director	fight;kick;perform;use;shoot	move;box;style;karate;shoot	
+vid281	person;war	put;prepare;place;make;keep	pizza;oven;tip;paddle;item	
+vid1030	person;cook;oil;egg	cook;scramble;pour;egg;make	egg;pan;skillet;mixture;chopstick	
+vid380	person;women;woman;it;fighter	fight;be;wander;perform;show	sword;fight;person;weapon;sward	house;forest
+vid1440	person;three;s;people;magician	walk;talk;run;gather;do	beach;person;trick;group;volunteer	beach
+vid958	person;rice;cook;cinnamon;chef	sprinkle;put;add;season;bowl	bowl;food;cinnamon;spice;rice	
+vid768	person	shave;apply;put;lather;do	cream;face;brush;shave;soap	
+vid817	person	pour;add;oil;fry;put	oil;pan;skillet;stave;pepper	
+vid1668	baby;person;toddler;chair	push;move;play;walk;chair	chair;floor;room;play;person	floor;house
+vid546	person;pinhead;monster;it;devil	put;nail;get;drive;cut	head;pin;nail;face;it	
+vid679	person;weatherman;reporter;forecaster	give;talk;forecast;show;explain	weather;report;tv;forecast;road	road
+vid1728	person;target;shot	shoot;fire;target;take;stand	target;gun;pistol;wood;range	forest
+vid562	bus;tunnel;people;it;deck	crash;run;hit;smash;top	bridge;overpass;tunnel;top;while	house;road
+vid938	person;skateboarder;wit;trick	do;jump;ride;skate;perform	skateboard;trick;hydrant;stunt;jump	floor;stage;garden;fence
+vid684	person;child	run;chase;group;flee;jump	person;wood;forest;hill;way	forest;mountain;garden;fence
+vid1206	person;drummer	play;beat;want;sing;show	drum;set;music;theory;song	
+vid459	cat;object;kitten	play;jump;catch;try;attack	toy;mouse;rat;object;it	sky
+vid913	person;cook;blend;pepper;mix	put;prepare;blend;add;mix	blender;ingredient;vegetable;recipe;pepper	
+vid1011	person;pizza;life	roll;knead;make;talk;flour	dough;pizza;surface;it;wad	floor;kitchen
+vid1343	person;test;taste;jack	take;slice;remove;piece;pick	pizza;slice;box;piece;it	
+vid1884	cat	jump;walk;sit;play;watch	box;room;tv;top;stunt	house;floor
+vid1449	person;dog;monkey	talk;dress;sit;speak;have	dog;person;costume;suit;play	
+vid879	person;group;video;it;home	paddle;row;ride;make;boat	raft;water;boat;river;person	pool;beach
+vid1894	person	run;jog;work;middle;center	street;road;sunlight;middle;day	road
+vid1869	person	measure;do;give;read;take	ankle;person;leg;venus;thread	
+vid892	person;throw	throw;knife;aim;target;hit	knife;tree;target;board;blade	tree;garden;forest
+vid1345	person;pizza;open;lid	open;lift;box;prepare;contain	box;pizza;lid;thing;slice	
+vid1027	person;pork;cook;clip	cut;slice;piece;make;chop	meat;piece;chicken;rice;slice	kitchen
+vid848	person;broccoli;vegetable;salad	cook;put;move;boil;place	water;broccoli;pot;bowl;vegetable	
+vid1012	dog;puppy;stand;cat	look;play;bark;stare;see	mirror;image;reflection;wave;friend	
+vid812	person;language	do;use;speak;communicate;sign	language;hand;action;song;person	
+vid408	person;chef;leaf;green	cut;slice;chop;dice;leaf	leaf;spinach;piece;vegetable;seaweed	
+vid1846	person;attendant;waiter;one;it	wipe;clean;be;jacket;dust	jacket;person;bathroom;shirt;restroom	kitchen;house
+vid898	person;round;it	shoot;fire;camp;be;aim	gun;pistol;target;range;handgun	sky;forest
+vid558	cat;pussy;person;front;clip	do;roll;flip;play;try	back;somersault;floor;head;flip	floor;wall;house
+vid1557	person	take;picture;photograph;talk;stand	build;picture;photo;photograph;camera	house
+vid1435	tortoise;turtle	walk;move;wake;search;lumber	grind;path;lens;enclosure;build	ground
+vid532	person;star;singer;slayer;guitarist	play;perform;speak;rock;sing	guitar;stage;music;video;song	stage
+vid468	person;lee;group;teacher;fight	fight;group;kick;knock;do	person;group;student;karate;lot	house
+vid104	dog;song;animal	run;play;jump;move;leap	snow;drift;snowdrift;pile;ice	snow
+vid1154	person;chef;omelet	put;place;prepare;cover;towel	plate;towel;bacon;paper;sheet	
+vid952	person;one;cook	stir;mix;cook;take;rice	rice;pot;pan;spoon;food	
+vid1197	dog;person;panda;walk	walk;look;run;follow;trot	sidewalk;panda;person;street;road	road
+vid1533	doctor;person;personnel;patient;it	give;try;do;save;lie	person;hospital;patient;stretcher;cpr	house
+vid542	person;it	play;sit;give	piano;music;keyboard;key;instrument	
+vid1077	person;player;team;people;basketball	play;shoot;make;fake;score	basketball;basket;ball;game;shoot	
+vid934	person;chef	slice;cut;cook;make	onion;soup;knife;piece;half	
+vid377	person;light;match;it;box	light;play;set;match;burn	fire;match;book;matchbook;packet	
+vid1739	person	play;talk;want;help;sit	game;person;carom;table;striker	forest
+vid1180	dog;animal;person;monkey	pull;drag;dog;play;make	person;leash;hill;dog;slope	mountain;garden
+vid1638	person;chef	pour;add;put;cook;make	pasta;sauce;pot;noodle;bowl	kitchen
+vid1341	soldier;person;stand;army	shoot;fire;gun;hold;open	gun;hand;time;weapon;rifle	
+vid635	person;packet	take;remove;box;talk;show	box;package;product;cracker;thing	
+vid1763	officer;person;policeman;cop;police	put;arrest;handcuffs;handcuff;talk	person;handcuffs;wrist;watch;thing	
+vid1641	person;horse;rider;it;jockey	ride;jump;run;go;make	horse;hurdle;course;obstacle;fence	fence;ground
+vid1688	person;ball	do;play;kick;show;perform	ball;football;trick;skill;foot	ground
+vid733	person;us;monkey	hold;show;monkey;tell;speak	monkey;hand;animal;primate;person	
+vid221	person;panel	drill;use;put;screw;piece	wood;screw;hole;drill;wall	forest;wall;house
+vid450	person	pour;add;make;mix;bowl	sauce;meat;beef;bowl;food	
+vid1217	person;audience	play;perform;watch;sing;seat	piano;stage;person;audience;crowd	stage
+vid643	person;line;actor	ride;sing;turn;go;circle	motorbike;person;scooter;song;way	road
+vid541	cat;dog	play;wash;drink;water;scratch	water;sink;paw;basin;toilet	
+vid492	person;song;it;actress;actor	walk;take;stroll;sing;grass	wood;forest;walk;trail;song	forest;grass
+vid420	person;woman;ti	dance;do;walk;tap;stand	road;dirt;dance;video;song	road
+vid1573	person;abraham;motorbike;john;film	ride;drive;sit;chase;bike	motorbike;road;chase;person;abraham	road;garden
+vid1363	person;skunk;animal;it;carry	hold;skunk;sit;show;look	skunk;hand;camera;animal;rat	
+vid1171	cat;kitten;person	play;try;attach;catch;bite	toy;rope;cloth;feather;string	floor
+vid314	monkey;chimpanzee;person;chimp;ape	do;practice;fight;perform;get	art;person;karate;move;monkey	
+vid204	person;mother;leg	bath;wash;put;give;clean	baby;person;leg;lotion;bath	house;ground
+vid1570	rhino;rhinoceros;person;animal	eat;graze;calm;walk;grass	grass;field;rhino;park;grind	grass;garden;ground
+vid1752	person;cook	cut;slice;make;dice;chop	potato;piece;purus;vegetable;half	
+vid1081	penguin;group;flock;hundred;play	walk;group;march;waddle;move	penguin;water;snow;row;ocean	beach;snow
+vid827	person;cut;chef	cut;slice;chop;make;dice	onion;vegetable;leaf;piece;knife	
+vid175	person;comedy;actor	talk;speak;lie;man;be	phone;bed;telephone;while;side	
+vid1559	person;team;player;people;variety	play;kick;pass;reverse;hit	soccer;ball;football;field;team	garden;stage;ground
+vid618	person;rider;mod	do;ride;pop;stunt;perform	motorbike;trick;stunt;wheel;one	
+vid1817	panda;cub;bear;baby;two	play;wrestle;pile;grab;bite	panda;play;one;bamboo	
+vid1225	person	carry;man;pick;do;take	person;shoulder;body;table;back	house
+vid443	person;peel	peel;cook;skin;remove;pull	potato;skin;sink;hand;finger	kitchen
+vid844	person;dice;chop;chef;body	cut;slice;chop;dice;add	carrot;piece;vegetable;pepper;salad	
+vid1715	hamster;rodent;animal;rabbit;person	eat;play;piece;sit;describe	broccoli;piece;hand;while;thumb	
+vid195	person	deal;play;do;perform;place	card;trick;table;spade;king	
+vid1336	bear;walrus;person;animal	fight;play;wrestle;come;attack	snow;kill;bear;wild;ice	snow;garden
+vid1815	elephant;group	throw;kick;take;play;blow	dirt;fence;trunk;dust;bath	fence;sky;forest
+vid112	person;guitar	play;sing;cover	guitar;song;music;manner;instrument	floor
+vid1484	person;dish;chef	slice;make;cut;piece;hear	shrimp;cut;piece;prawn;noodle	
+vid264	person	straighten;brush;use;do;tip	hair;iron;while;tip;teenager	
+vid494	person;boxer;fighter;crowd	fight;box;fistfight;do;be	ring;match;person;box;wrestler	kitchen
+vid965	person;cut;roll;one	cut;chop;slice;leaf;roll	leaf;stem;herb;piece;person	
+vid80	person;chef	blow;taste;eat;spoon;cool	chili;spoon;food;it;spoonful	
+vid1344	person;pizza;one;jack	remove;take;pick;peel;pull	pizza;pepperoni;slice;piece;test	
+vid964	person;chef	squeeze;water;cook;drain;wring	water;cucumber;slice;juice;vegetable	
+vid1115	person;cook;top;recipe;it	clean;wipe;top;dry;cook	top;surface;sponge;counter;appliance	floor
+vid1016	person;series;it;hand	throw;drop;slice;cut;hold	tomato;knife;it;half;blade	
+vid1331	person;play;people;count	play;show;be;kid;game	tennis;ping;table;pong;person	
+vid728	person;player;khan	give;speak;talk;deliver;spirit	speech;podium;cricket;lecture;spirit	floor;stage
+vid555	person;stand;foot	scrub;clean;brush;bottom;sole	foot;toothbrush;bottom;brush;sole	
+vid638	person;chef	cut;slice;loaf;bread;prepare	bread;loaf;half;knife;bun	
+vid1597	person	cut;fat;trim;remove;rack	meat;fat;rib;rack;piece	kitchen
+vid1339	ant;group;two;swarm;colony	eat;gather;swarm;group;show	food;ant;flesh;egg;piece	
+vid1623	person;rider;motorcyclist	ride;drive;motorcycle;race;play	motorbike;highway;road;freeway;speed	road
+vid165	person	jump;do;walk;hop;stand	hand;trick;stunt;handstand;fountain	ground;floor
+vid703	person;soup;here;cook;chicken	open;can;pour;empty;add	can;soup;bowl;tin;pull	
+vid471	cat;dog;person;kitten;puppy	play;tap;touch;sit;tease	dog;head;puppy;paw;lap	floor
+vid1147	person;cook;chef	put;add;cook;place;set	pan;meat;chop;skillet;pork	
+vid178	dog;puppy;pie;fight	play;fight;wrestle;pin;hug	floor;dog;one;wear;time	floor;house;ground
+vid1028	person;poodle	cut;slice;make;piece;cook	meat;chicken;piece;sort;slice	
+vid383	person	cut;fat;trim;snip;piece	fat;chicken;meat;piece;skin	
+vid926	hedgehog;animal;rodent;rat;picture	sniff;lick;sit;work;wiggle	nose;lip;air;camera;floor	sky;floor;house
+vid4	person;sword;stab	stab;run;thrust;stick;put	sword;target;photo;picture;cutout	
+vid156	person;truck;who;u	run;race;chase;outrun;get	truck;it;road;vehicle;way	road
+vid417	person;paper;bow	cut;make;roll;tube;use	paper;scissors;roll;tube;pair	
+vid1834	person	play;practice;sort;note	piano;sort;note;music;keyboard	
+vid1571	person;mem;man	hide;watch;spy;see;walk	person;bush;walk;street;spy	grass;road
+vid523	person;actor	play	saxophone;instrument;sax;music;tuba	house
+vid1090	person;hunter;deer;animal;shooter	walk;shoot;examine;approach;inspect	deer;kill;dear;animal;ship	ground;forest
+vid1033	person;chef	slice;cut;make;chop;demonstrate	mushroom;egg;slice;video;vegetable	
+vid289	person;chef;cook;cut	cut;roll;prepare;make;slice	dough;piece;ball;wheat;portion	
+vid347	person;target;fire	shoot;fire;use;target;shut	gun;rifle;target;range;practice	
+vid1515	baby;doctor;person;toddler;nurse	get;give;inject;receive;put	shoot;baby;injection;arm;vaccination	
+vid1372	person;one	fall;run;play;slide;race	floor;bench;play;it;hall	floor;kitchen
+vid1457	person;cliff	dive;jump;do;fall;die	cliff;water;river;rock;dive	beach;pool;mountain
+vid911	person	push;throw;pull;truck	van;vehicle;car;road;bus	road
+vid6	person;youngster	play;sit;practice;sing;do	piano;song;room;key	house
+vid1302	person;motorbike;ad	ride;motorcycle;bike;drive;water	motorbike;beach;water;wave;shore	beach
+vid774	person;smoke	smoke;take;taste;puff;touch	cigarette;sorrow;sofa;face;drag	
+vid704	duck;duckling;person;chick;bud	walk;run;romp;play;waddle	grass;yard;garden;open;food	grass;garden
+vid267	person;play	play;blow;flute	flute;song	
+vid133	person;cook;john;fries	slice;cut;chop;make;use	potato;fries;piece;strip;knife	
+vid1095	person;watch;stand	look;ride;be;stand;see	boat;ocean;ship;sea;island	beach
+vid524	zebra;pair;friendship	play;fight;run;push;nuzzle	field;zebra;world;water;stretch	garden;grass;field
+vid1920	rabbit;chicken;animal;hen;rooster	fight;play;stop;attack;get	rabbit;yard;scuffle;play;lawn	garden
+vid1516	person;teen	play;sit	guitar;sofa	
+vid45	person;noodle;cook;chef	cook;boil;put;stir;prepare	noodle;water;pot;pasta;pan	
+vid1495	person;dish	slice;cut;cook;make;tube	food;cheese;vegetable;noodle;loaf	
+vid105	cat;kitten	play;attack;try;eat;wrestle	watermelon;melon;floor;it;teeth	floor
+vid138	giraffe;animal	nuzzle;look;kiss;touch;stand	baby;giraffe;video;time;person	fence
+vid1494	person;cook	slice;separate;remove;cut;use	food;wood;knife;cheese;block	forest;kitchen
+vid1305	cat;kitten;then;stand;car	jump;fall;try;pounce;miss	table;rail;jump;room;midair	house;floor
+vid735	person;runner;female	run;race;compete;sport;show	race;marathon;road;person;stretch	road
+vid260	person;back;stand	jump;do;flip;dive;hit	water;cliff;lake;rock;river	beach;pool
+vid1151	person;baby;toddler;ki;infant	talk;wear;speak;sing;try	headset;headphone;microphone;song;phone	
+vid1138	person;cut	cut;slice;peel;chop;make	potato;vegetable;knife;chunk;yam	
+vid1856	person;midget;drink	drink;dress;glass;take	beer;glass;goblet;cup;water	
+vid780	person;video;veterinarian;us;researcher	hold;show;talk;have;care	animal;hand;twin;monkey;pygmy	
+vid709	person;thing	throw;hit;get;have;face	face;egg;person;eye;video	house
+vid504	person;fireman;worker;joker;it	clean;scrub;man;prepare;be	suit;person;mask;joker;uniform	
+vid1403	person;maid;bed	make;set;prepare;tidy;tide	bed;sheet;way;room;right	house
+vid1529	clown;person;band;group;gang	sing;dance;perform;dress;yell	microphone;video;song;costume;person	stage
+vid1918	person;it	ride;horse;trot;drive;wear	horse;road;street;cap;town	road
+vid1835	panda;bear;animal;it;cub	chew;eat;play;lie;nibble	stick;twig;grass;back;stem	grass;ground;road
+vid1014	person;stylist;hairstylist;beautician;hairdresser	do;style;cut;comb;get	hair;person;style;haircut;cut	
+vid1414	cheetah;group;tiger;panther;leopard	run;sprint;attack;race;speed	field;speed;gazelle;prey;grass	garden;grass;forest;field
+vid1798	person;hug	kiss;hug;take;do;congratulate	person;stage;kiss;cheek	stage
+vid1098	person;road	ride;drive;fall;start;take	motorbike;scooter;bicycle;street;mope	road;house
+vid832	person	play;move;man;do;make	harp;instrument;uniform;music;hat	
+vid1851	person;cowboy;vaquero;rancher;horse	ride;horse;sell;circle;rid	horse;desert;ride;landscape;kind	ground
+vid1838	person;frog;it	hold;frog;play;pick;make	frog;hand;year;toad;small	forest
+vid332	person;veronica;character;animation	dive;jump;use;swim;fall	pool;board;water;river;person	pool
+vid1213	person;mobile;co;car	play;drive;race;operate;run	car;office;remote;radio;phone	
+vid1243	person;stomach;make;glutton	eat;stuff;lot;shove;hog	food;mouth;noodle;lot;face	
+vid257	person;baby;stand	comb;brush;style;do;fix	hair;bathroom;mirror;brush;tail	
+vid608	person;yoga;video;short	do;stretch;perform;practice;demonstrate	yoga;exercise;top;rock;mountain	mountain
+vid1930	person;who;oils;oil;chop	pour;put;oil;add;sprinkle	carrot;oil;pan;slice;dish	
+vid858	person;one	fill;take;make;collect;pour	water;pitcher;jug;tap;sink	
+vid374	person;artist	play;pick;be	guitar;stage;music;instrument	stage
+vid549	person	play	keyboard;piano;key;song;shirt	
+vid1840	puppet;marionette;person;doll;thigh	walk;dance;slide;play;stand	person;stomach;body;bikini;toy	stairs
+vid1062	person;baby;toddler	eat;make;use;spread;sit	spaghetti;noodle;food;chair;hand	
+vid418	person;ox;farmer;team;livestock	plow;pull;walk;till;grow	field;plow;ox;mud;rice	garden
+vid953	person;cook;chef	pour;add;cook;pot;milk	milk;rice;pot;pan;container	
+vid1523	person;jump;exercise;army	jump;skip;do;use;rope	rope;house;yard;health;exercise	house;garden;road
+vid569	person;teenager;who;main	play;sing;sort	guitar;song;sort;minute;instrument	
+vid1453	person;people	do;demonstrate;perform;dance;give	art;move;karate;demonstration;crowd	grass
+vid672	person;one;dish	fold;make;cook;turn;fry	tortilla;pan;half;cheese;skillet	kitchen
+vid1713	gazelle;baboon;deer;animal;monkey	fight;attack;take;play;save	baboon;gazelle;baby;monkey;fawn	
+vid666	person;farmer;stand	make;scream;yell;sing;shout	field;camera;sound;person;noise	garden;road;forest
+vid1804	person;photographer;picture;model	take;picture;photograph;do;snap	picture;person;photograph;photography;pew	
+vid1241	person;beaver;hand;dog;baby	scratch;pet;play;tickle;stroke	beaver;animal;finger;playpen;person	
+vid1934	person;stand;owner	play;like;flute	flute;instrument;outside;stage;music	stage
+vid1956	person;man	dance;face;sit;be;talk	room;way;staircase;sort;song	house;stairs;floor
+vid1297	person;video;lyric	play;sing;have;sit	piano;music;keyboard;talent;song	
+vid78	person;soup;chef	stir;mix;bowl;make;fill	chili;bowl;spoon;stew;spoonful	
+vid146	person;practice	do;use;speak;communicate;sign	language;action;way;turtleneck;signal	
+vid1022	person	beat;stir;mix;whisk;scramble	egg;bowl;food;mixture;ingredient	
+vid1507	person;pork;rub;coat;chef	bread;chop;dip;make;coat	meat;egg;piece;pork;flour	kitchen
+vid1169	person;dragon;people;group;use	celebrate;move;hold;play;perform	dragon;puppet;person;festival;dance	road;house
+vid719	person;worker;maid;housekeeper;clip	make;arrange;put;bed;fix	bed;room;hotel;pillow;cover	house
+vid64	person	rinse;wash;piece;clean;cook	meat;piece;sink;steak;water	
+vid1733	flag;singer	wave;fly;blow;war;sing	wind;air;un;program;end	rain;sky
+vid838	person;chef	mix;add;whisk;prepare;cook	water;bowl;liquid;mixture;ingredient	
+vid677	person;one	hold;make;show;turn;prepare	bun;burger;seed;mac;hand	
+vid692	person;chef;vegetable	scrape;cut;slice;scoop;remove	cucumber;seed;vegetable;spoon;sandwich	
+vid381	person	place;put;skewer;prepare;grill	grill;skewer;meat;chicken;kabob	
+vid1291	person;lifter;weightlifter;weight;it	lift;do;weight;weightlift;try	weight;barbell;head;lift;competition	
+vid1751	person;potato;recipe;peel;onion	peel;make;cook;cut;do	potato;skin;hand;food;finger	
+vid809	person;knife;cook;chef	sharpen;peel;whet;slice;run	knife;whetstone;vegetable;tool;steel	
+vid960	person	flip;turn;grill;cook;roast	fish;grill;rack;side;pan	
+vid24	person;cut;chef;caret	slice;cut;make;dice;chop	carrot;piece;moon;slice;quarter	house
+vid1735	person;walk	walk;hold;view;trail;man	wood;arm;path;forest;trail	forest;garden
+vid1543	person;baby	jump;top;show;thank;leap	car;top;grind;trick;thing	ground;garden
+vid1485	person;cook;chef	mix;add;make;pour;stir	water;flour;bowl;batter;ingredient	
+vid398	person	put;assemble;attach;shoot;prepare	gun;silencer;pistol;handgun;barrel	
+vid388	person;grandfather	read;sit;see;wear;try	newspaper;paper;chair;watch;sort	
+vid81	person;chef	eat;taste;try;talk;test	chili;food;bite;taste;spoonful	
+vid688	puppy;dog;funny	play;romp;pay;walk;open	container;grass;cup;bowl;bucket	grass;garden
+vid931	bear;puppy;cub;beer;pup	look;see;play;watch;sit	mirror;reflection;bed;image;eye	
+vid799	person;spiral	draw;trace;piece;make;mark	paper;piece;spiral;pencil;flower	
+vid1947	person	spray;hose;stand;man;water	person;water;hose;friend;flight	
+vid368	person;dive;bench	jump;do;flip;watch;sit	table;flip;bench;stunt;person	ground;fence
+vid918	person;cut	smash;crush;cut;slice;flatten	garlic;clove;knife;piece;side	
+vid7	person;chef;cut;cook	cut;slice;remove;stem;chop	strawberry;stem;top;leaf;knife	
+vid499	person;video;trader;elephant	ride;hold;wave;travel;sit	elephant;person;arm;village;group	
+vid670	person;one;chef	sprinkle;spread;make;put;cook	cheese;tortilla;food;pizza;dough	
+vid905	person;song;it;indian;hindus	dance;well;perform;do;wear	field;rain;dress;grass;meadow	garden;rain;grass;forest
+vid837	person;chef	cut;chop;put;make;slice	shrimp;piece;salad;food;video	
+vid1268	person;rabbi;priest	talk;speak;give;sit;man	camera;beard;us;sort;room	kitchen;house
+vid1282	person;pizza;dough	mix;stir;prepare;make;show	dough;bowl;flour;ingredient;recipe	house
+vid1042	person	ride;do;bike;front;wheel	bicycle;motorbike;wheel;trick;tire	road
+vid1640	person;reporter;interviewer;guide;anchor	fall;talk;stand;slip;try	castle;sand;person;microphone;wall	wall;house;ground;beach
+vid612	person	walk;step;tree;take;cross	forest;wood;tree;jungle;log	forest;tree
+vid1564	dog;person;baby;labrador	lick;play;show;spit;sniff	baby;dog;spit;face;vomit	
+vid1569	person;bird	drill;piece;hole;make;wash	hole;wood;piece;board;drill	forest
+vid1075	rabbit;bunny;animal	lick;clean;eat;groom;rub	paw;leg;face;palm;one	
+vid1802	person;chef;cook;stack	stack;pile;cook;arrange;place	ring;grill;onion;slice;tower	
+vid187	person	eat;sit;seat;show;talk	food;table;dinner;symptom;rice	house
+vid694	person;fight;art	fight;kick;engage;do;come	field;type;play;park;outside	garden
+vid323	puppy;group;cat;s;lot	walk;approach;look;group;cat	cat;puppy;hallway;hall;room	kitchen;house
+vid279	person;chef;jack;californium	put;pour;make;sauce;spoon	sauce;dough;pizza;crust;water	
+vid1568	egg;person;eye;chef	fry;cook;make;prepare;egg	pan;egg;stave;breakfast;skillet	
+vid378	person	take;talk;remove;speak;make	sunglass;person;noise;glass;face	
+vid1679	player;person;team;people	play;make;score;head;put	goal;soccer;football;ball;score	
+vid1277	person;body;board	surf;ride;board;play;spin	water;board;park;slide;pool	garden;pool
+vid234	cat	wake;sleep;lay;whistle;play	nap;floor;sleep;back;wake	floor
+vid1521	person;baby	wake;sleep;sit;get;waken	bed;sleep	
+vid413	person;pole;dance	fall;dance;do;show;man	pole;dance;deck;porch;trunk	pool;floor
+vid548	person;photographer;one	take;photograph;picture;move;shoot	picture;ant;bug;photo;photograph	rain
+vid602	person;silence	ride;break;raid;horse	horse;wind;video;saddle;pony	rain;garden
+vid1775	person;one;cut;cook	cut;slice;chop;make;use	carrot;vegetable;piece;soup;knife	
+vid1318	person	walk;pace;talk;watch;sit	room;hall;floor;suit;style	house;stairs;kitchen;floor
+vid491	person;song;lover;hero	ride;give;sit;go;share	bicycle;motorbike;ride;front;song	
+vid1594	person;kitten;cat;hand	play;touch;pet;chew;bite	kitten;string;cat;hand;finger	
+vid676	person;sauce;food	pour;sauce;put;cook;add	sauce;chicken;wing;meat;container	
+vid1412	person	dry;wash;wipe;clean;towel	hand;towel;bathroom;stall;sink	
+vid241	person;exchange;place;heroin;hero	sit;put;garland;perform;marry	gazebo;neck;garland;flower;structure	stage
+vid605	otter;baby;cat;animal;seal	play;lie;lay;be;sit	bed;window;towel;house;enclosure	house;wall;kitchen;beach
+vid1128	kitten;cat;sleep;person;it	fall;sleep;try;sit;see	sofa;nap;color;cat;bed	
+vid1855	person;cook;knife;cut;chef	slice;cut;take;use;prepare	cucumber;vegetable;zucchini;strip;slice	
+vid128	person;play;musician	play;flute;blow;sort;note	flute;instrument;sort;outfit;note	
+vid939	person;male;house;floor;couple	sweep;clean;floor;use;stand	floor;house;room;broom;balcony	house;floor
+vid1054	person;guitar	play;listen;sit;strum;practice	guitar;floor;room;music;while	floor;house
+vid842	person;cut;pancake;chef;one	cut;slice;make;leaf;cook	lettuce;cabbage;leaf;knife;dish	
+vid502	cow;crow;bull	eat;graze;grass;chew;take	grass;field;meadow;meal;grind	grass;garden;ground;field
+vid1307	person	put;apply;stick;fasten;tattoo	sticker;face;head;forehead	
+vid300	person;pork;chef;fries	fry;cook;put;place;use	meat;oil;chop;food;curry	kitchen
+vid580	person;grate;shred;cooker;chef	slice;grate;cut;use;scrape	carrot;mandolin;slicer;slice;piece	house
+vid1622	person	eat;play;word;sit;laugh	table;food;meal;dinner;rice	house
+vid1941	person;men;cowboy	shoot;fire;use;spray;practice	target;gun;range;shoot;rifle	
+vid53	person;cook;chef	cut;chop;slice;dice;make	potato;knife;salad;piece;egg	
+vid1572	person;movie;painter;art	walk;talk;speak;hold;be	road;street;path;jacket;film	road
+vid1340	person	fall;tumble;roll;flight;stand	stair;step;flight;floor;smile	stairs;floor
+vid203	person	shoot;fire;test;hit;stand	gun;pistol;handgun;target;wild	sky
+vid342	person;cook;chef	drain;shake;make;cook;add	container;pasta;water;sink;noodle	
+vid1351	elephant;person;group	ride;dance;do;swing;kick	elephant;trunk;leg;person;foot	
+vid363	person;name;video	spit;sing;tell;speak;man	tooth;tobacco;song;forest;camera	forest;tree
+vid1499	person;cook;chef	cut;make;slice;prepare;cook	mushroom;noodle;knife;cut;meat	house
+vid1589	dog;it;housefly	play;bark;try;paw;catch	fly;it;bug;housefly;carpet	floor;ground
+vid483	person;kitten;kitty;cat;animal	hold;cry;wiggle;play;move	kitten;hand;cat;video;sound	
+vid645	person;life	jump;climb;sit;hop;feel	wall;fence;rail;night;memory	wall;fence
+vid1637	person;plate;cook;chef	add;put;pour;make;dump	cheese;sauce;pot;pan;plate	
+vid1901	person	do;exercise;walk;work;watch	push;pushup;exercise;wall;block	wall
+vid571	person;it;group;d;crowd	dance;perform;break;do;lock	stage;dance;audience;street;robot	stage;road;floor;stairs
+vid419	person;tourist;donkey	ride;lead;go;walk;sit	donkey;ride;person;horse;field	garden;ground
+vid179	person;car;driver	drive;turn;ride;make;steer	car;road;turn;string;street	road
+vid1394	sloth;animal;baby;cat;bear	try;play;be;move;climb	camera;edge;container;bed;tub	
+vid1492	person;noodle	cook;put;boil;make;place	noodle;water;pot;food;pasta	kitchen
+vid529	person	play;sing;hum;have	guitar;music;tune;play;instrument	
+vid463	person	play;sing;sit;ring;stool	guitar;stage;while;stool;music	stage
+vid1424	person;actress;cloud;dance	dance;perform;roof;terrace;step	roof;floor;rooftop;build;terrace	floor;house;mountain
+vid1553	person;chef	cut;slice;chop;make;try	onion;half;knife;vegetable;york	kitchen
+vid225	monkey;chimpanzee;money;dog;animal	pull;tease;grab;run;play	tail;dog;thing;part;park	garden
+vid1630	person	play;sing;sit;use	guitar;sofa;instrument;song;music	
+vid1760	fish;creature;animal;monster;type	swim;bump;move;walk;pass	water;ocean;fish;bottom;sea	beach
+vid38	person;rider;bicyclist;bicycle	ride;do;bike;cycle;jump	bicycle;motorbike;road;truck;stunt	road;ground
+vid93	person	cut;slice;splits;make;piece	scallop;piece;vegetable;sushi;meat	
+vid1656	dog;terrier;person;who;russell	lie;lay;back;dog;wake	back;floor;grind;tummy;wait	floor;ground
+vid54	person;cook;chop;one;it	cut;chop;dice;slice;strip	potato;salad;piece;knife;egg	
+vid1681	person;video;lover	talk;speak;kiss;have;show	phone;person;telephone;walker;view	
+vid1520	person;it;sign;baby;advertisement	wake;get;sign;lay;be	bed;sleep;nap;sock;person	
+vid1015	person;iron	put;pan;place;cook;keep	oven;pan;food;skillet;dish	
+vid1308	person;group;dance	dance;do;sort;look;wrap	towel;dance;street;sort;sand	road;rain
+vid1816	person;child;children;s;chill	play;swim;pool;push;alligator	pool;water;alligator;float;toy	pool
+vid986	dog;person;child	knock;push;run;play;bump	person;water;dog;toddler;puddle	garden
+vid801	person;butcher;chef;portion;meat	cut;slice;trim;remove;fat	meat;fat;piece;layer;chunk	
+vid120	person;cook	grease;spread;butter;put;apply	pan;butter;tray;sheet;plate	
+vid1655	person	fall;ride;crash;go;wreck	scooter;road;bicycle;street;skate	road;ground
+vid161	wolf;bear;animal	chase;fight;hunt;run;protect	bear;wolf;cub;tactic;dog	snow;rain
+vid943	cat;person;bag	run;jump;slide;play;take	bag;floor;tube;toy;it	floor
+vid1407	cat;kitten;animal	eat;piece;slice;wedge;play	watermelon;piece;slice;wedge;melon	
+vid813	person;monster;gorilla;woman;monkey	run;chase;do;frighten;crash	person;monster;house;way;suit	house;stairs
+vid804	person;petrol	put;fill;watch;pump;gas	car;gas;tank;hose;petrol	
+vid519	person;phone	talk;take;speak;make;work	phone;telephone;computer;person;type	
+vid10	person;swimmer;swim	swim;push;start;side;kick	pool;water;wall;swim;side	pool;wall
+vid1029	person;chef	cut;slice;make;piece;cook	meat;piece;chicken;way;knife	
+vid199	dog;pet	play;run;bring;ball;carry	ball;mouth;hallway;hall;house	kitchen;house
+vid716	person;rider;horse	ride;jump;horse;run;practice	horse;hurdle;fence;course;rider	fence;ground
+vid1962	panda;cub;bear;animal	climb;walk;talk;search;go	log;trunk;tree;branch;wood	tree;forest
+vid503	person;skateboarder;trick;skate;one	ride;skate;skateboard;do;perform	skateboard;woodward;trick;floor;board	floor;stage;road;ground;garden
+vid1186	person;teacher;sir;professor;math	teach;explain;talk;point;solve	problem;math;class;board;diagram	house
+vid427	person;stand;gym;group	do;exercise;work;be;use	gym;exercise;machine;pushup;push	
+vid956	person;transfer;cook;chef	pour;cook;dump;make;fill	bowl;rice;food;vessel;tip	
+vid564	person;schoolboy	look;point;read;check;see	calendar;calender;number;day;date	wall
+vid1446	elephant;it;calf;branch	eat;pick;leaf;use;try	leaf;branch;trunk;twig;tree	tree;ground;grass
+vid632	person;one;chef	chop;cut;slice;dice;use	onion;vegetable;chive;piece;knife	
+vid1626	person;cook;pair	cut;slice;dice;show;chop	onion;knife;skill;piece;sort	
+vid258	person;hair	brush;comb;go;start;show	hair;bra;way;relation;person	
+vid785	person;pineapple;b.;aeroplane	grill;cook;put;place;slice	pineapple;slice;grill;ring;piece	
+vid1161	chicken;rooster;cock;hen;bird	peck;eat;play;mouse;try	mouse;rat;grind;track;small	ground;road
+vid557	person;lover;cold	talk;eat;drink;sit;take	table;dinner;person;drink;date	
+vid1797	person;baby;toddler;vacuum	vacuum;use;clean;play;try	cleaner;floor;vacuum;rug;mat	floor;house
+vid307	person;video;boat;actress;actor	ride;lay;lie;lean;be	boat;water;canoe;person;edge	beach
+vid172	baby;person;toddler;stand	dance;wave;stand;move;play	chair;arm;music;song;fun	sky
+vid1686	person;scene;lover;actor	ride;sit;give;bicycle;sing	bicycle;motorbike;person;sunset;ride	
+vid96	person;one	pour;add;mix;whisk;season	bowl;ingredient;oil;water;liquid	
+vid758	dog;puppy	look;see;play;sit;lay	mirror;image;reflection;room;it	house
+vid1031	person	slice;chop;cut;dice;make	onion;vegetable;piece;knife;kitchen	kitchen
+vid184	baby;person;toddler	play;suck;sit;put;laugh	pacifier;bed;toy;mouth;nipple	
+vid14	person;adult;scene;police;parent	throw;push;grab;yell;talk	person;chair;arm;teenager;son	
+vid946	person;egg;dish;chef	crack;break;egg;prepare;cook	egg;bowl;dish;video	
+vid1726	person;father;clip	hit;throw;break;smash;say	vase;person;head;pot;son	
+vid1753	person	lift;pick;end;back;move	car;end;back;grind;bumper	ground
+vid1111	bear;wolf;walrus	walk;meet;search	snow;ice;hill;field	snow;mountain;garden
+vid869	person;clean	wash;clothe;beat;do;whack	river;rock;cloth;pond;lake	pool
+vid1893	person;song;actress	feed;give;happen;hand;talk	person;food;sequence;scene;room	house
+vid1721	person;rider;ride;motorbike;cyclist	do;ride;perform;jump;show	stunt;motorbike;bicycle;trick;ramp	sky
+vid770	person;player;child;s;batter	play;swing;hit;miss;bat	baseball;ball;bat;game;cricket	garden;ground
+vid1610	person;teenager	eat;take;nibble;come;bite	cupcake;cake;bite;sort;muffin	house
+vid574	aeroplane;airplane;scene;jet;airliner	take;fly;shift;switch;run	runway;person;air;sky;plain	sky
+vid634	person	take;open;remove;unpack;pull	box;paper;material;pad;package	
+vid727	person	play;sing;strum	guitar;song;music;instrument	
+vid857	puppy;dog;group;two;pup	play;fight;wrestle;bite;climb	newspaper;cage;puppy;paper;one	
+vid401	person;chef;item	break;tear;shred;pull;piece	piece;fish;salmon;meat;skin	
+vid1450	person;moon;shopper;people;a	walk;do;pull;cart;purchase	cart;store;trolley;moonwalk;supermarket	floor
+vid1683	baby;person	eat;feed;spoon;baby;take	food;spoon;baby;chair;pea	
+vid1823	person	play;use;sleep;press;nose	nose;piano;keyboard;head;face	
+vid625	person	cut;slice;dice;block;cook	tofu;cube;block;cheese;butter	
+vid578	person;horse;rider	ride;trot;horse;run;go	horse;yard;side;ring;ride	garden;fence
+vid667	person;chef	peel;cut;peal;cook;slice	onion;skin;potato;piece;quarter	house
+vid486	person;camera	throw;pour;drink;spill;toss	camera;drink;coffee;cup;tea	wall;grass
+vid1261	person;cook;male	cut;slice;chop;use;prepare	potato;half;knife;quarter;piece	house
+vid1301	person;dog;poodle;s	play;give;train;touch;hit	dog;hand;person;paw;fives	
+vid1518	superman;person;it;cartoon;path	move;push;lift;remove;fly	rock;door;brick;superman;boulder	sky;house;ground
+vid737	kitten;cat;bunny;rabbit;play	play;sniff;follow;smell;chase	rabbit;bunny;rat;kitten;chair	
+vid1532	person;back;men;dive	do;dive;jump;flip;make	pool;board;somersault;dive;flip	pool
+vid740	dog;puppy	climb;walk;go;search;play	stair;step;stairwell;staircase;house	stairs;house
+vid1185	dog;walk;object	walk;edge;look;run;play	pool;edge;water;side;wall	pool;wall;house
+vid1107	umbrella;person;lover	float;sink;flow;sing;sight	water;river;wave;sea;rain	pool;beach;rain
+vid512	person;cook	peel;slice;cut;skin;sit	potato;skin;sofa;peeler;peel	
+vid922	cat	lick;enjoy;eat;piece	lollipop;sucker;pop;candy;chocolate	
+vid331	person;veronica;picture;doll;character	take;bath;wash;shower;watch	shower;bath;screen;tv;spoof	
+vid1841	person;chef	cut;slice;show;chop;prepare	potato;knife;skill;food;vegetable	
+vid271	person;play	play;flute	flute;instrument;skirt;music;recital	
+vid622	person	dance;move;do;swing;bend	street;sidewalk;music;hand;stand	road
+vid1176	person;tomato;dog	slice;cut;cook;watch;make	tomato;slice;dog;knife;it	
+vid440	person;it	do;ride;perform;show;cycle	bicycle;stunt;trick;motorbike;wall	wall;ground
+vid836	person;chef	peel;clean;make;pull;prepare	shrimp;prawn;shell;head;video	
+vid1691	person;group;stranger;fight	fight;group;get;be;push	person;fight;group;video;type	ground;grass
+vid1284	person;cook	fry;put;drop;add;cook	fries;oil;pot;water;strip	
+vid26	person;home	mix;stir;make;prepare;wear	glass;strip;ingredient;spoon;jar	house
+vid839	person;poodle;plate	put;pull;add;make;grate	bowl;dough;dish;batter;plate	kitchen
+vid1395	person	play;generate;compose;lyric	keyboard;piano;music;song;lyric	
+vid333	panda;bear;dog	pat;tap;lie;lay;scratch	grind;back;side;stomach;paw	ground;floor
+vid1023	person	add;put;mix;pour;cook	egg;ingredient;cream;bowl;spice	
+vid330	person;play	play;sing;strum;stop;perform	guitar;song;stage;microphone;violin	stage
+vid1671	person;skateboarder;friend	skateboard;skate;ride;board;sign	skateboard;road;street;person;car	road;sky;mountain
+vid501	person;motorcyclist;john	ride;drive;speed;motorcycle;sit	motorbike;highway;speed;road;wheeler	road
+vid1420	person	peel;open;peal;skin;remove	banana;end;bottom;skin;one	
+vid1427	person;group;cyclist;bicyclist;stunt	ride;do;perform;bike;show	bicycle;bike;stunt;wood;trick	forest;road;fence
+vid948	person;cook	stir;mix;egg;beat;cook	bowl;ingredient;egg;mixture;sauce	
+vid328	person;chef;cook;batter	whisk;mix;make;beat;stir	bowl;batter;ingredient;egg;whites	
+vid1070	person;cook;chef	cook;make;prepare;scramble;stir	omelet;egg;pan;omelette;plate	
+vid1172	person;it	stir;make;mix;prepare;wine	bucket;wine;liquid;stick;mixture	
+vid180	person;chef;tofu;fig	cut;slice;make;show;portion	cheese;half;knife;dough;recipe	
+vid1190	person;soldier;stand;hunter	load;put;stand;insert;shoot	gun;shotgun;rifle;bullet;shell	snow
+vid392	person;jack	drink;glass;water;take;eat	water;glass;video;liquid;drink	
+vid581	monkey;dog;chimpanzee;chimp;animal	pull;play;grab;pester;attack	tail;dog;leg;run;it	
+vid28	person;lass;tutorial	apply;put;do;dab;face	makeup;face;brush;make;foundation	
+vid707	person;chef;cook	peel;slice;cut;make;skin	apple;skin;slice;peeler;dish	
+vid311	car;person;rod;driver	drive;go;race;ride;move	road;car;track;street;highway	road
+vid1486	person;clip;chef;brush	brush;prepare;cook;butter;season	shrimp;flour;food;substance;brush	
+vid1826	car;person;people;it;convertible	drive;travel;run;speed;move	road;car;street;person;highway	road;tree;mountain;forest
+vid211	dog;puppy;person;pug;it	wag;sit;wave;look;show	tail;person;master;floor;car	floor;house;ground
+vid99	person	crack;break;pour;cook;beat	egg;bowl;dish	
+vid1406	dog;puppy;song;nothing	climb;jump;get;go;wash	machine;dryer;washer;tune;song	
+vid1327	dog;pug;animal	play;drink;get;hose;try	water;pool;jet;hose;spray	pool;stairs
+vid1952	person;sink;scoop;mix	clean;pour;sink;put;wash	water;sink;powder;detergent;hand	kitchen;house
+vid1812	person;surya;movie;actor	ride;drive;start;site;sit	motorbike;town;street;grind;stunt	road;ground
+vid1061	dog	ride;skateboard;skate;take;push	skateboard;skate;road;stunt;street	road
+vid1079	person	cut;piece;make;play;pair	paper;scissors;piece;pair;gun	
+vid583	person;teenager;singer	sing;perform;be;dance	stage;microphone;song;kind;concert	stage
+vid1643	person;child;toddler;baby;bath	play;run;be;walk;see	beach;wave;ocean;water;sea	beach
+vid109	penguin;dolphin	walk;carry;wear;use;strap	backpack;back;street;penguin;bag	road
+vid520	machine;lathe;person;pencil;tool	sharpen;cut;use;shave;run	pencil;lathe;tip;end;taper	house
+vid426	person;wife	watch;flip;change;sit;use	tv;bed;channel;remote;control	
+vid1083	person;place;cook;chef	put;bowl;place;soak;piece	water;potato;bowl;slice;piece	
+vid1950	person;rider;horse;horseman	ride;trot;horse;take;walk	horse;field;track;grind;trot	garden;ground
+vid1467	person;stand;shooter;pistol	shoot;fire;use;make;gun	gun;pistol;round;weapon;bullet	forest
+vid376	person;toaster;package;food;chef	remove;take;scramble;pull;open	bag;food;package;toaster;packet	
+vid1043	dog;doberman;pinscher;person	chew;play;bite;eat;lick	toy;doll;fish;whale;bed	
+vid1932	baby;dog;toddler;person	play;climb;take;slap;put	dog;baby;size;play;home	house;floor
+vid899	person;hero;it;actress;actor	ride;go;take;sing;drive	motorbike;person;scooter;town;shoot	
+vid1694	person;group;routine;part;clip	run;do;exercise;group;mean	person;field;exercise;yard;machine	garden;ground;grass;sky
+vid1659	person;player;score;goalie;athlete	kick;make;sing;play;score	goal;ball;soccer;team;football	
+vid1312	person;actor;dancer;artist;group	dance;perform;do;show;put	stage;costume;dance;king;hand	stage
+vid518	cat	open;climb;play;pull;enter	drawer;box;it;draw;table	
+vid1263	person;play;hero	play;sit;watch;flute;tune	flute;rock;person;instrument;top	
+vid321	person;youngster;friend;dance	dance;practice;perform;do;sing	room;dance;kitchen;step;house	house;kitchen;stairs
+vid1919	dog;person;corgi	walk;run;do;use;dog	treadmill;workout;leash;dog;person	
+vid336	cat	lick;clean;give;play;groom	fur;body;tongue;bath;hair	
+vid1936	person;us;body	fold;piece;paper;cut;show	paper;piece;sheet;snowflake;half	
+vid1170	person;cook;chicken;chef	fry;boil;cook;stir;prepare	food;chicken;oil;pan;pot	
+vid655	puppy;dog;bulldog	roll;play;lie;rock;lay	floor;back;side;while;song	floor;house
+vid1451	person;box;weapon;it;us	open;show;contain;gun;have	box;gun;rifle;it;weapon	
+vid1402	person;stand	play;experiment;tune;sing	keyboard;piano;instrument;board;tune	
+vid1865	baby;person;toddler;stand	kiss;look;see;stare;play	mirror;reflection;image;friend;person	
+vid1651	person;horse;child;female;cart	ride;pull;go;draw;cart	cart;horse;carriage;ride;person	garden
+vid1256	person	dance;do;sort;sing;show	stage;dance;move;floor;time	stage;floor
+vid1085	person;skate	tie;do;sit;tide;tag	shoe;lace;shoelace;video;preparation	
+vid609	person	go;slide;ride;flush;play	slide;park;water;ride;bowl	garden;pool
+vid1625	person;swimmer;group;race;people	dive;jump;swim;line;start	water;race;lake;swim;person	pool;floor
+vid1908	person;cook;chef;meat;chop	chop;cut;slice;dice;prepare	meat;beef;knife;soup;cleaver	
+vid41	person;japanese	cut;slice;make;chop;prepare	vegetable;onion;piece;food;leek	
+vid1082	person;chef	slice;cut;make;chop;prepare	potato;vegetable;sauce;sandwich;recipe	
+vid902	person;me	play;sit;ply;seat	guitar;chair;song;music	
+vid1300	kitten;cat;pussy;kitty;kind	play;get;try;search;sit	toy;ball;tub;kind;floor	floor
+vid85	person	clean;skewer;devein;pull;remove	shrimp;vein;toothpick;sushi;skin	
+vid1803	person	take;picture;photograph;set;do	picture;ocean;photo;camera;wave	beach;pool
+vid259	person	look;watch;stare;use;work	laptop;computer;screen;person;picture	
+vid298	person;pork;brush;pat;chef	put;flour;piece;coat;cook	meat;flour;piece;pork;chop	
+vid882	player;person;team;sportsman;footballer	run;play;sprint;hold;man	field;soccer;grind;football;ball	garden;ground;grass;field
+vid478	puppy;dog	play;wrestle;hug;run;nip	porch;patio;dog;deck	house
+vid1849	person;chef;surface;slice;onion	slice;cut;grate;use;grade	onion;ring;slicer;vegetable;mandolin	kitchen
+vid1649	goat;person;animal	walk;bleat;stand;make;look	road;grind;yard;noise;person	road;ground;garden
+vid228	person;video;nothing	run;wear;walk;swim;star	underwear;street;sidewalk;road;way	road
+vid617	person;teenager;it	blow;bubble;make;fill;air	bubble;gum;balloon;phone;mouth	sky
+vid1967	person;child	slide;play;go;move;sort	slide;tarp;plastic;slip;water	mountain
+vid889	person;group;soldier;horse;army	ride;group;walk;gallop;man	horse;forest;wood;person;tree	forest
+vid992	person;pepper;cook;chef	cut;slice;remove;piece;take	pepper;tomato;potato;capsicum;seed	
+vid27	person;runner;racer;group;sprint	run;race;sprint;compete;win	race;track;person;line;competition	ground
+vid100	person;vegetable;sushi;franchise	add;season;pour;put;mix	egg;bowl;ingredient;spice;salt	
+vid1547	person;cook;portion;onion;cut	slice;cut;make;chop;leave	onion;knife;slice;vegetable;skill	
+vid797	cat;kitten	eat;nibble;corn;try;take	corn;cob;seed;ear;cone	
+vid1660	person;group;one;musician;drummer	dance;sing;perform;group;play	person;stage;group;dancer;dance	stage;beach
+vid873	animal;lemur;sloth;monkey;mammal	eat;sit;piece;arm;take	food;fruit;chair;strawberry;piece	
+vid474	person;group;baby	carry;walk;group;wrap;take	bag;sack;kangaroo;person;grass	grass;mountain;garden
+vid1086	person;rocker	play;sing;stand;sort;enjoy	guitar;sort;song;it;instrument	
+vid162	dog;shark	swim;attack;bite;try;shark	shark;water;pool;ocean;swim	pool;beach
+vid1460	person	play;man;sing;see	guitar;hair;beard;keyboard;glass	
+vid1748	person;fight	wrestle;fight;do;be	grind;floor;suit;bikini;ring	ground;floor
+vid176	jet;aeroplane;rocket;missile;rock	fly;come;emerge;shoot;launch	ocean;water;sky;sea;air	beach;sky
+vid1267	cat;leg;it;body	walk;run;raise;use;move	leg;paw;air;foot;foreleg	sky;road;house;floor
+vid1462	baby;dog;person;puppy;toddler	play;throw;ball;baby	ball;dog;puppy;baby;grass	grass;garden
+vid432	person;baby;toddler	look;stand;play;try;place	window;it;house;hand;then	house
+vid1524	person;rider;it;horse;ride	ride;horse;show;walk;trot	horse;stadium;arena;speed;show	ground
+vid1634	person;baby;toddler	talk;speak;sit;use;make	phone;telephone;person;table;puppy	
+vid1314	person;gymnast;then;flip	do;fall;perform;meet;have	beam;gymnastics;accident;pain;flip	
+vid1295	person;surya;song	write;sit;sing;romance;dance	notebook;table;journal;note;letter	
+vid194	baby;person;toddler;clip;child	fall;sleep;sit;do;struggle	sofa;side;position;fun	
+vid551	person;cook;chef;it;female	melt;butter;mix;cook;prepare	butter;pot;pan;potato;stick	kitchen
+vid1134	person;slice	cut;slice;cook;make;piece	leaf;seaweed;piece;sheet;vegetable	
+vid1866	shark;dolphin;fish;person;fisherman	catch;eat;swim;chase;attack	fish;bait;shark;sea;water	beach;floor
+vid1621	person;sheet;one	cut;piece;make;pair;use	paper;scissors;piece;pair;ship	
+vid88	person;prawn;finger	peel;cut;clean;prepare;make	shrimp;sushi;video;shell;prawn	
+vid193	baby;person;partner;one;it	fall;sleep;sit;nod;watch	sofa;tv;sleep;side;while	
+vid603	elephant;person	paint;draw;hold;use;picture	trunk;picture;paint;easel;brush	
+vid1032	person	slice;cut;chop;make;prepare	onion;vegetable;piece;dog;technique	kitchen
+vid1360	dog;person;jump;ball	jump;walk;bark;try;look	water;ball;dock;edge;pool	pool;beach
+vid599	kitten;cat;animal	play;ball;toy	ball;bed;toy;yarn;boll	
+vid1350	person;it	poke;stab;make;prepare;cook	potato;fork;hole;food;whole	
+vid1228	bird;parrot;cockatoo;one;snowball	dance;bob;back;bite;stamp	chair;back;music;sofa;top	
+vid252	person;paramedic;tiger;medic;personnel	wheel;take;push;bring;move	stretcher;hospital;patient;person;gurney	
+vid807	person;cook;chef;ring	slice;cut;ring;chop;piece	onion;ring;knife;step;slice	
+vid1506	person;pork;side;cook;brush	coat;brush;put;flour;piece	flour;meat;piece;pork;slice	kitchen
+vid220	person;bath	take;bath;sit;be;rub	bath;bathtub;tub;bathroom;table	
+vid477	person;worker	take;remove;talk;wear;man	sunglass;hat;glass;spectacle;person	
+vid1614	person;bowl	pour;add;bowl;drizzle;prepare	bowl;oil;food;ingredient;mixture	kitchen
+vid656	person	wash;rinse;bowl;do;watch	bowl;sink;container;lid;top	
+vid1636	person;one	pour;cook;sauce;prepare;make	sauce;pot;pan;vessel;stave	
+vid1298	person;nurse;doctor	get;give;receive;shoot;inject	shoot;arm;shot;injection;person	
+vid205	person;guitar	play;sing;take;strum	guitar;instrument;professional;music;home	house
+vid511	person;song	play;sing;keep;sit;name	guitar;song;person;music;lyric	
+vid242	person;egg	crack;put;break;pour;mix	egg;bowl;mixer;it;mixture	kitchen
+vid134	person;scooter	ride;drive;play;man;be	scooter;motorbike;bicycle;suit;yard	road;garden
+vid1433	panda;bear;ride;cat;animal	slide;go;play;ride;glide	slide;snow;ice;stomach;panda	snow
+vid1365	person;group;townspeople;crowd;cast	dance;group;do;like;crowd	street;person;dance;village;video	road
+vid1528	person	play;ring;sit	guitar;music	
+vid972	person;student;indian	dance;perform;do;feature;costume	stage;costume;dance;routine;person	stage
+vid1584	person;snowboarder;skier;skater;people	snowboard;ski;skate;perform;go	mountain;hill;snow;ice;slope	mountain;snow;stairs;road
+vid1221	person;group;sculptor;indian;statue	carve;make;sculpt;chisel;work	statue;person;sculpture;king;idol	forest
+vid1223	person;chef;cook;broccoli	cut;peel;chop;stem;pick	broccoli;stem;knife;vegetable;dish	
+vid243	person;chef;mix;fish;cook	put;spoon;scoop;curry;cook	bowl;food;pan;soup;pot	
+vid1684	cat;dog;faucet	drink;water;tap;leak	water;faucet;tap;pipe	
+vid619	person	play;sit;sort;note	guitar;bed;sort;note;music	
+vid1734	person	play;sort;sing;record;note	guitar;music;sort;piano;note	
+vid223	horse;person;group;jockey;rider	race;run;ride;group;fall	horse;track;race;racetrack;road	road;garden
+vid1808	person;car	get;sit;open;side;enter	car;side;seat;door;garage	house
+vid1238	person;stand;play	play;blow;man;trumpet;ring	trumpet;hat;music;instrument;saxophone	
+vid775	person;grind;land;it;sky	run;crack;open;play;flee	grind;crack;person;foot;shout	ground;garden;floor
+vid1736	person;actress;actor	eat;serve;take;seat;leaf	food;table;person;dinner;meal	house;forest
+vid1481	person;clean	cut;clean;slice;make;remove	shrimp;tail;prawn;piece;soup	
+vid404	person;food	put;pour;dump;transfer;add	rice;pan;skillet;pot;kettle	
+vid1703	person;tendon;chihuahua	cut;slice;remove;make;tail	shrimp;tail;prawn;piece;tendon	
+vid1183	person;horse;hose	fall;stand;ride;horse;get	horse;beach;person;its;stand	beach;ground
+vid1373	person;reporter	talk;interview;give;speak;take	person;interview;soldier;reporter;recorder	
+vid1477	car;it;police;cruiser;vehicle	chase;spin;lead;hit;use	car;highway;road;vehicle;pursuit	road
+vid55	person;cut;cooker;cook;chop	cut;slice;chop;make;boil	egg;piece;salad;knife;quarter	house
+vid1480	person;female;dish	cut;make;slice;prepare;clean	shrimp;tail;noodle;prawn;fish	
+vid108	person;baby;toddler;shower	take;have;get;play;put	shower;water;face;bath;eye	
+vid1290	baby;person;bay	crawl;laugh;walk;play;smile	floor;doorway;laugh;hand;baby	floor;house
+vid1428	person	mix;stir;make;talk;prepare	bowl;ingredient;food;yogurt;stuff	kitchen
+vid875	shark;fish;animal;whale	swim;move;shark;be;surface	water;shoreline;shore;sea;lake	beach;pool;floor
+vid318	person;kitten;cat;it;hand	play;bite;tickle;try;suck	finger;kitten;cat;hand;small	
+vid57	cat;it;head	put;stick;get;cover;play	head;bag;cover;sofa;face	
+vid1818	bird;parrot;stand;pigeon;owner	put;pick;take;place;move	cup;bowl;it;glass;beak	
+vid572	person;group;member;dancer;artist	dance;perform;do;play;man	dance;costume;person;music;flag	road;stairs;beach
+vid360	person;card;it	show;put;hold;display;open	card;picture;tree;ornament;move	tree
+vid349	person;cut	cut;slice;use;upholster;test	meat;sword;slab;half;knife	
+vid1388	person;lighter;it	light;flick;strike;lighter;lighten	lighter;motion;litter;liter;light	
+vid868	person;film	lay;float;lie;rest;sleep	raft;boat;water;watercraft;tube	beach
+vid1743	person;bacon;season;chef	season;add;put;sprinkle;prepare	bacon;meat;spice;piece;strip	
+vid1756	person	cut;piece;circle;use;shape	paper;scissors;piece;circle;shape	
+vid1881	person;it;skull	play;talk;move;hold;provide	skull;hand;voice;talk;skeleton	
+vid824	person;one	throw;make;play;shoot;toss	basketball;basket;shoot;ball;hoop	garden
+vid1071	person;chef;cook	pick;hold;cook;look;show	lobster;box;hand;cook;take	
+vid25	dog;person;puppy;poodle;bark	bark;cook;eat;chew;make	dog;kitchen;food;sushi;master	kitchen
+vid1791	person	run;fall;stumble;walk;clip	field;grass;park;lawn;circle	garden;grass
+vid601	person	ride;gallop;horse;field	horse;field	garden
+vid262	person	play;sit;sort;perform;note	piano;song;music;sort;note	house
+vid1502	person;stand;it	play;strum;sing;pluck;hold	violin;guitar;stage;microphone;instrument	stage
+vid66	aeroplane;airplane;flight;toy;person	fly;do;soar;perform;make	sky;air;stunt;cloud;toy	sky;rain
+vid1471	person;jean	play;sing;sit;stand;ply	guitar;airport;person;dylan;terminal	stage
+vid760	person;women;woman	kiss;clip;speak;make;smooch	person;style;sex;school;lip	beach
+vid1768	person;child;silhouette;hug;baby	hug;kiss;show;stand;mother	person;dark;hug;window;sister	grass
+vid1758	person;hero;heroine;heroin;dancer	dance;play;sequence;rain;open	waterfall;rain;water;song;sequence	rain
+vid1749	person;krì	shake;greet;talk;hand;welcome	hand;person;indium;doorway;door	
+vid1503	person	slice;cut;chop;make;cook	onion;knife;dog;piece;person	kitchen
+vid1676	person;mother	carry;hold;play;walk;talk	person;baby;room;toddler;camera	house
+vid1315	deer;person;reindeer;moose;husband	jump;attack;push;mount;walk	person;back;snow;wife;deer	snow
+vid1309	person;couple	dry;rub;warm;talk;stand	person;towel;shoulder;ship;movie	
+vid166	person	twirl;do;rotate;spin;roll	pencil;hand;finger;trick;stick	
+vid1067	person;magic;straw	do;push;put;poke;stick	straw;trick;chin;mouth;neck	
+vid1780	monkey;dog;money;baboon	pull;play;grab;tease;run	tail;dog;leg;then;talk	
+vid1005	person;chef	smash;crush;cut;chop;slice	knife;mussel;garlic;clove;onion	
+vid305	person;cook	grate;prepare;cut;cook;shred	carrot;curry;bowl;vegetable;show	
+vid1878	person;baby;toddler	walk;do;run;stand;exercise	treadmill;machine;exercise;person;mother	floor
+vid159	person;stunt;r;hero	do;pull;perform;use;exercise	exercise;pull;doorway;chin;world	floor
+vid358	dog	run;sprint;race;play;drain	yard;garden;water;lawn;house	garden;house;ground;grass;field
+vid789	bird;parrot;it	eat;take;dish;perch;fruit	food;tree;bowl;fruit;dish	tree
+vid72	person;water;pot;it	pour;add;rinse;put;can	water;can;sauce;pot;paste	
+vid239	kitten;cat;puppy;kitty;it	drink;lap;lick;eat;milk	milk;saucer;plate;dish;bowl	
+vid521	person	ride;do;drive;jump;man	car;motorbike;bicycle;stunt;top	
+vid921	person;t;hotel	eat;talk;speak;have;chat	breakfast;restaurant;diner;food;table	
+vid1136	person;cut	cut;slice;make;cook;chop	potato;root;vegetable;chunk;wedge	
+vid1362	person	shoot;fire;use;teach;talk	gun;revolver;pistol;target;handgun	
+vid397	cat;person;newscaster;it	play;hit;paw;key;stroke	piano;key;paw;music;tune	
+vid67	person;oil	pour;add;make;oil;cook	oil;pot;pan;bowl;kettle	
+vid102	person;tv	pour;cook;add;make;egg	egg;pan;wok;skillet;sushi	
+vid1250	person	dance;do;sit;perform;lay	stage;dance;floor;wave;sort	stage;floor;ground
+vid1741	person	ride;give;drive;go;bicycle	motorbike;bicycle;person;ride;passenger	
+vid904	person	sing;show;disable;dance	stage;song;request;event	stage
+vid414	person;chef;slice;cook	slice;cut;chop;show;use	pineapple;knife;slice;us;piece	
+vid978	tiger;cub;person;club;animal	play;kick;ball;pup;live	ball;tiger;bed;toy;house	house
+vid932	person;bench;builder;bodybuilder;muscle	lift;do;press;make;build	weight;exercise;gym;muscle;body	
+vid434	panda;bear;it;way;dance	scratch;rub;dance;lay;rock	back;wood;tire;grind;floor	forest;ground;floor
+vid1237	person;it;driver	do;ride;pop;perform;stunt	motorbike;wheel;stunt;scooter;trick	road
+vid485	person;bag;stand;lens;d300	drop;tumble;throw;stand;ride	bag;escalator;way;step;case	stairs
+vid749	person	tie;make;eat;wind;prepare	noose;rope;knot;suicide;pizza	
+vid966	person	slice;cut;make;piece;look	ginger;piece;root;knife;vegetable	
+vid1709	person;it	braid;do;curl;style;tie	hair;top;style;side;section	
+vid437	animal;okapi;zebra;horse;mammal	eat;graze;stand;examine;chew	tree;leaf;vegetation;plant;piece	tree;grass
+vid1746	person;cook;chop;chef	slice;cut;prepare;arrange;piece	meat;fish;piece;dish;plate	
+vid994	person;chef;onion	slice;cut;dice;tell;use	onion;knife;vegetable;technique;item	
+vid275	person;motorcyclist;motorbike;rider;it	jump;crash;ride;fall;meet	motorbike;lake;water;accident;stunt	pool;mountain;sky
+vid122	person	slice;cut;loaf;piece;chop	bread;loaf;piece;knife;slice	
+vid979	wrestler;person;sumo;ringer;match	wrestle;fight;be;collide;match	ring;match;wrestle;sumo;stage	stage
+vid1013	elephant;shop;goods;it	shop;put;purchase;go;do	store;shop;box;basket;trunk	
+vid1618	cat;kitten;animal	play;pounce;wave;attack;tease	cat;paw;person;it;arm	
+vid1604	person;student	read;answer;talk;sit;make	book;phone;sofa;call;telephone	
+vid229	elephant;person;hero	push;sing;sit;stand;ride	car;person;convertible;trunk;windshield	
+vid1254	person;magician;martin;comedian;magic	pull;perform;do;place;show	egg;pants;magic;trick;stage	stage
+vid1912	person;pork;steak;crumb;cook	prepare;bread;tell;cover;coat	meat;flour;piece;it;food	
+vid1664	cup;person;mug;character;cartoon	move;walk;play;character;be	cup;table;mug;cartoon;person	
+vid1914	moose;baby;animal;deer;donkey	drink;play;wet;walk;take	sprinkler;water;face;drink;fountain	garden;field
+vid756	person	play	piano;music;board;keyboard;key	
+vid916	person;pasta	cook;stir;shrimp;fry;saute	shrimp;pan;stave;spatula;skillet	
+vid1903	person	do;exercise;hold;work;edge	exercise;platform;edge;structure;ledge	floor
+vid158	person;slab;soldier;block	break;chop;hit;be;stone	person;slab;block;stone;hammer	
+vid1010	person;play;musician;group	play;flute;sing;perform;give	flute;instrument;stage;guitar;band	stage
+vid1783	animal;tapir;kind;bear;aardvark	eat;walk;swim;sniff;move	leaf;wood;jungle;forest;food	forest;house;grass
+vid1078	person	play;make;talk;use;take	phone;telephone;toy;call;car	
+vid1359	cat;dog;german;video;person	chase;play;look;run;dog	dog;yard;grass;cat;war	garden;grass;ground
+vid1608	monkey;orangutan;chimpanzee;animal;primate	ride;drive;do;wave;wheel	bicycle;motorbike;tricycle;stage;circle	stage
+vid1330	person	talk;speak;take;smile	phone;telephone;person;mobile	
+vid168	person;song;play	play;sing;sit;read;strum	guitar;music;song;room;instrument	house
+vid435	cat;domino;keyboard;structure;set	watch;fall;play;make;look	domino;keyboard;piano;while;key	floor
+vid367	person;snake;weapon;sling;earth	play;use;swing;be;sit	snake;grass;forest;chuck;nun	grass;forest;tree;sky;ground
+vid1353	person;bay	play;perform;sort	violin;stage;state;sort;show	stage;kitchen
+vid1046	person;whale;rock;fish;eskimo	fish;eat;do;catch;get	person;ice;fish;snow;fisherman	snow
+vid1555	person;cook;chef	slice;cut;improve;show;demonstrate	onion;knife;skill;kitchen;vegetable	kitchen
+vid1541	person;doll;ice;baby	skate;go;ice;do;hold	doll;ice;skate;person;two	road
+vid1044	person;ride;horse	ride;have;gallop;sit;begin	horse;yard;ride;psycho;grass	garden;grass
+vid1631	person;eye	apply;use;put;pencil;shade	makeup;pencil;eyelid;eye;shadow	
+vid714	person;then	jump;fall;try;stand;leap	water;place;dock;structure;platform	floor
+vid806	person;cook;chef	slice;use;grate;cut;prepare	cucumber;vegetable;strip;mandolin;squash	
+vid403	person	wrap;rice;toast;pack;make	ball;rice;seaweed;food;leaf	floor
+vid1426	person;program;mother;item;daughter	pour;add;cook;prepare;stir	milk;pan;food;skillet;utensil	
+vid1456	eagle;bird;rabbit;hare;bunny	run;catch;attack;swoop;try	rabbit;eagle;hare;it;field	garden;ground
+vid246	person;chef;cook	mix;add;stir;prepare;pour	water;flour;bowl;powder;ingredient	
+vid1156	person;janitor	clean;pull;use;floor;wax	floor;machine;room;cleaner;vacuum	floor;house
+vid445	person;pink;video;one;contents	run;exercise;jog;be;work	treadmill;gym;one;exercise;bathroom	
+vid792	person	apply;put;do;show;tube	mascara;makeup;eyelash;make;liner	
+vid739	person;make;cook	pour;make;ladle;prepare;cook	pan;pancake;batter;cake;mixture	floor
+vid674	person	turn;flip;cook;fry;put	wing;chicken;pan;oven;food	
+vid604	couple;person	talk;sit;meet;give;chat	sofa;person;engagement;time;spouse	house
+vid718	person;cook;dish	knead;prepare;mix;make;show	dough;bowl;flour;step;tortilla	
+vid206	person;horse;rider	ride;jump;run;show;leap	horse;hurdle;obstacle;stunt;set	fence
+vid1787	person;watermelon;hand	slice;cut;use;piece;part	watermelon;knife;piece;melon;cleaver	
+vid1472	person;chef;cut;cooker;cook	slice;cut;prepare;chop;use	onion;cook;knife;strip;slice	
+vid457	helicopter;rotor;touch;plane;person	crash;fall;collide;get;fly	air;grind;accident;sky;manner	sky;ground
+vid1510	person;jug;carton	pour;add;mix;prepare;make	juice;pitcher;jug;drink;soda	
+vid1949	person;pilot	pour;water;dump;bottle;bath	head;water;pilot;person;liquid	
+vid720	person;song	play;sit;sing;strum;ring	guitar;floor;song;music;light	floor
+vid164	person;water;jogger;video;shirt	spray;turn;hose;water;use	water;person;hose;liquid;jogger	
+vid1270	person;it	write;sit;talk;sing;paper	paper;letter;field;tree;note	garden;tree;forest
+vid1164	baby;person	sit;sleep;fall;play;sway	floor;sleep;side;rug;leg	floor;ground
+vid1527	person;handlebars	play;blow;trumpet	trumpet;instrument;tuba;saxophone;party	
+vid1692	person;baby;stand	sing;salute;talk;say;have	song;anthem;salute;nation;thing	house
+vid308	hedgehog;animal;rat;porcupine	go;crawl;eat;search;play	house;thing;home;food;cage	house;wall
+vid563	person;group;troupe;people;crowd	dance;practice;group;play;move	person;routine;line;rhythm;action	
+vid1106	dog;puppy;person;labrador;lab	play;sit;drink;take;be	water;tub;bath;bathtub;basin	
+vid1766	person;crocodile	touch;play;attack;tap;pet	crocodile;nose;alligator;person;snout	grass
+vid673	person;food;wing	take;pull;cook;check;bake	oven;chicken;wing;tray;food	
+vid116	person;who;motorbike	fall;walk;push;man;try	bicycle;motorbike;sign;road;side	road;house
+vid1961	elephant	splash;spray;bath;take;play	water;river;bath;trunk;stand	pool
+vid1242	cat;person;present;kitten;its	jump;pop;cat;be;play	box;finger;hand;cat;person	
+vid1422	cat;kitten;it;while;person	clean;wave;scratch;bite;sit	paw;sofa;hand;fur;back	sky
+vid1096	person;one;it;hubby;cook	slice;cut;chop;try;have	tomato;piece;vegetable;recipe;turn	
+vid527	aeroplane;jet;flight;airplane;play	take;lift;fly;run;arrive	runway;takeoff;sky;plain;grind	sky;ground
+vid1439	person	play;sing;splay;sort;sit	guitar;song;porch;music;sort	house
+vid181	person;onlooker;lawn;group;end	smile;mow;push;go;watch	lawn;person;garden;yard;walk	garden;grass
+vid1253	person	play;sit	piano;keyboard;song;key;instrument	
+vid136	person;boxer;apollo;slug;men	box;fight;be;beat;take	ring;match;rink;box;wing	
+vid1008	person;band;singer;one;musician	play;sing;perform;ply;stand	guitar;stage;band;violin;stand	stage
+vid1325	person;puppy	drive;travel;talk;arrive;turn	car;jordan;taxi;turn;trip	
+vid1514	car;person;it	explode;blow;stand;blast;burn	person;car;youth;wood;stand	sky;road;forest
+vid1251	person;teacher;computer;teach;program	draw;write;teach;put;shape	board;shape;diagram;line;it	
+vid1672	person;toddler;group;baby	ride;play;push;practice;smile	scooter;tricycle;bicycle;house;wheeler	house;garden;road
+vid796	person	squeeze;wrap;drain;wring;do	cloth;towel;liquid;juice;vegetable	
+vid746	person;skier;player;people	ski;play;skate;snow;do	hill;snow;mountain;ice;slope	mountain;snow
+vid1904	person	do;exercise;look;face;chin	pull;doorway;exercise;chin;frame	
+vid1121	badger;fox;animal;dog;raccoon	fight;attack;walk;search;chase	fox;badger;food;stair;patio	stairs;house
+vid117	animal;person;monkey;sloth;mammal	walk;crawl;move;turn;search	towel;hand;table;mat;sloth	
+vid1436	tortoise;turtle	walk;move;come;raise;inspect	camera;outdoors;grind;tortoise;slaw	ground;forest
+vid1745	person;light;post;electricity;dish	strike;attract;arc;use;play	dish;post;object;pole;lamp	sky
+vid895	person;round;stand;sky;inch	shoot;fire;do;watch;round	gun;sky;tracer;night;round	sky;snow;pool;mountain
+vid610	teacher;person;child	read;piece;teach;write;express	paper;class;piece;letter;classroom	house
+vid1100	cloud;person;tower;text;roof	move;ride;pass;perform;float	sky;bicycle;build;church;top	sky;rain;house;garden
+vid658	person;us;project	open;show;do;view;turn	closet;door;face;cupboard;us	
+vid894	person;music;language;female	play;sing;show;sort	guitar;song;instrument;bathroom;sort	
+vid1283	person;road	walk;ignore;roam;sing;play	street;sidewalk;road;pavement;person	road;wall
+vid841	person;chef;chop	cut;chop;slice;dice;prepare	onion;vegetable;piece;leaf;knife	
+vid1275	person;play;piano	play;perform;flute	flute;instrument;stage;clarinet	stage
+vid1795	person	sit;man;see;relax;be	chair;sofa;shirt;armchair;video	
+vid1148	person;chef;slice;video;cut	slice;cut;piece;make;go	meat;piece;fish;slice;knife	road
+vid145	person;card	shuffle;deck;play;deal;perform	card;deck;trick;world	
+vid1479	person;dish	peel;take;make;shell;remove	shrimp;shell;prawn;noodle;seafood	
+vid1710	dog;bulldog;god	walk;wade;swim;play;fetch	pool;water;ball;toy;level	pool
+vid786	person;oil	pour;add;cook;put;melt	oil;pan;butter;skillet;wine	
+vid642	person;film	talk;sing;hold;have;be	phone;person;telephone;mobile;conversation	
+vid1461	dog;dag;cat;bunch;break	pop;play;burst;bite;break	balloon;bunch;ball;floor;tooth	floor;ground
+vid1379	person	put;spoon;pour;sauce;add	sauce;pasta;plate;food;spaghetti	
+vid353	person;rock;climber	climb;scale;try;mountaineer;use	cliff;mountain;wall;hill;side	mountain;beach;wall
+vid1538	monkey;chimpanzee;chimp;gorilla;ape	smoke;taste;play;eat	cigarette	
+vid621	person;teenager	cut;use;edge;trim;turn	grass;scissors;gross;airplane;sidewalk	grass;garden
+vid883	player;person;team;soccer;member	play;kick;score;make;shoot	goal;soccer;ball;game;field	garden;field;ground
+vid1497	person;dish;chef	pour;put;add;mix;water	water;mushroom;bowl;food;container	
+vid1248	baby;person;toddler;mother;it	dance;walk;hold;baby;learn	floor;person;hand;mother;diaper	floor;house
+vid1398	person;group	eat;peel;speak;make;joke	banana;tree;sort;person;mood	tree
+vid143	person;segment	dance;circle;perform;link;be	room;circle;arm;tv;step	house;stairs
+vid1718	panda;baby;cub;bear;view	play;climb;crawl;bear;view	bench;swing;snow;panda;zoo	snow
+vid197	person;stand	shoot;fire;take;use;target	gun;shotgun;target;shoot;rifle	mountain;forest
+vid1831	person;rider	ride;horse;gallop;do;work	horse;road;track;ride;grind	road;ground;garden
+vid1191	person;scene	read;rub;check;talk;switch	email;message;computer;ad;e	
+vid1104	person;mother;film	eat;piece;have;think;wear	chicken;piece;leg;drumstick;meat	house
+vid708	monkey;chimpanzee;animal;dog	pull;tease;play;grab;run	tail;dog;leg;zoo;it	
+vid1329	jackal;fox;animal;coyote	run;walk;search;hunt;trot	field;grass;food;prey;prairie	garden;grass;ground
+vid79	person;chef	dip;bread;slice;bowl;stick	chili;bread;bowl;slice;sauce	
+vid1208	person	talk;have;speak;man;star	person;conversation;discussion;shirt;face	
+vid46	ball;person;balloon;wall;tv	bounce;move;fly;sing;run	street;ball;road;air;song	road;sky;mountain
+vid793	car;person;line;rally;parade	drive;run;line;go;race	road;car;street;crowd;race	road
+vid1209	person	climb;come;slide;descend;tree	vine;tree;rope;grind;cage	tree;ground;forest;floor
+vid1591	person;baby;joker;hockey;goalie	fall;wear;play;do;hold	gear;equipment;hockey;bat;stick	road;kitchen;ground
+vid1292	person;rabbit;animal;one;bunny	play;be;pet;turn;sniff	rabbit;puppy;bunny;person;treat	floor
+vid19	person;cook	pour;cook;make;put;scramble	egg;pan;mixture;dish;skillet	
+vid1269	person;pirate	push;throw;man;jump;visit	person;boat;water;ship;sea	beach;pool
+vid1957	monkey;orangutan;orangutang;hand	suck;chew;bite;lie;eat	finger;glove;thumb;sleep;human	
+vid596	cat	watch;sit;seat;play;face	tv;screen;movie;video;t.v.	
+vid936	lion;cougar;bear;tiger;panther	chase;run;see;watch;rent	bear;movie;lion;cub;year	mountain
+vid1880	person	wake;talk;dress;sit;shake	person;costume;phantom;song;sofa	
+vid594	person	paddle;row;sail;boat;stroke	boat;canoe;river;oar;action	pool
+vid1097	person;stand;lay	do;exercise;work;lift;hold	exercise;weight;workout;shoulder;barbell	
+vid1913	person	wrestle;fight;do;beat	underwear;grind;video;floor	ground;floor
+vid1906	person	lift;do;work;make;weightlift	weight;head;exercise;barbell;excise	
+vid222	baby;person	smile;laugh;make;coo;try	sound;noise;response;person;baby	
+vid1004	person;mime;team;dance	perform;dance;do;couple	stage;robot;dance;routine;person	stage
+vid525	person;hair	open;look;stand;watch;primp	window;stilt;room;house;hair	house;sky;kitchen
+vid800	person;baby	play;sit;perform;be;want	piano;stage;recital;music;hill	stage;mountain
+vid1678	panda;bear;animal;dog	lay;lie;sleep;roll;lounge	log;wood;wall;stack;rest	forest;wall
+vid231	monkey;animal;tiger;lemur;gibbon	swing;jump;tee;run;play	tree;branch;limb;tiger;hand	tree
+vid52	person;one;cook;chef	peel;cut;make;peal;slice	potato;salad;peeler;skin;vegetable	
+vid1498	person;chef	cut;slice;make;use;prepare	mushroom;knife;food;stem;noodle	
+vid51	person;cart;caravan;parade;ox	ride;move;pull;do;go	street;road;carriage;cart;bullock	road
+vid250	person;who;singer	dance;sing;perform;walk;enjoy	floor;wall;room;dance;upside	floor;wall;house;stage
+vid834	person;kin	play;yell;scream;sit;upset	game;car;toy;belt;video	
+vid1347	person	do;exercise;demonstrate;lie;take	exercise;mat;tip;minute;leg	floor
+vid929	cat;person;practice	play;hit;tap;strike;sleep	piano;key;paw;board;practice	
+vid177	person;fry;chef;bowl	fill;cook;pan;water;put	water;pan;pot;kitchen;tap	kitchen
+vid1384	hamster;rat;it;person;rabbit	run;fall;spin;be;play	wheel;it;thing;machine;act	
+vid1926	person	dance;do;show;wear;man	stage;dance;dress;suit;song	stage
+vid149	child;person;group;one;children	walk;run;cross;steal;play	lot;road;van;store;street	road;garden
+vid1517	cat;dog;animal;neck	lick;play;groom;sit;dog	dog;head;cat;tongue;rest	
+vid1162	person;end	brush;curl;comb;style;make	hair;style;brush;iron;hairstyle	
+vid84	person;sushi;cook;chef	cut;slice;cook;piece;means	egg;food;sushi;strip;piece	
+vid1262	person;tree;video;car	push;stand;try;fall;look	tree;rain;road;street;backpack	tree;road;rain
+vid1464	dog;dachshund;jump;dash	swim;jump;hound;dive;spot	pool;water;swim;spot;pond	pool
+vid173	person;potato;menu;gold	peel;slice;use;take;skin	potato;peeler;knife;skin;peel	
+vid350	person;trash;garbage	cut;slice;can;chop;use	sword;bucket;half;liquid;slice	
+vid866	person;paper;john;it	put;place;prepare;cover;bake	salt;salmon;dish;fish;spice	
+vid29	train;ride;bridge	cross;go;move;track;pass	bridge;track;waterway;train;case	
+vid1103	otter;group;baby;animal;ottar	play;group;swim;fight;move	water;otter;pool;world;play	pool;beach
+vid515	person;a	get;climb;sit;ride;go	motorbike;person;back;ride;helmet	
+vid484	person;band;dance	dance;play;sing;perform;man	stage;keyboard;person;music;microphone	stage;grass
+vid967	person;it;chef	pour;sprinkle;oil;add;season	fish;oil;sake;recipe;plate	
+vid1845	zebra;pair;person	rub;nuzzle;play;stroke;nudge	head;zebra;tango;one;play	ground;grass
+vid726	person;child;baby	talk;speak;hold;glass;drink	phone;telephone;milk;glass;friend	
+vid1212	person;child;toddler	play;splash;swim;enjoy;be	pool;tub;water;fun;cup	pool
+vid390	frog;snake	jump;catch;leap;come;miss	water;insect;bug;fly;dragonfly	sky
+vid147	person	drink;sit;take;bottle;chug	bottle;liquor;alcohol;water;drink	house
+vid1249	hamster;rat;mouse;cleaner;rodent	eat;trail;crawl;stuff;shed	food;floor;trail;seed;row	floor;ground
+vid897	explosion;bomb;smoke;build;village	occur;explode;blast;be;rise	tree;distance;build;position;house	house;ground;forest
+vid1737	person;lover;scene;heroine	take;bath;shower;stand;wipe	shower;rain;bath;person;towel	rain
+vid207	person;people;group	sweep;clean;water;brush;floor	house;water;home;room;floor	house;floor
+vid92	person	slice;cut;piece;make;cook	fish;salmon;meat;piece;slice	
+vid1003	person;builder;bodybuilder	lift;do;carry;train;exercise	weight;exercise;gym;machine;lot	
+vid186	dog;person;puppy;cat	run;climb;play;escape;race	stair;step;ball;staircase;mouth	stairs
+vid575	person;cowboy	point;hold;gun;threaten;show	person;gun;pistol;chest;stomach	
+vid1474	person;triangle;trailer;shape;rule	hold;stare;stretch;appear;show	hand;triangle;back;symbol;person	sky
+vid1396	player;person;team;wade;men	play;make;score;do;throw	basketball;basket;game;shoot;ball	house
+vid1807	cub;bear;person;two;baby	dig;bear;watch;walk;search	dirt;forest;tree;pile;video	forest;tree;ground
+vid126	cat;dog;point	climb;run;jump;walk;do	wall;will;sofa;cat;trick	wall;house;floor
+vid1858	person;baby;toddler	play;sing;stand	guitar;sofa	
+vid1935	person;player;brazilian;body	play;kick;pass;dribble;juggle	ball;football;foot;side;leg	stairs;garden
+vid765	person;music;baby	play;sing;sit;hum;hold	guitar;music;bed;tune;instrument	
+vid1113	person;dawn;officer;it;cop	drive;talk;ride;have;go	car;person;convertible;street;conversation	road
+vid1701	person;season	sprinkle;season;plate;put;cook	food;flour;vegetable;seafood;plate	
+vid30	panda;bear;animal	climb;play;eat;tower;sit	cake;tower;pen;toy;structure	
+vid1546	person;mechanic;it	assemble;put;demonstrate;make;join	speaker;part;work;waveguide;tool	
+vid1530	person;chef;layer	cut;slice;piece;trim;strip	meat;piece;knife;strip;roast	
+vid1354	person;trio;team;people	play;sing;be;stand;dance	guitar;stage;music;person	stage
+vid124	person;bread	eat;take;bread;taste;piece	bread;food;piece;sandwich;bite	kitchen
+vid13	person;lie	do;exercise;lay;demonstrate;work	exercise;mat;floor;workout;side	floor;house
+vid586	person;surfer;wave	surf;ride;play;wave;run	wave;sea;game	beach
+vid1501	person;song;nothing;lover	ride;go;drive;give;sing	motorbike;ride;person;tune;town	road
+vid438	person;teenager;mantis;insect	look;play;watch;talk;inspect	mantis;insect;pole;hopper;bug	grass;field
+vid1265	person;scream	scream;throw;cry;play;have	chair;sofa;tantrum;person;side	sky
+vid422	person;group;song;talk;people	dance;group;copy;perform;stand	person;airplane;aeroplane;movie;song	floor
+vid1487	person;dish;curry;cook	dip;bread;shrimp;put;make	shrimp;batter;piece;fish;bowl	
+vid394	person;butter;piece;cook;flour	mix;cut;slice;pile;butter	flour;butter;pile;knife;dough	
+vid945	band;person;group;troop;troupe	play;march;perform;man;instrument	instrument;field;music;band;wood	garden;forest
+vid633	person;teenager;friend;driver	drive;ride;talk;laugh;do	car;person;passenger;drive;chore	road;mountain
+vid1	squirrel;chipmunk;rabbit;rat;person	eat;play;chew;nut	peanut;nut;shell;food;leaf	
+vid1633	person;wall;child;anna	ride;bicycle;drive;watch;show	bicycle;motorbike;lot;tv;person	
+vid114	hedgehog;animal;person;èàit;rat	eat;piece;trail;treat;view	food;piece;floor;trail;nose	floor
+vid39	person	boil;cook;put;egg;pot	egg;water;pot;saucepan;same	kitchen
+vid479	person	cut;use;message	plate;scissors;paper;dish;comment	
+vid357	person;chef;cooker;chop;cabbage	cut;slice;chop;make;leaf	cabbage;leaf;salad;lettuce;knife	
+vid963	person;season;dog	add;sprinkle;salt;mix;season	cucumber;salt;slice;bowl;vegetable	
+vid1755	person;teacher;teach	write;do;solve;teach;put	board;equation;problem;video;sum	
+vid1274	person;it;cut	cut;slice;scoop;take;seed	cucumber;vegetable;inside;half;seed	
+vid1210	person;player;volleyball;hand;ball	hit;play;practice;serve;give	volleyball;ball;net;person;beach	beach
+vid1001	person	buy;purchase;take;walk;pick	beer;store;bottle;pack;it	
+vid1821	person;scene;part;one;it	cut;chop;tree;be;hit	tree;axe;forest;wood;trunk	tree;forest
+vid375	person;toaster;package;item	take;remove;scramble;pull;be	box;food;package;toaster;packet	
+vid1465	person;band;beck;sting;star	play;perform;sing;ready;sting	guitar;stage;music;concert;audience	stage;floor
+vid1324	dog;duck	sniff;play;smell;check;peck	duck;dog;face;one;nose	
+vid1387	monkey;chimpanzee;person;chimp;karate	do;practice;kick;show;perform	person;art;move;karate;box	
+vid73	person;item	pour;add;can;pot;dump	water;pot;can;sauce;chili	
+vid1819	person;it;father	talk;have;rain;approach;discuss	person;conversation;son;movie;discussion	
+vid1445	person;flour;egg;cook	mix;prepare;cut;make;egg	flour;egg;yolk;dough;wheat	floor
+vid877	bus;trolley;car;person;charlotte	move;drive;go;run;show	street;road;city;tour;trolley	road;garden
+vid393	person	play;strum;sit;sing	guitar;song;violin;room;music	house
+vid1670	person;ingredient;batter	mix;make;stir;cook;batter	bowl;ingredient;cookie;batter;mixture	
+vid89	person;chef	slice;cut;split;shrimp;make	shrimp;half;sushi;meat;two	
+vid1852	person;movie	shoot;walk;spray;plan;man	person;pistol;vampire;intruder;gun	
+vid1287	person;wood;knife;cut	cut;slice;carve;piece;use	knife;leather;wood;piece;thing	forest
+vid1779	person;chef;steam;vapor;smoke	pour;cook;stir;whisk;mix	nitrogen;pot;whisk;container;bowl	sky
+vid268	person;mother;mom;bench	lift;do;weight;pump;open	weight;garage;exercise;person;iron	house;road
+vid1923	dog	play;jump;bounce;pounce;be	trampoline;paw;jumper;fun	
+vid1627	person;chef;demo;cut	slice;cut;show;chop;mince	onion;knife;shallot;skill;way	
+vid324	cat;kitten;box	play;run;come;go;stick	box;tube;floor;container;sheet	floor
+vid1311	turtle;cat;tortoise;baby	play;try;bite;kiss;inspect	cat;turtle;face;interest;head	
+vid1822	cat;it;out;doorway	play;close;try;be;hide	box;door;paw;flap;house	house
+vid1438	dog	run;hide;bark;play;back	tree;grind;trunk;run;person	tree;ground
+vid1635	person;group;people;crowd;member	dance;group;stamp;sort;run	person;stage;washington;university;tune	stage
+vid121	person;season;thyme	season;sprinkle;prepare;make;put	dough;bread;spice;pan;meat	
+vid1334	person;chef;table;lemon;extract	squeeze;extract;make;prepare;use	lemon;juice;juicer;lasagna;half	
+vid1132	person;cook;chef	slice;cut;make;cook;do	carrot;knife;chunk;wedge;vegetable	
+vid909	train;canada;diesel	move;come;go;stop;run	track;station;stop;halt;two	sky;road;rain
+vid454	person	dance;sing;stand;bob;rap	one;tune;rap;music;head	
+vid1929	person;cut;carrot	cut;slice;make;chop;prepare	carrot;knife;two;stick;slice	
+vid977	person;damsel	do;exercise;work;hold;weight	exercise;shoulder;weight;workout;video	
+vid498	person;wow;stick;child;bubble	make;blow;create;hold;play	bubble;wand;garden;air;world	garden;sky;rain;field
+vid1181	lion;person;tiger	play;paw;lick;nibble;tug	person;leg;pants;foot;trainer	grass
+vid1087	person	throw;take;walk;slam;smash	tantrum;bedroom;room;bed;fit	house
+vid510	monkey;animal;water;walk;stream	walk;wade;fall;wake;waddle	water;lake;field;marsh;leg	pool;garden;mountain
+vid1857	person	apply;put;do;demonstrate;make	makeup;shadow;eyelid;brush;eye	
+vid1143	person;butter;cub;cook	melt;butter;cook;spread;make	pan;butter;chop;skillet;piece	
+vid439	person;camp	drink;get;take;clean;wash	fountain;water;drink;tap;mouth	
+vid1489	person;chef;chop	cut;chop;slice;make;cook	herb;vegetable;leaf;knife;cilantro	grass
+vid1214	person;lion;it	play;hug;jump;hold;recognize	lion;person;recognition;king;hug	
+vid1110	bear;beer	walk;climb;come;descend;play	rock;cliff;hill;mountain;forest	mountain;forest;beach
+vid356	person;horse;rider	ride;horse;do;sit;enjoy	horse;snow;season;ride;region	snow;rain
+vid1231	person;dog	walk;take;shock;lead;dog	dog;walk;person;voltage;leash	road;sky
+vid552	person;child;group;people;dance	dance;perform;group;play;sing	stage;person;dance;routine;play	stage
+vid1491	person;chef;dish;cook	cut;chop;slice;make;cook	herb;leaf;vegetable;noodle;piece	grass
+vid835	person;one;cook;chef	cut;slice;chop;make;mix	octopus;tentacle;vegetable;seafood;salad	
+vid1188	person;it;female;shadow;eye	apply;put;do;make;stand	makeup;eyeshadow;shadow;eye;eyelid	house;floor
+vid48	boar;pig	run;charge;go	wood;forest;tree;wind;field	forest;rain;garden
+vid1361	person	put;use;cook;set;heat	microwave;cup;oven;rib;coffee	kitchen
+vid1562	person;cook;a	slice;cut;prepare;show;peel	mango;fruit;slice;piece;knife	
+vid1473	baby;person;toddler	hang;talk;play;put;pick	phone;telephone;receiver;person;it	
+vid971	person	talk;ride;man;seat;phone	phone;car;person;seat;mobile	
+vid1405	person;cook;clop;chef	pour;make;prepare;fill;contain	blender;milk;fruit;shake;cream	
+vid1526	rooster;cock;person;chicken;spectator	fight;watch;be;take;stand	ring;fight;cockfight;person;grind	ground
+vid144	person;one;dressmaker	cut;sock;shears;piece;portion	sock;scissors;cloth;top;piece	
+vid396	person;egg	crack;break;pour;make;take	egg;bowl;dish;cook;breakfast	
+vid845	person;actor;song	dance;sing;rain;play;miss	rain;street;station;train;platform	rain;road;floor
+vid1762	train;rain;metro	go;move;speed;run;pass	track;well;water;shore;railway	beach
+vid1725	person	walk;sing;drive	street;sidewalk;song;road;way	road
+vid1599	person;fry	cut;slice;use;separate;rack	rib;meat;rack;knife;slab	
+vid1727	person;clean	clean;wash;wipe;use;glass	door;window;glass;wiper;way	
+vid576	person;reporter;newscaster;anchor;car	report;tell;talk;speak;read	news;report;studio;channel;shoot	house;road
+vid1891	person;chef;ingredient;icecream;cream	mix;whisk;stir;prepare;make	bowl;batter;ingredient;mixture;cream	
+vid1786	person;it;chef	squeeze;extract;prepare;use;make	lemon;juice;squeezer;process;juicer	
+vid831	person;pick;dead	lift;pick;try;take;present	log;wood;piece;it;head	forest;ground
+vid1859	person;baby;toddler;chill	play;sing;dance;hold;enjoy	guitar;sofa;star;song;show	
+vid1166	person;lucy;light;ricardo;episode	light;smoke;love;seat;talk	cigarette;person;lucy;one;lighter	
+vid853	person;lass;it;eyebrow	pluck;tweeze;do;shape;use	eyebrow;hair;tweezers;brow;makeup	
+vid987	person;chicken;bird;hen;flock	chase;run;open;get;flock	person;chicken;yard;door;shelter	garden
+vid1565	person;baby;bay	push;walk;wheel;play;be	stroller;store;supermarket;shop;cart	house;floor
+vid1320	person;choir;people;director;member	sing;lead;direct;teach;stand	choir;song;church;person;hymn	
+vid1039	person;cut;cook;chef	slice;cut;make;cook	tomato;knife;slice;salad;piece	
+vid1052	person;one	draw;write;deface;catch;tag	bill;note;face;dollar;money	
+vid1924	person;video;prisoner;opponent;gesture	give;show;flip;make;motion	person;finger;cell;prison;jail	
+vid1496	person;dog;dish	cut;peel;slice;cook;piece	lemon;peel;piece;rind;orange	
+vid1500	person;one;mushroom	pour;put;cook;boil;make	mushroom;water;pot;pan;food	kitchen
+vid1544	person	play;sing;man;swim;strum	guitar;song;t;sort;room	house
+vid58	person;cook;chef;milk;make	chop;cut;slice;dice;brace	pepper;chilli;chili;vegetable;slice	
+vid1478	person	peel;make;prepare;shell;remove	shrimp;water;shell;noodle;food	kitchen
+vid421	person;sunbather;time;30	put;wear;take;contact;be	sunglass;glass;purse;bag;while	beach
+vid278	person;time	kick;fight;fall;box;practice	dummy;mannequin;person;manikin;wig	ground
+vid65	cat;stand;it	scratch;play;paw;cat;try	board;bathtub;tub;paw;panel	wall
+vid1883	person;singer;band;pink;video	play;sing;perform;be;wear	guitar;stage;concert;video;person	stage;sky;mountain;garden
+vid487	person;camera	hammer;use;pound;hit;show	nail;camera;wood;lens;board	forest
+vid1657	person;chef;cook;duck	slice;cut;carve;remove;prepare	chicken;meat;piece;duck;turkey	
+vid513	person;one;fighter;car	hit;jump;beat;vandalize;damage	car;it;person;character;windshield	road;house
+vid686	person	play;sit;strum;pick;lay	guitar;shirt;room;professional;music	house
+vid218	person;walk;hero	carry;walk;sing;ride;lift	person;back;suitcase;head;song	road;forest
+vid208	person	cut;make;piece;use;tip	bag;plastic;scissors;piece;tip	house
+vid1898	person;scene;eye;actor	meditate;do;sit;close;travel	yoga;yard;leg;world;song	garden;forest
+vid1118	dog;person;team;wave;travel	pull;run;ride;dog;surf	sled;snow;sledge;ocean;dog	snow;beach
+vid1889	person;male;finger	play;strum;teach;move;give	guitar;instrument;unison;tune;sort	
+vid5	person;okra;finger;curry;chef	boil;put;add;cook;dump	water;okra;vegetable;pot;pepper	
+vid781	person;karate;player;artist	kick;break;do;play;hit	board;karate;wood;person;kick	forest
+vid251	person;jump;skip	jump;skip;rope;play;use	rope;road;field;street;roadside	road;field;garden
+vid59	person;soap;play;performer;magician	blow;make;chain;create;show	bubble;chain;wand;string;ring	stage;sky
+vid881	person;bedouin;arab	throw;fight;pick;attack;do	person;thing;grind;tent;table	ground
+vid535	person;cowboy;speed	shoot;fire;target;use;type	gun;target;rifle;succession;firearm	house;floor
+vid1089	person;patient;devil	run;flight;get;come;lie	stair;flight;step;bed;staircase	stairs;house
+vid1596	person;cook;make	make;roll;scoop;form;prepare	meatball;ball;meat;soup;mixture	
+vid1310	person	apply;put;make;do;use	shadow;makeup;eyelid;eyeshadow;make	
+vid1025	person;chef;scrape	add;put;pour;cook;saute	pan;oil;onion;skillet;ingredient	
+vid424	person;rider;motorcyclist;daredevil	do;ride;perform;show;stunt	motorbike;stunt;circle;trick;donut	
+vid753	person;denver;stand;john;band	play;sing;strum;perform;be	guitar;stage;song;band;musician	stage
+vid233	cat;pet;person;paw;dog	watch;box;bat;paw;do	tv;match;box;paw;boxer	
+vid851	person;car;there	drive;crash;hit;side;run	car;side;lot;way;drive	
+vid1666	person;peel;belgian	peel;make;cut;scrape;peal	potato;peeler;fries;tomato;onion	
+vid893	person;khan;indian;hero;actor	talk;give;speak;answer;say	reporter;media;microphone;interview;press	
+vid212	squirrel;animal;person	run;move;go;turn;walk	circle;tree;sidewalk;road;thing	tree;road;floor
+vid940	person;women	put;cook;place;dump;take	pan;meat;skillet;beef;stave	kitchen
+vid1806	person;jump;artist	do;jump;kick;perform;turn	air;kick;stunt;routine;move	sky;wall;stage
+vid1602	person;friend;group;fall;church	fall;help;run;pick;get	person;grind;friend;video;surprise	ground;road;floor
+vid481	person;motorcyclist	do;ride;perform;drive;stunt	motorbike;stunt;trick;wheel;while	
+vid1864	person;cook;chef;parsley;one	cut;chop;slice;prepare;shave	leaf;stem;parsley;bunch;knife	
+vid1774	person;logo	talk;speak;stand;give;wear	bookshelf;talk;suit;person;glass	
+vid1788	person	play;strum;seat;focus;concentrate	guitar;room	house
+vid690	person;woman	eat;talk;sit;inspect;have	hamburger;burger;diner;restaurant;booth	
+vid1408	person;tv	fight;push;tussle;try;talk	person;street;sidewalk;matter;kind	road
+vid284	person;s;pizza;one	talk;make;cook;stand;wear	phone;kitchen;telephone;pizza;person	kitchen
+vid907	person;player;stand;hook;athlete	shoot;throw;put;make;play	basket;basketball;ball;person;hoop	
+vid1645	person;fish;slit;cut	cut;clean;gut;open;kill	fish;knife;head;it;side	floor
+vid1969	person;it;drive	ride;cycle;drive;bicycle;travel	bicycle;motorbike;beach;road;path	beach;road
+vid1770	whisk;bowl;beater;ingredient;person	move;beat;prepare;mix;whisk	bowl;kitchen;whites;stave;egg	kitchen
+vid1605	chef;person;onion;cook	chop;dice;slice;cut;use	onion;piece;knife;vegetable;tomato	
+vid1441	person;cook;chicken	chop;cut;slice;use;man	chicken;axe;half;meat;scorpion	
+vid1540	turtle;fish;tortoise;terrapin	walk;swim;chase;follow;move	water;fish;ocean;bottom;turtle	beach;floor
+vid1189	person;clip	shred;pull;make;tear;peel	chicken;piece;meat;breast;hand	kitchen
+vid874	person;quail;season;video;piece	season;prepare;add;sprinkle;quail	quail;bowl;chicken;spice;recipe	kitchen
+vid34	person;group;troupe;dancer;dance	dance;group;perform;dress;do	person;costume;group;field;song	garden;mountain
+vid955	person;one;cooki8ng;cook;chef	add;pour;put;dump;prepare	sugar;pot;bowl;rice;pan	
+vid1933	person;baker;make;chef	roll;make;prepare;knead;work	dough;bagel;donut;shop;bakery	kitchen
+vid1165	person;cook;chef;it;half	chop;cut;slice;dice;peel	onion;piece;half;way;us	
+vid209	person;female	talk;do;speak;operate;get	phone;person;telephone;mobile;friend	
+vid341	person	pour;drain;strain;empty;cook	pasta;container;water;sink;liquid	
+vid1239	person;mom;baby;son;pumpkin	play;toss;catch;ply;pass	pumpkin;catch;person;ball;tomato	
+vid480	person	read;lay;book;sit;lie	book;rock;wood;garden;forest	forest;garden;ground
+vid1566	person;play;day	play;pay;enjoy;strum;be	guitar;stage;audience;video;performance	stage
+vid794	person;cook;video;tin;one	sprinkle;put;slice;grate;show	bread;cheese;slice;recipe;piece	
+vid1909	monkey;animal;money	scratch;itch;sit;play;take	arm;body;tummy;stomach;skin	
+vid691	person;call	make;call;dial;place;use	call;phone;person;mobile;cell	
+vid1536	person;cook	put;drop;open;place;cheese	bowl;cheese;butter;it;stick	
+vid573	person;car;jeep;driver;drive	walk;man;talk;pull;stop	road;person;jeep;street;car	road;house
+vid777	person;one;hair	comb;brush;show;do;brushes\/combs	hair;video;person;fireplace	
+vid1488	person;shrimp;food;fish;chef	fry;put;place;cook;make	shrimp;oil;food;pan;fry	
+vid1150	person	play;ring;name;perform	guitar	
+vid1178	person;monkey;chimpanzee;gorilla;reporter	pinch;get;pull;play;hold	hand;person;monkey;fence;chimpanzee	fence
+vid213	puppy;dog;cat;butterball	go;walk;try;get;climb	stair;step;staircase;way;set	stairs
+vid473	person;lesbian	sit;talk;lay;hug;recline	sofa;chair;cushion	
+vid754	cat;stare	look;stare;see;stand;sit	window;box;table;house;dresser	house
+vid999	person;ballerina;dancer	dance;perform;do;talk;sequence	stage;dance;white;tutu;trailer	stage;house
+vid825	person	play;press;group	keyboard;piano;organ;instrument;violin	
+vid253	person;female	style;do;tie;put;fix	hair;section;mohawk;style;dress	
+vid1702	person;batter;vegetable;fries;food	fry;put;dip;make;cook	oil;food;vegetable;pot;it	
+vid1401	person;rider;horse;ride;jumper	ride;trot;horse;gallop;exercise	horse;ring;arena;track;stable	
+vid270	train;toy;set;person;model	run;move;go;travel;train	track;train;store;station;side	house
+vid1437	person;chef	roll;make;ball;piece;form	dough;ball;hand;bread;piece	
+vid669	person	spread;butter;put;paste;cook	butter;tortilla;margarine;bread;t	
+vid15	person;vegetable;clip	add;put;mix;season;pour	bowl;ingredient;food;vinegar;vegetable	
+vid295	person	crack;break;cook;make;pour	egg;bowl;dish;curry;fry	
+vid1624	person;motorbike;motorcyclist;teenager;race	ride;race;go;drive;turn	motorbike;track;turn;road;curve	road
+vid1364	person;power	slide;rail;skate;ride;man	rail;handrail;stair;escalator;banister	stairs
+vid1230	person;finger	play;pick	guitar;song;instrument	
+vid1419	person;tap;it	dance;suck;miss;make;be	stage;dance;spotlight;song;second	stage;floor
+vid1872	person;gardner;garden	mow;cut;move;push;run	lawn;grass;mower;yard;machine	garden;grass
+vid700	person;chef;cook;chop	cut;slice;piece;chop;make	chicken;piece;meat;soup;knife	
+vid1355	person;baby;toddler;horse	ride;sit;go;trot;seem	horse;ride;pony;city	
+vid1192	person;play	play;sit;tune;sing;flute	flute;instrument;song;cross;tune	ground
+vid325	cat;walk;person	walk;bring;traverse;search;roam	house;floor;home;cat;room	house;floor;kitchen
+vid1539	person;group;people;member;individual	sing;group;celebrate;wear;dance	person;song;japan;hat;microphone	road;house
+vid237	person;sex;kiss;goods;clip	kiss;get;give;stand;graduate	person;kiss;time;movie;disease	
+vid1045	person;ma;it;horse	ride;horse;man;give;turn	horse;circle;area;train;pen	house;garden
+vid759	frog;person;finger;toad	bite;play;try;tease;attack	finger;frog;hand;person;me	
+vid1592	cat	come;crawl;play;be;emerge	sofa;cushion;toy;side;seat	
+vid1285	person;female	read;name;page;apply;rede	magazine;newspaper;paper;bohemian;day	kitchen;house
+vid1130	person;bus;group;truck;song	ride;travel;drive;talk;sit	bus;person;road;roof;top	road
+vid344	person;chef	pour;sauce;plate;add;cook	sauce;pasta;spaghetti;plate;noodle	
+vid783	person;water	fill;put;take;pot;water	water;pot;pan;tap;saucepan	kitchen
+vid1744	person;musician;finger;composition	play;compose;start;perform;name	piano;keyboard;music;tune;song	
+vid235	person;mixture;it;dough;cook	mix;add;stir;make;flour	dough;flour;bowl;ingredient;mixture	
+vid1888	person;rodeo;ha;bull	ride;sit;play;do;enjoy	bull;rodeo;ride;toy;table	
+vid3	person;ma	slice;cut;bottle;break;use	bottle;sword;water;half;top	road
+vid1781	animal;mouse;jerboa;rat;rodent	hop;search;jump;play;look	rock;food;terrain;tail;night	ground
+vid734	person;child;two;group;food	eat;cook;make;watch;stir	hamburger;kitchen;burger;person;food	kitchen;house
+vid1588	person;underwood;singer;carrier	sing;perform;walk;hold;handle	stage;microphone;song;mike;show	stage
+vid151	person;karate;artist;actor	break;chop;strike;stack;stick	brick;hand;board;wood;stack	forest
+vid272	person;song;shoulder;movement;film	cry;illustrate;talk;plead;ham	person;song;shoulder;it	
+vid985	hammer;person;who	hit;work;fly;use;move	hand;person;wrench;machine;hammer	ground;grass;floor
+vid1747	person;s	wrestle;fight;practise;work;shout	suit;grind;person;match;floor	ground;floor
+vid1273	person;chef;cook	stir;mix;prepare;bowl;use	bowl;salad;ingredient;food;vegetable	
+vid990	person;chef;cook	slice;cut;do;show;sharpen	potato;vegetable;slice;use;technique	
+vid465	person;chat	ride;drive;talk;stand;chat	scooter;motorbike;road;mope;vehicle	road
+vid810	person;knife;fruit;chef	peel;slice;skin;take;cut	skin;kiwi;fruit;knife;vegetable	
+vid1765	person	fold;make;piece;paper;do	paper;butterfly;piece;sheet;it	
+vid191	person;tree;song;forest;actress	dance;sing;be;stand;fire	fire;bonfire;night;forest;stand	forest
+vid1099	person	push;jump;knock;beat;shove	stick;person;it;help	
+vid681	baby;person;sneeze;child;one	sit;sneeze;scare;startle;surprise	baby;seat;sneeze;chair;side	
+vid1410	person;women;woman	cut;slice;chop;make;cook	potato;piece;knife;vegetable;sort	kitchen;house
+vid1319	person;toss;stone;one;brick	hit;throw;man;toss;fall	head;brick;person;roof;grind	ground;stairs
+vid1160	person;well;gentleman	run;middle;wear;dress;play	road;motion;suit;street;middle	road
+vid1053	person;batman;robin;helicopter;shout	fly;ride;be;show;travel	helicopter;ocean;sea;water;robin	beach
+vid1432	panda;bear;baby;cub	slide;go;play;ride;sleep	slide;snow;ice;fun;baby	snow
+vid182	person;clerk;people;camera;shopper	shop;walk;buy;purchase;sell	store;shop;customer;purchase;market	
+vid1415	officer;person;cop;police;policeman	pull;point;approach;gun;stop	car;gun;person;road;driver	road;sky
+vid660	person;baby;star;infant	sing;take;sit;bath;talk	bath;bathtub;tub;star;song	
+vid1567	deer;herd;animal;group;dear	cross;run;herd;group;go	road;deer;forest;street;wild	road;forest
+vid1094	person	move;carry;remove;push;drag	branch;tree;limb;wood;trail	tree;forest;pool
+vid903	person	play;sing;ring;make;hum	guitar;music;tune;song	
+vid1328	person;cook;mold;form	make;prepare;form;take;ball	dough;bowl;ball;hand;batter	
+vid872	person;player;team;cricketer;batsman	play;hit;throw;make;ball	cricket;ball;match;person;bat	
+vid1168	person	sew;stitch;use;table;say	machine;fabric;square;cloth;thing	
+vid616	person;player;team;group;game	play;pass;throw;tackle;game	ball;rugby;game;grind;player	ground;garden
+vid1051	person	play	keyboard;piano;music;stuff;song	
+vid467	person;fiddler;house;bird;actor	play;fiddle;stand;be;sing	roof;violin;top;rooftop;house	house
+vid90	person	slice;cut;piece;make;strip	fish;meat;piece;tuna;sushi	kitchen
+vid540	person	peel;take;use;skin;pare	apple;knife;skin;round;board	
+vid217	car;person;driver;drive	drive;crash;hit;run;meet	build;car;sidewalk;wall;motorbike	wall;road;house
+vid1665	person;potato;chef	peel;make;show;peal;remove	potato;fries;peeler;skin;layer	
+vid819	person	dance;practice;play;couple	song;person;house;dance;bedroom	house
+vid566	person;dancer	dance;do;stand;make;apply	cage;stand;face;enclosure;dance	
+vid1773	animal;lemur;person;panda;mammal	look;search;sniff;crawl;walk	container;food;box;bed;blanket	
+vid94	person	slice;cut;use;make;cook	potato;ginger;vegetable;slice;sushi	kitchen
+vid725	cat	meow;stare;look;purr;open	camera;voice;mouth	
+vid917	person	peel;prepare;clean;take;shell	shrimp;shell;prawn	
+vid1195	person;style;kant;actor	smoke;sit;enjoy;man;lean	cigarette;suit;cigar;sunglass;sequence	
+vid1000	lion;person;tiger;male	watch;sit;lie;couple;talk	tv;sofa;lion;show	
+vid1101	tiger;clip	run;walk;feature;emerge;come	motion;movie;grass;field;bush	grass;garden;forest;field
+vid988	person;player;team;r;men	play;kick;practice;pass;perform	soccer;football;ball;grind;game	ground;garden
+vid12	person;play;nina;me	play;please;plate;flute;teach	flute;instrument;music;flue;excuse	
+vid303	person;clip	cut;slice;chop;make;dice	pepper;capsicum;piece;curry;vegetable	
+vid1259	person;murphy;hall;bar	walk;enjoy;be;watch;see	bar;club;nightclub;pub;movie	floor
+vid1792	person;stand	fall;lean;try;stand;feature	street;sidewalk;road;pavement;post	road;house;ground
+vid1716	person	apply;put;do;make;up	shadow;makeup;eyeshadow;eye;brush	
+vid1476	person;song;rain;actress	dance;tree;stop;run;rain	rain;tree;water;song;scene	rain;tree
+vid615	person;motorcyclist;rider;racer;motorcycle	race;ride;participate;drive;wheel	motorcycle;track;race;motorbike;bike	road
+vid1059	person;bicycle	ride;bicycle;do;drive;pedal	bicycle;motorbike;lot;grind;bus	ground;road
+vid1652	lemur;animal;raccoon;panda;number	huddle;take;sit;hug;hold	group;animal;lemur;sun;row	
+vid1554	person;cook;chef	peel;cut;slice;make;knife	onion;skin;half;fruit;skill	
+vid1411	train;snow;rain	pass;run;go;speed;ride	track;mountain;top;railway;countryside	mountain
+vid384	person	peel;mash;do;cut;cleave	garlic;onion;skin;it;peel	kitchen
+vid326	person;soda;pepsi;drink	drink;open;can;take;pop	can;soda;drink;pop;it	
+vid1960	elephant;video;person;baby	spray;bath;splash;play;take	water;trunk;river;bath;elephant	pool
+vid32	person;water	pick;hold;water;put;pour	can;water;plant;tree;thing	grass;tree;garden
+vid1776	person;farmer;group;worker;lota	plant;pick;work;group;harvest	rice;field;plant;person;crop	garden;field;grass;pool;mountain
+vid665	person;chef	cut;slice;remove;clean;take	pepper;seed;capsicum;vegetable;salsa	garden
+vid415	car;person;way;van;post	back;move;drive;be;take	car;space;road;reverse;lane	road;fence
+vid1137	person;peel;cook;chef	peel;cut;slice;make;cook	potato;skin;vegetable;knife;ginger	
+vid276	person;motorcyclist;racer;motorbike	crash;fall;slide;skid;get	motorbike;way;race;accident;hill	mountain
+vid628	person;pan;food;chef	add;put;cook;prepare;dump	pan;garlic;meat;skillet;ingredient	
+vid98	person	stir;mix;make;prepare;cook	bowl;rice;ingredient;food;spoon	kitchen
+vid1187	person;waiter	serve;talk;eat;place;people	food;person;table;party;customer	house
+vid925	person;baby	vacuum;clean;sweep;push;mope	floor;carpet;house;vacuum;sweeper	floor;house
+vid338	person;item	put;place;cook;microwave;make	microwave;container;pasta;oven;food	
+vid306	dog;fox;master;it	wag;smile;shake;look;wave	tail;person;smile;wag;tale	
+vid611	person;group;dance;dancer;tribe	dance;group;perform;do;hold	person;dance;movie;line;night	ground;forest
+vid192	person;actress	dance;sing;rain;enjoy;sign	rain;movie;waterfall;song;side	rain;garden;floor
+vid624	person;slab;chef	slice;cut;make;use;dice	tofu;cube;butter;rectangle;knife	
+vid630	person	chop;cut;mince;dice;cup	onion;garlic;knife;vegetable;potato	
+vid1017	person;blade	slice;cut;loaf;piece;pass	bread;loaf;knife;piece;test	
+vid808	person;us;shirt	show;hold;open;display;talk	t;shirt;it;tube;logo	
+vid661	person;s;portion;cook;cake	cut;make;slice;prepare;piece	cake;piece;shape;section;dinosaur	
+vid442	person;horse	ride;raid;do;teach;play	horse;ride;video;saddle	
+vid1966	person;indian;head;actor	ride;horse;search;look;wait	horse;water;river;bow;arrow	pool;forest
+vid1646	kitten;cat;kitty;animal;act	eat;play	food;bowl;plate;dish	
+vid509	doctor;surgeon;person;team;group	operate;work;do;watch;perform	person;patient;operation;surgery;theater	house
+vid40	person;chef;dish	peel;make;remove;egg;bowl	egg;water;shell;bowl;food	
+vid1800	person;runner;racer;athlete;group	run;race;sprint;compete;be	race;track;person;line;signal	
+vid1873	person	mow;cut;clean;push;do	lawn;grass;mower;garden;machine	garden;grass;field
+vid155	person;clay;artist	break;kick;smash;hang;pot	pot;water;leg;jug;jar	
+vid627	person;dump;fries;chef	cook;put;brown;stir;fry	meat;pan;skillet;wok;pork	
+vid1663	person;reporter;video;newscaster;channel	row;paddle;canoe;boat;show	boat;canoe;water;street;news	road;pool
+vid764	monkey;chimpanzee;chimp;animal	brush;groom;do;comb;play	dog;hair;bulldog;hairbrush;fur	
+vid766	person;chef;cook;it;bread	cook;fry;toast;prepare;use	pan;food;crumb;stave;skillet	
+vid188	turtle;tortoise;group;number;lot	walk;crawl;move;run;group	sand;turtle;beach;tortoise;sea	beach
+vid95	person;chop	dice;slice;cut;chop;piece	ginger;vegetable;potato;piece;slice	
+vid1280	person	hit;beat;man;spank;whack	person;stick;butt;sword;back	
+vid863	person;break;egg;dish;crack	crack;beat;break;mix;stir	egg;bowl;chopstick;it;recipe	
+vid554	person;player;team;people;match	play;dribble;kick;trick;win	soccer;ball;football;field;player	garden
+vid693	person;chef;cook;chop	slice;cut;chop;dice;make	cucumber;vegetable;knife;stick;spec	
+vid23	person;japanese;view;it;food	slice;cut;make;chop;show	carrot;piece;knife;vegetable;lunch	
+vid1777	person;passenger;group;people	get;exit;train;step;disembark	train;station;person;transit;subway	
+vid337	person;cook;chicken;chef;show	cook;stir;put;make;fry	pan;food;rice;skillet;curry	kitchen
+vid1463	person;stunt;rider;monkey	do;ride;perform;trick;stunt	motorbike;stunt;trick;wheel;circle	sky;ground
+vid335	leopard;snow;kitten;cub;baby	be;sit;run;exit;survey	mother;cub;zoo;open;mom	house;garden
+vid559	person	chop;cut;use;tree;fell	tree;axe;wood;log;trunk	tree;forest
+vid1887	person;player;ball	dribble;run;bounce;play;tap	ball;basketball;court;basket;while	garden
+vid750	person;men;group	play;push;scoot;move;game	chess;game;piece;board;person	house
+vid1040	person;horse;rider	ride;horse;jump;gallop;trot	horse;field;grass;pony;hurdle	garden;grass;field;fence
+vid1317	person;player;instructor	do;exercise;step;jump;show	exercise;side;workout;room;rope	house;floor;wall;stairs
+vid1026	person;cook;chef	fry;saute;cook;add;stir	onion;pan;skillet;vessel;vegetable	
+vid741	person;prisoner	make;talk;use;call;pull	phone;call;room;person;warehouse	house
+vid507	baby;person	laugh;smile;howl;baby;seat	time;lot;laughter;camera;bed	
+vid386	person;strip;it	kiss;stand;make;love;film	person;cave;sort;movie;film	
+vid255	person;stand;child;advertisement	kick;play;talk;ask;signal	person;ball;fence;football;dirt	fence;garden
+vid1504	person;pork	cut;make;slice;poke;piece	meat;piece;cut;pork;chop	
+vid232	person;head	rise;emerge;come;try;raise	water;mud;swamp;side;sand	
+vid1696	dog;toy	bark;play;walk;jab;enjoy	toy;doll;duck;chicken;wind	rain
+vid1603	person;group;dance	dance;perform;do;wear;stand	person;crowd;room;glove;class	house
+vid1712	person	lift;pick;end;back;sit	car;truck;end;back;hand	sky;ground
+vid254	ball;person;potato;manus	knock;hit;roll;play;bounce	potato;ball;table;floor;end	floor;ground
+vid1211	person;shooter;old	shoot;fire;hit;stand;say	gun;target;rifle;pistol;firearm	ground
+vid556	person;guitar;s;one	play;sing;enjoy;strum;sit	guitar;music;song;bench;suit	
+vid954	person;food;cook;chef	stir;mix;cook;rice;put	pot;milk;rice;stave;spoon	
+vid111	person;makeup;joker;face	apply;put;paint;do;make	makeup;person;face;joker;eye	
+vid1367	person;female	dance;sit;do;swing;shake	stair;step;dance;time;stage	stairs;stage;house;floor
+vid1576	person;runner;racer;group;athlete	run;race;group;sprint;be	race;track;person;rice;player	garden
+vid1575	person;it	peel;cut;slice;remove;skin	papaya;skin;knife;fruit;vegetable	
+vid1868	person;player;ball	shoot;throw;make;put;score	basket;basketball;ball;throw;hoop	
+vid1675	person	chase;play;run;hit;swing	person;house;fight;teenager;room	house
+vid1861	person;baby;re;fish;comedy	run;play;hold;catch;fish	fish;pole;rod;line;end	
+vid995	person;potato;cut;cook;chop	slice;cut;dice;chop;use	onion;knife;potato;piece	
+vid668	person;chop	chop;use;cut;dice;press	onion;machine;chopper;potato;piece	kitchen
+vid1647	person;stand;car;driver;drive	ask;drive;hitchhike;pass;try	person;lift;car;hitchhiker;ride	road
+vid316	person;gorilla;ape;play;one	play;man;bang;run;beat	store;suit;drum;bongo;monkey	road
+vid880	person;chef;cook;slice;piece	slice;cut;put;piece;place	cake;piece;bread;plate;knife	
+vid1193	person;teenager;dog	talk;answer;speak;sit;spin	phone;chair;telephone;person;friend	grass
+vid1707	person;trouble	crawl;walk;move;hold;trouble	knee;sidewalk;hand;cone;street	road;ground
+vid1820	person;jump	jump;do;hold;run;man	umbrella;object;wall;stunt;trick	wall;garden;fence;rain;road
+vid937	person;stand;skateboarder	skateboard;ride;skate;do;cross	skateboard;road;street;sidewalk;city	road;floor
+vid923	person;chef;tomato;summer;recipe	scramble;cook;make;stir;prepare	egg;tomato;pan;omelet;recipe	
+vid1413	baby;person;toddler	play;put;pick;dance;spin	toy;room;tea;dog;container	house;ground;floor
+vid1844	cat;it	jump;chase;leap;run;do	ball;air;house;stunt;room	sky;house;floor
+vid1551	person;chef	slice;cut;slick;chop;show	pepper;tomato;strip;knife;capsicum	
+vid606	person;tear;it	tear;piece;cut;make;rip	paper;piece;cup;sheet;half	
+vid1522	person	hit;smash;use;injure;hammer	hammer;finger;thumb;hand;wall	wall;stairs
+vid343	person;dump	pour;put;dump;add;cook	plate;pasta;noodle;container;spaghetti	kitchen
+vid1548	person;potato;guide;chef	cut;slice;dice;chop;show	onion;knife;vegetable;tip;piece	
+vid587	person;group;skater;player;people	skate;be;participate;race;group	race;derby;person;track;match	
+vid701	person;one;cook;chef	pour;put;add;cook;dump	vegetable;pot;broth;soup;pan	house
+vid1135	person;cook	peel;cook;slice;remove;take	potato;peeler;root;vegetable;tofu	
+vid1556	person;blond	climb;rock;go;ascend;top	wall;rock;tower;top;stone	wall;mountain
+vid1598	person;meat;dad;cook;chef	cut;slice;rack;piece;cook	rib;meat;rack;piece;slab	
+vid1699	person;cook;chef	pour;plate;make;sauce;add	sauce;food;plate;dish;tendon	
+vid1951	person;rider;horse;ride;jockey	ride;trot;walk;horse;surround	horse;field;ride;person;hour	garden;ground
+vid787	person;prawn	cook;fry;shrimp;remove;turn	shrimp;pan;skillet;red;prawn	
+vid1455	person;player;basket;ball	throw;put;do;play;shoot	basket;basketball;ball;net;layup	
+vid1286	person;coffee	pour;make;cup;add;prepare	coffee;cup;mug;cube;sugar	house
+vid1662	person;package;open;it;cut	open;cut;take;receive;contain	package;headphone;headset;envelope;set	floor
+vid919	person;chef;cookery;cook	chop;crush;smash;slice;make	garlic;knife;shrimp;piece;pasta	
+vid763	person;apple;hand;half;break	cut;break;pull;split;splits	apple;hand;knife;half;piece	house
+vid1380	person	eat;twirl;taste;dip;try	spaghetti;fork;food;sauce;noodle	
+vid849	person;group;movie;fight;artist	fight;hold;attack;throw;defeat	person;gun;fight;wall;two	wall;ground
+vid982	bird;parrot;person;peacock;it	play;lie;lay;act;jump	floor;foot;time;life;grind	floor;sky;ground
+vid1581	monkey;orangutan;chimpanzee	ride;sit;wear;travel;see	bus;headphone;car;window;vehicle	
+vid113	lion;watch;tiger	lie;lay;sit;clean;rest	grind;grass;forest;tongue;person	ground;grass;forest;garden;floor
+vid1955	person;comedy	eat;stuff;stand;make;talk	banana;mouth;store;stop;plantain	
+vid930	cat;person	play;hit;enjoy;tap;stroke	piano;key;paw;it;tune	
+vid1945	person;video	dive;jump;swim;show;take	pool;water;wall;swim;fool	pool;wall
+vid823	person	sit;knit;crochet;make;talk	sofa;person;crochet;woolen;wool	
+vid1020	person;chef	cut;slice;package;try;use	meat;knife;package;beef;tube	
+vid1685	person;lover;couple;trailer;it	dance;slow;sing;hold;gather	dance;song;movie;room;person	house
+vid840	person;video;cut	cut;slice;learn;strip;make	meat;bacon;strip;half;pork	
+vid715	person;wa7ter;fish	drink;glass;fish;swallow;have	glass;fish;water;it;tadpole	
+vid482	dog;puppy;person;it;pet	bark;wag;want;sit;jump	tail;mama;floor;person;food	floor;house
+vid50	person;cook;chop	chop;cut;dice;slice;mix	pepper;vegetable;jalapeno;onion;tomato	
+vid639	person	spread;butter;put;apply;smear	bread;butter;slice;piece;loaf	
+vid1629	person;cycle;thing;slide;bicycle	fall;ride;do;show;crash	motorbike;bicycle;person;thing;ledge	house;ground;grass
+vid1091	person;hunter	drag;pull;walk;take;man	deer;wood;person;forest;animal	forest
+vid1730	person;trainer;teach;instructor;coach	do;exercise;demonstrate;teach;show	person;exercise;mat;butt;us	
+vid614	person;cook	cut;slice;put;chop;cook	butter;bowl;mixer;piece;cheese	
+vid912	person;couple;dancer;group;song	dance;sing;group;perform;remain	stage;floor;couple;person;hall	stage;floor;kitchen;house
+vid975	cat;it;stick;person	lick;eat;keep;tongue;mash	lip;potato;chop;mouth;tongue	
+vid461	person;nancy	wash;talk;cook;wipe;prepare	hand;kitchen;cook;camera;towel	kitchen
+vid1593	cat;person;it;black;baby	rub;play;snuggle;nuzzle;cuddle	baby;person;face;cat;head	
+vid1615	person;cut;cook	slice;cut;loaf;make;prepare	bread;loaf;soup;slice;piece	
+vid1769	person	eat;take;chew;bite;sit	food;bite;it;fork;expression	
+vid119	baby;person	watch;dance;do;move;see	tv;video;dance;table;set	
+vid1469	person;chicken;it;root;clove	cut;remove;root;make;do	root;garlic;curry;plant;onion	grass;garden
+vid843	person;lettuce;one;dish;chef	chop;slice;cut;make;shred	lettuce;cabbage;leaf;vegetable;knife	
+vid1069	badger;animal;squirrel;dig	walk;come;climb;run;leave	hole;grass;grind;mud;mound	grass;ground;house;forest;mountain
+vid1399	panda;baby;person;bear;one	play;lay;hug;cuddle;lie	mother;person;one;public;panda	ground
+vid1790	person;artist	play;sit	guitar;ukulele;street;road;mandolin	road
+vid1586	rabbit;bunny;tom;squirrel;it	kiss;thump;rabbit;name;love	rabbit;person;foot;bunny;trailer	
+vid1246	person;chef;butcher	cut;trim;slice;piece;fat	meat;piece;fat;strip;roast	
+vid1391	person;hedgehog;rat;shower;it	wash;clean;get;give;bath	bath;hedgehog;sink;pan;mouse	
+vid620	dog;video;door	open;take;get;grab;eat	refrigerator;fridge;food;door;picture	
+vid683	person;blond	dance;do;stand	room;style;outfit;gown;dress	house
+vid961	person;dog	remove;peel;skin;clean;cook	fish;skin;bone;piece;finger	
+vid1534	person	pour;open;add;empty;make	bowl;can;chili;food;tin	kitchen
+vid391	person;musician	play;enjoy;sway;try;man	cello;violin;instrument;villain;video	
+vid1794	person;water;coconut;chef	pour;drain;add;water;prepare	water;bowl;coconut;juice;strainer	
+vid74	person	pour;add;put;pot;mix	bean;pot;chili;pan;bowl	
+vid56	person;panda;cub;fox;mammal	eat;feed;play;lick;hand	hand;panda;cub;palm;food	grass
+vid1322	person;cook;chef;burger	cut;slice;peel;make;prepare	eggplant;vegetable;piece;brinjal;recipe	
+vid452	person	walk;sing;chop;be;wake	path;road;way;walkway;walk	road;stairs;garden;forest
+vid1117	person;rider;ride	ride;perform;top;do;bicycle	motorbike;fence;bicycle;gate;top	fence;wall;road;ground
+vid1218	person;video;seasoning;item;chef	mix;prepare;put;cook;spice	bowl;spice;salt;cup;turkey	
+vid1109	monkey;animal;tarsier;lemur;person	eat;chew;munch;monkey;stare	food;eye;monkey;tarsier;stick	
+vid1650	cub;lion;tiger;person;group	play;walk;stand;nuzzle;lie	door;cub;zoo;trainer;sand	ground
+vid1055	raccoon;racoon;group;squirrel;cat	eat;group;walk;scare;fight	food;raccoon;peanut;nut;grind	ground;wall;house;fence
+vid815	puppy;dog;person	try;jump;get;wag;come	bathtub;tub;tail;it;basin	
+vid1247	dog;animal;lion	run;hit;crash;bang;sprint	wall;mailbox;structure;road;post	wall;road;garden;ground;grass
+vid771	cat;person;kitten	lick;rub;play;sniff;smell	bottle;face;medicine;hand;cat	
+vid790	person;wire	swing;hang;play;rope;ride	rope;chain;garage;room;stunt	house;sky
+vid475	bird;parakeet;stand;parrot;phone	dial;make;peck;play;use	phone;telephone;call;number;beak	
+vid1669	person;play	play;sort;note	keyboard;piano;board;instrument;va	
+vid1288	person;mat;carpet	cut;use;slice;piece;do	knife;carpet;piece;mat;sheet	
+vid722	person;cook;carrot	slice;cut;chop;make;fine	carrot;piece;slice;strip;knife	
+vid1088	person;lover;it	rock;hug;hold;cradle;seat	person;bench;bed;song;sand	
+vid997	person;orchestra;band;group;musician	play;perform;sing;group;give	instrument;violin;stage;music;violinist	stage
+vid640	person;way;season;it;garlic	season;sprinkle;make;prepare;add	bread;spice;slice;pizza;loaf	
+vid1037	person;it;dish;chef	add;mix;season;put;salt	pea;salt;bowl;spice;rice	
+vid896	player;person;group;teammate;team	fight;attack;try;break;hit	referee;person;teammate;player;match	garden;ground
+vid1352	animal;person;sloth;monkey;mammal	eat;try;sit;steal;share	food;fruit;cage;refrigerator;piece	
+vid198	dog;dachshund;puppy;play;dash	play;run;ball;bring;place	ball;mouth;machine;hall;it	kitchen;house
+vid680	person;chef;cook;cartoon;character	flip;cook;make;clip;toss	pancake;pan;banana;skillet;food	sky;kitchen
+vid447	person;meat;cook	mix;stir;prepare;cook;make	bowl;meat;beef;food;broccoli	
+vid516	person;actress;lad	sing;wear;present;look;talk	microphone;studio;song;headphone;mirror	
+vid598	person;bottle;cut	slice;cut;use;break;row	bottle;knife;row;water;time	
+vid1404	person;player;tennis;people;match	play;be;beat;watch;match	tennis;match;table;pong;game	
+vid577	reporter;person;report;reader;manchester	report;talk;speak;tell;stand	news;scene;story;shoot;microphone	road
+vid795	person;cook;chef	slice;cut;loaf;demonstrate;piece	bread;loaf;slice;piece;knife	
+vid1505	person;pork;chef	season;sprinkle;piece;chop;add	meat;pork;piece;spice;salt	
+vid1466	person;group;youngster;student;people	make;form;climb;group;enjoy	pyramid;person;one;youngster;triangle	road;grass
+vid1482	person;chef;season	season;prepare;shrimp;put;add	shrimp;bowl;seafood;prawn;powder	
+vid957	person	pour;add;sauce;stir;put	sauce;pot;pan;sausage;can	
+vid1916	person;car;take;skeleton;reaper	hitchhike;ask;man;wear;hike	costume;lift;road;mask;car	road
+vid870	person;pilot;jet;aeroplane;it	fly;be;do;show;talk	aeroplane;air;jet;sky;airplane	sky
+vid1234	person;cookery	pour;add;prepare;oil;mix	oil;tomato;bowl;salad;slice	
+vid269	person;slime;recipe;pain;liquid	pour;get;have;dump;slime	head;slime;person;show;tv	
+vid855	person;one;chef	pour;add;make;cook;oil	oil;pan;skillet;video;role	
+vid382	person;cook;chef;dish	remove;cut;trim;take;make	chicken;meat;fat;skin;piece	
+vid1550	person;chef;item	cut;chop;dice;slice;mince	knife;garlic;clove;item;way	
+vid1444	person;worker	put;pick;place;catch;move	box;dragon;lizard;container;it	
+vid1177	person;song;male	play;sort;perform;key	keyboard;piano;organ;song;sort	
+vid1219	person;target;bullet;toy;shoot	shoot;hit;get;fire;hang	target;board;gun;hole;bullet	tree;forest
+vid1442	person;chef	pour;oil;add;put;make	oil;pan;skillet;pot;dish	kitchen;house
+vid261	cat;hook;fan	swing;catch;play;hang;spin	fan;room;it;wing;wall	house;wall
+vid1400	person;m	play	guitar;music;me;instrument	
+vid20	person;piece;vegetable;japanese;dish	remove;fry;take;piece;cook	food;vegetable;pot;piece;oil	
+vid1337	bear;animal;walrus;deer	run;chase;walk;group;strip	walrus;group;seal;land;strip	beach
+vid1278	person;skateboarder;hawk;skater;skateboard	do;skateboard;ride;skate;trick	trick;skateboard;ramp;stunt;pipe	ground;garden
+vid1729	person;child;baby;toddler;group	dance;group	person;child;reception;gym;group	floor
+vid522	frog;person;one;it;tadpole	bite;play;lick;try;hold	finger;frog;mouth;person;toad	
+vid1281	person	throw;play;hit;toss;tell	ball;person;us;discussion;cricket	
+vid944	person;car	change;try;remove;struggle;repair	tire;car;tyre;road;wheel	road
+vid1375	person;pot;season;one;jack	season;add;sprinkle;pour;put	sausage;pot;spice;stave;seasoning	
+vid1796	person	play;sit	guitar;video;music;microphone;instrument	
+vid345	person;cook	eat;take;taste;talk;hold	spaghetti;pasta;plate;food;bite	kitchen
+vid416	person;cowboy;child;dwarf	fight;talk;try;get;break	cowboy;stage;fight;drama;while	stage
+vid1915	puppy;dog;pug;way;pig	walk;push;scoot;move;slide	floor;mother;mom;leg;way	floor
+vid506	shuttle;aeroplane;spaceship;rocket;flight	fly;land;move;try;soar	land;earth;sky;space;water	sky;house;beach
+vid148	deer;jump;fence;family	jump;hop;find;fence;eat	fence;backyard;grass;garden;yard	fence;garden;field;grass;forest
+vid1764	person;group	dance;group;wear;be	person;bikini;tribe;suit;stage	stage;beach
+vid1102	person;play;percussionist;musician;drummer	play;perform;drum;display;set	drum;stage;show;music;concert	stage
+vid814	gorilla;monkey;person;ape;song	play;go;drum;ply;call	drum;music;gorilla;costume;set	
+vid1793	cat;dog;a	walk;attack;sneak;prowl;move	grass;garden;cat;camera;yard	grass;garden;ground
+vid244	person;chef;rim;make;item	wipe;clean;prepare;edge;bowl	bowl;food;edge;rim;dish	
+vid653	car;person;radio	race;run;drift;come;speed	track;race;car;stadium;slide	road
+vid453	person;ride;one;it	ride;go;think;drive;bicycle	bicycle;motorbike;field;grass;rain	garden;grass;rain;mountain
+vid497	person	play;sing;ply;enjoy;sort	guitar;sort;music;song;sitar	house
+vid313	dog;bulldog;person	ride;skateboard;skate;show;move	skateboard;road;skate;street;video	road
+vid411	person;lemur;monkey;bushbaby	scratch;play;pet;tickle;hold	animal;lemur;arm;person;armpit	sky
+vid928	cat;piano;dog	play;paw;hit;rub;strike	piano;key;pet;paw;play	
+vid444	dog;doberman;don	slide;jump;play;go;run	pool;water;slide;bath;upside	pool
+vid675	person;supplier;jack;chef	put;place;make;transfer;piece	container;chicken;wing;piece;food	
+vid290	person;cook;chef	pour;add;cook;put;fry	onion;pan;skillet;vegetable;pot	
+vid91	person;vegetable;food;one;cut	slice;cut;piece;cook;be	meat;fish;piece;strip;food	
+vid1896	person;stone;slab;it	break;hit;lay;hammer;smash	slab;concrete;person;hammer;stone	
+vid1152	person;fancy	do;play;keep;kick;perform	ball;trick;foot;football;air	sky;floor
+vid1942	person	cut;slice;chop;prepare;dice	onion;tomato;vegetable;potato;knife	house
+vid1459	person;chef;cook	spread;unroll;cook;prepare;roll	dough;pan;sheet;it;work	kitchen
+vid1877	person;knife;trick	play;do;flip;perform;demonstrate	knife;trick;hand;blade;thing	
+vid405	person;cook;place;it;chef	pour;spread;cook;transfer;put	rice;pan;pot;skillet;plate	
+vid1587	person;cat;play;it	play;make;hold;wear;show	cat;paw;dress;dance;person	
+vid761	hamster;rat;mouse;person	eat;stuff;sniff;trail;take	seed;food;trail;nut;vegetable	
+vid464	person;cook;chef	knead;make;roll;prepare;mix	dough;pasta;step;counter;wad	
+vid1377	person;chef	pour;add;can;sauce;put	sauce;pot;can;sausage;pan	
+vid534	person	sing;talk;speak;wear;stand	microphone;song;mike;rain;headphone	rain;house
+vid1202	person;chef	decorate;place;put;slice;add	strawberry;cake;slice;shortcake;piece	
+vid496	person;chef;baker	roll;make;use;prepare;do	dough;cake;pin;surface;round	floor
+vid629	person	wrap;cover;block;turn;put	tofu;paper;block;food;pan	
+vid352	person;toddler;baby;plant	water;spray;use;squirt;give	plant;water;bottle;flower;garden	grass;garden
+vid1321	person;pet;guitar;dog	pet;hold;play;sing;sit	dog;guitar;step;song;pet	stairs
+vid87	person;one	put;boil;cook;add;place	shrimp;water;skewer;sushi;stick	
+vid1907	person	type;use;tie	machine;stenograph;word;typewriter;stenographer	house
+vid277	person;hand;type	type;work;use;attach;place	keyboard;laptop;computer;type;top	
+vid678	person	slice;cut;prepare;use;make	lemon;orange;fruit;drink;piece	kitchen
+vid476	cat;use;kitty	use;go;do;sit;shit	toilet;bathroom;shit;rim;waste	
+vid682	person;alexander	pour;drink;dance;open;sway	drink;bottle;wine;music;glass	
+vid86	person;vegetable;sushi;one;hand	put;skewer;insert;push;prepare	shrimp;skewer;stick;sushi;world	
+vid135	person;baby;toddler	drink;take;eat;sip;have	cup;water;food;bottle;straw	
+vid107	person;people;group	play;game;want;talk;group	football;rugby;person;game;yard	garden;field
+vid561	person;ball;people;master;it	fall;kick;try;miss;run	ball;floor;person;it;grind	floor;ground
+vid973	person;student;dancer	dance;perform;do	stage;dance;costume;routine;student	stage
+vid886	person	tap;drum;sit;show;type	finger;table;nail;fingernail;counter	
+vid1076	person;chef;hand;cook	roll;make;prepare;use;piece	dough;pin;base;pizza;piece	
+vid1240	person;reporter	talk;give;speak;interview;take	interview;tv;person;studio;show	house
+vid784	person;women;rice;mixture	use;blend;make;add;prepare	blender;food;water;ingredient;mixture	kitchen
+vid1843	person;gun	shoot;fire;see;show;gun	gun;shotgun;motion;rifle;blast	sky
+vid533	person;builder;bodybuilder	lift;do;work;weightlift;pump	weight;exercise;barbell;hand;workout	
+vid949	person;one;item;chef	pour;add;cook;make;cup	water;pot;pan;cup;rice	
+vid591	dog;cat;it;stand	fight;play;bark;tease;rough	dog;cat;room;paw;leg	house
+vid230	person;baby;toddler	dance;watch;see;perform;name	video;tv;person;dance;song	house;stairs;floor
+vid1157	person;belly;jump	jump;dive;flop;perform;end	water;cliff;rock;lake;river	pool;beach;mountain
+vid767	person;manner;key;hand	play;use;teach;sort;note	keyboard;piano;hand;synthesizer;instrument	
+vid1706	person;slice;item;chef	slice;cut;make;piece;prepare	pumpkin;fruit;vegetable;cantaloupe;slice	
+vid1289	person;a	hit;hammer;use;piece;cut	knife;wood;stick;piece;board	forest
+vid1304	person;member	speak;talk;give;gather;stun	microphone;crowd;speech;party;rally	
+vid1757	person	put;place;keep;prepare;cook	oven;food;tray;pastry;sheet	
+vid373	person;vegetable;dice;cut;cook	slice;chop;cut;dice;cook	onion;bean;piece;chilli;vegetable	
+vid968	person;salad;it;chef	cut;slice;make;cook;show	potato;salad;piece;wedge;sort	
+vid1525	cat;ferret;kitten;pet;lie	play;fight;keep;wrestle;paw	ferret;cat;weasel;stand;person	house;floor
+vid791	person	apply;put;paint;do;talk	lipstick;lip;makeup;gloss;make	
+vid1948	person;pilot;welcome;land;instructor	push;move;pull;try;stand	aeroplane;airplane;flight;aircraft;propeller	garden;field
+vid1369	person;cat	brush;comb;do;clean;play	cat;hair;stomach;kitten;belly	
+vid689	panda;bear;person;dog;animal	eat;sit;stick;play;feature	bamboo;plant;stick;matter;leaf	grass;forest
+vid1784	person;men;kick;artist	kick;practice;do;box;spar	box;person;pad;trainer;karate	
+vid292	person	put;add;cook;stir;pour	vegetable;pan;skillet;meat;food	
+vid219	person	do;perform;play;show;deck	trick;card;magic;deck;pack	
+vid61	person;group	dance;man;wear;watch;group	person;hat;diner;dance;uniform	
+vid115	rocket;missile;video;structure;rock	explode;blow;blast;fall;burn	sky;air;grind;fire;way	sky;ground
+vid1235	person	slice;cut;prepare;chop;jack	tomato;half;knife;piece;salad	kitchen
+vid1782	sergeant;person;officer;sargent;instructor	talk;walk;give;inspect;speak	soldier;recruit;person;line;instruction	house
+vid1139	baby;person;toddler;s;finger	bite;get;finger;put;bit	finger;person;mouth;bite;baby	
+vid959	person;chef	put;grill;place;fish;cook	fish;grill;rack;piece;dish	
+vid854	baby;person;toddler	walk;play;stand;wake;run	hallway;house;hall;room;baby	house;kitchen;floor
+vid772	person;clean	scrub;clean;wash;use;scrape	zucchini;vegetable;cucumber;brush;fruit	
+vid769	person;ride;horse	ride;horse;gallop;trot;go	horse;field;ride;pony;person	garden;grass
+vid1771	tiger;person	walk;pace;be;move;roam	cage;zoo;pen;enclosure;sheep	ground
+vid613	person	shoot;aim;fire;pull;put	gun;pistol;revolver;colt;person	
+vid776	child;person;it;word;swing	play;run;leave;swing;word	playground;park;rain;person;building	field;garden;rain;house
+vid240	baby;person	laugh;sit;make;look;smile	chair;sound;response;reaction;person	
+vid1644	person;song;singer	sing;stand;tell;rap;hear	stage;microphone;suit;song;music	stage
+vid732	person	drink;pour;put;mix;add	coffee;sugar;it;cup;tea	
+vid1810	person;toad;us;s;frog	hold;sit;show;frog;palm	hand;frog;toad;palm;person	
+vid1073	goose;duck;swan;person;animal	attack;bite;chase;run;play	person;behind;duck;thing;pen	garden
+vid60	person;cyclist	ride;race;pedal;observe;drive	track;motorbike;bicycle;record;vehicle	road;ground
+vid1862	person;stand;baby	play;sing;stand;instrument	violin;beach;sand;music;instrument	beach
+vid974	person;instrument	play;hold;wear;sit;ply	guitar;instrument;sunglass;tar;table	house
+vid1271	person	slice;cut;chop;top;ready	onion;cleaver;end;top;tomato	
+vid1875	person;artist;animator	draw;sketch;make;talk;picture	character;cartoon;picture;peanut;paper	
+vid947	person;chef;one;cook	pour;add;make;measure;fill	spoon;egg;vanilla;sauce;liquid	
+vid68	person;food	add;pour;put;dump;cook	vegetable;pot;bowl;oil;stave	kitchen
+vid130	cat;straw;it	play;remove;paw;get;pick	bowl;water;stick;dish;straw	house
+vid1885	person;field;farmer;clip;clear	till;use;cut;push;mow	field;tiller;grass;machine;lawn	garden;grass;ground
+vid1203	person	talk;speak;have;make;converse	person;conversation;movie;matter;wife	
+vid82	cat;person;gate	jump;climb;walk;try;leap	gate;fence;door;barricade;wall	fence;wall
+vid1200	person;meet;mann	put;place;piece;take;add	bag;meat;chicken;piece;breast	kitchen
+vid1964	toy;person;fish;shark;puppet	swim;move;take;float;be	water;bathtub;tub;liquid;bath	pool
+vid927	person;leg	do;exercise;work;use;sit	exercise;machine;gym;weight;work	
+vid711	person;scene	hang;shake;talk;speak;think	phone;head;telephone;person;date	house
+vid593	lemur;animal;monkey;bear	sit;watch;look;face;check	grind;road;human;haunch;upright	ground;road;grass
+vid71	person	pour;add;can;put;contain	sauce;pot;vegetable;pan;can	
+vid1905	person;duck	climb;pull;do;walk;suspend	rope;exercise;build	
+vid1552	person;chef;cook	slice;cut;chop;dice;improve	pepper;tomato;knife;capsicum;vegetable	
+vid1024	person;fries;vegetable;fry;chef	add;put;pour;fry;cook	pan;oil;onion;skillet;ingredient	kitchen
+vid1313	person;video;rake	clean;hoe;use;garden;till	garden;grind;hoe;work;suit	garden;ground;road;grass;forest
+vid662	person;drummer;practice;play;percussionist	play;go;drum;sit;set	drum;set;music;gym;workout	floor
+vid69	person;vegetable;one;chef	stir;mix;make;cook;prepare	vegetable;pot;pan;ingredient;dish	
+vid1863	animal;wit;rat;monkey;mammal	eat;chew;sit;piece;nibble	food;piece;paw;rest;it	
+vid646	person;baby;terrorist	put;baby;place;cry;terrorize	baby;can;person;trash;water	
+vid1617	person;cook	cook;fry;stir;saute;make	onion;pan;soup;stave;skillet	
+vid263	person;female;play;music;flute	play;sit;blow;perform;enjoy	flute;instrument;chair;while;person	
+vid1266	person;swimmer;group;player;participant	dive;jump;swim;group;participate	pool;water;swim;person;race	pool
+vid805	person;it	die;hold;talk;say;try	person;arm;grind;rainstorm;pain	ground
+vid1874	person;baby	dance;play;perform;move;skip	room;music;dance;home;floor	house;floor
+vid70	person;cook	add;put;season;make;cook	vegetable;pot;ingredient;food;spice	
+vid1470	person;chicken;cook;chef	chop;cut;slice;make;dice	vegetable;garlic;knife;chicken;mushroom	
+vid489	person;camera;durability;550d	burn;torch;be;test;set	camera;fire;torch;side;flame	
+vid1828	person;song	get;wake;sit;pull;side	bed;sleep;morn;work;side	
+vid183	car;person;police;vehicle;road	drive;chase;escape;push;move	car;road;police;highway;freeway	road;wall
+vid125	cat	meow;hiss;snarl;open;do	cage;mouth;camera;anger	
+vid1036	person	cut;slice;chop;remove;make	cube;slice;food;wrapper;video	
+vid433	person;lot;log	pour;pore;burn;sprinkle;make	fire;gasoline;flag;bonfire;wood	forest
+vid1910	person;baker;individual;chef;worker	make;form;roll;twist;prepare	pretzel;dough;strip;shape;person	kitchen
+vid1585	person;cook;chef;pan	grate;shred;bowl;make;cut	potato;water;bowl;pancake;pan	
+vid131	person;act	whip;beat;hit;tie;whack	person;pole;belt;whip;street	road
+vid1342	person;program;one;loaf;good	spread;make;put;butter;piece	bread;butter;spoon;roll;piece	floor
+vid256	dog;poodle;puppy	run;walk;play	sidewalk;road;walk;street	road
+vid1430	person;cook;one;chef	slice;cut;make;wear	tomato;knife;piece;slice;salad	
+vid1434	person	play;sort;note	piano;stage;sort;song;recital	stage
+vid1740	person;lover;couple	walk;talk;stroll;sing;stand	field;garden;tree;person;wood	garden;forest;tree;grass;field
+vid696	cat;person;head;dog	play;be;pounce;cat;tease	trampoline;cat;person;sheet;while	
+vid287	fox;animal;dog;person;food	eat;plate;have;enjoy;take	food;plate;dish;patio;sort	house
+vid1968	person;paramedic;personnel;peron;count	wheel;push;bring;ride;go	hospital;stretcher;gurney;room;person	house
+vid8	person;flour;cook	sift;filter;flour;dust;sprinkle	pan;sugar;flour;powder;tray	
+vid993	person;chef;one;cook	slice;cut;stack;dice;chop	pepper;tomato;vegetable;knife;technique	
+vid1827	person;chicken;cook;chef;roast	season;sprinkle;add;put;mix	chicken;bowl;spice;piece;recipe	
+vid141	person;fish;cook;it;chef	fry;serve;cook;prepare;make	fish;pan;wok;plate;fry	
+vid773	person;typist;hand;finger	type;tie;stroke;make;use	keyboard;computer;stroke;minute;board	
+vid1378	person;cook;chef	pour;put;make;add;cook	bowl;noodle;pasta;plate;dish	kitchen
+vid1813	car;person;it;a;couple	drive;move;run;travel;go	car;hill;person;movie;boat	mountain;road;ground;grass;garden
+vid410	person	add;pour;season;make;put	meat;sauce;ingredient;bowl;sugar	
+vid1105	car;person;dune;vehicle;buggy	climb;drive;try;go;ride	hill;mountain;top;side;hillside	mountain;rain;beach
+vid553	person;child;group;it	dance;perform;group;sing;do	stage;person;routine;dance;time	stage;floor
+vid449	person;s;meat	cook;pour;prepare;add;stir	wok;meat;beef;food;it	kitchen
+vid1680	person	kiss;hug;fuck;feel	person;room;video;stand	house
+vid752	dog;stick;pole;it;german	carry;pick;take;run;get	stick;gate;mouth;it;door	forest;road;ground;fence
+vid1600	person	do;fight;practice;defend;have	art;karate;field;fight;move	garden
+vid1080	person;chef;slice;chop	peel;slice;teach;use;skin	carrot;peeler;vegetable;stroke;strip	kitchen
+vid592	person;stand	open;walk;enter;go;man	door;room;it;doorway;wall	house;wall
+vid1693	person;group;dummy;doll	throw;toss;put;group;get	cliff;mannequin;person;dummy;doll	beach;road;mountain
+vid537	player;person;batsman;batter;pitch	hit;play;score;smash;wait	ball;run;baseball;match;speed	
+vid1811	person;ride;surya;rider;motorbike	ride;fall;crash;skid;slide	motorbike;puddle;mud;water;drink	road;pool;ground
+vid1531	person;bowler;split;player;duckpin	bowl;play;hit;throw;pin	shoot;lane;ball;pin;spare	road
+vid154	person;soldier;actor	climb;pull;take;shimmy;look	rope;warehouse;train;tag;ladder	
+vid297	person;dog;pork;cut	cut;make;piece;slice;put	meat;cut;piece;pork;chop	floor
+vid83	person;one;food	cook;make;roll;egg;use	egg;pan;skillet;omelette;chopstick	
+vid1867	person;surya;it	ride;talk;drive;go;walk	motorbike;person;scooter;traffic;while	road;house
+vid1056	person;chef;cook;chop;an	cut;slice;chop;dice;make	onion;soup;vegetable;knife;slice	
+vid884	person;enjoyment	play;game;work;use;look	game;laptop;computer;web;picture	
+vid1558	person	pour;add;bowl;cook;prepare	pasta;bowl;milk;sauce;noodle	
